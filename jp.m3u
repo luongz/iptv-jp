@@ -66,8 +66,10 @@ http://redlabmcdn.s.llnwi.net/jp01/bs02/index.m3u8
 http://203.162.235.41:16913
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1260862250295812096/a6-UyLc__400x400.jpg" group-title="BS",BS-TBS (2)
 http://redlabmcdn.s.llnwi.net/jp01/bs05/index.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1260862250295812096/a6-UyLc__400x400.jpg" group-title="BS",BS-NipponTV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvCmCc2p/t-i-xu-ng.png" group-title="BS",BS-NipponTV
 http://redlabmcdn.s.llnwi.net/jp01/bs03/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvCmCc2p/t-i-xu-ng.png" group-title="BS",BS-NipponTV (2)
+http://203.162.235.41:16912
 #EXTINF:-1 tvg-id="BSAsahi.jp" tvg-name="BS Asahi" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://company.tv-asahi.co.jp/saiyo/group/img/company/logo-bsasahi.png" group-title="BS",BS Asahi
 http://203.162.235.41:16914
 #EXTINF:-1 tvg-id="BSAsahi.jp" tvg-name="BS Asahi" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://company.tv-asahi.co.jp/saiyo/group/img/company/logo-bsasahi.png" group-title="BS",BS Asahi (2)
@@ -92,10 +94,59 @@ http://redlabmcdn.s.llnwi.net/jp01/bs15/index.m3u8
 http://redlabmcdn.s.llnwi.net/jp01/bs11/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/63Fh3wQV/t-i-xu-ng-1.png" group-title="BS",JSport 3
 http://redlabmcdn.s.llnwi.net/jp01/bs12/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63Fh3wQV/t-i-xu-ng-1.png" group-title="BS",JSport 4
+http://redlabmcdn.s.llnwi.net/jp01/cs02/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/h4rjcs3v/disney-channel-logo.webp" group-title="BS",Disney Channel
 http://redlabmcdn.s.llnwi.net/jp01/bs13/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y97rwL6Q/Animax-logo-svg.png" group-title="BS",Animax
 http://redlabmcdn.s.llnwi.net/jp01/bs14/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ya4yHpC.jpg group-title="BS",Nippon TV News 24
+https://n24-cdn-live-b.ntv.co.jp/ch01/High.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ya4yHpC.jpg" group-title="BS",Nippon TV News 24
+https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ya4yHpC.jpg" group-title="BS",NTV News24
+https://www.news24.jp/livestream/index.m3u8
 #CS
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y0VTMT5T/t-i-xu-ng-2.png" group-title="CH",WOWOWシネマ (Wowow Cinema)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DZ9vvxRx/logo-nitteleplus.png" group-title="CS",日テレジータ
+http://redlabmcdn.s.llnwi.net/jp01/cs01/index.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1260862250295812096/a6-UyLc__400x400.jpg" group-title="CS",Golf Network
+http://redlabmcdn.s.llnwi.net/jp01/cs03/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/05GRK5Sk/Kids-Station-Logo.png" group-title="CS",Kids Station
+http://redlabmcdn.s.llnwi.net/jp01/cs04/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y0VTMT5T/t-i-xu-ng-2.png" group-title="CS",WOWOWシネマ (Wowow Cinema)
 http://203.162.235.41:16916
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y0VTMT5T/t-i-xu-ng-2.png" group-title="CS",WOWOWシネマ (Wowow Cinema)
+http://redlabmcdn.s.llnwi.net/jp01/cs07/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PfSyRBsb/header-neco-2x.png" group-title="CS",NECO
+http://redlabmcdn.s.llnwi.net/jp01/cs05/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTKR0pGC/Qi-COTMh-400x400.jpg" group-title="CS",Discovery
+http://redlabmcdn.s.llnwi.net/jp01/cs06/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvCmCc2p/t-i-xu-ng.png" group-title="CS",GAORA
+http://203.162.235.41:16924/
+
+#OTHER
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/155m9Vdh/cityog.png" group-title="OTHER",Hirosima Weather Channel
+https://hiroshima-tv-live.hls.wselive.stream.ne.jp/hiroshima-tv-live/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fWH4f28p/Weathernews-logo-svg.png" group-title="OTHER",Weather Channel
+http://movie.mcas.jp/mcas/wn1_2/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rXrSsiI.jpg" group-title="OTHER",CGNTV Japan
+http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8AM9fC8.jpg" group-title="OTHER",GSTV
+https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gtv_logo_ja_01.svg/800px-Gtv_logo_ja_01.svg.png" group-title="OTHER",Gunma TV
+https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://dbbovgtu2bg0x.cloudfront.net/uploads/program/main_image/749853303/app_app_wether_news.png" group-title="OTHER",Weather News
+https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3K36JEA.jpg" group-title="OTHER",Shop Channel
+https://stream3.shopch.jp/HLS/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsgTx7FR/jp-shop-channe-5122.jpg" group-title="OTHER",Shop CH Server VIP
+http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsgTx7FR/jp-shop-channe-5122.jpg" group-title="OTHER",Shop CH (2)
+http://stream1.shopch.jp/HLS/out2/prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsgTx7FR/jp-shop-channe-5122.jpg" group-title="OTHER",Shop CH (3)
+http://stream1.shopch.jp/HLS/out3/prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsgTx7FR/jp-shop-channe-5122.jpg" group-title="OTHER",Shop CH (4)
+http://stream1.shopch.jp/HLS/out4/prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9u9TaMA.png" group-title="OTHER",QVC Japan
+https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+
