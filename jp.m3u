@@ -39,8 +39,6 @@ http://redlabmcdn.s.llnwi.net/jp01/ryowa5/index.m3u8
 https://movie.mcas.jp/mcas/smil:mx1_prod.smil/master.m3u8
 #EXTINF:-1 tvg-id="TokyoMX1.jp" tvg-name="Tokyo MX1" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="KANTO",Tokyo MX1 (2)
 http://redlabmcdn.s.llnwi.net/jp01/ryowa8/index.m3u8
-#EXTINF:-1 tvg-id="TokyoMX1.jp" tvg-name="Tokyo MX1" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="KANTO",Tokyo MX1
-https://tokyomx.mov3.co/hls/tokyomx.m3u8
 #EXTINF:-1 tvg-id="TokyoMX2.jp" tvg-name="Tokyo MX2" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="KANTO",Tokyo MX2
 https://movie.mcas.jp/mcas/smil:mx2_prod.smil/master.m3u8
 #EXTINF:-1 tvg-id="TVAsahi.jp" tvg-name="TV Asahi" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1280px-TV_Asahi_Logo.svg.png" group-title="KANTO",TV Asahi
@@ -112,7 +110,7 @@ https://www.news24.jp/livestream/index.m3u8
 #CS
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DZ9vvxRx/logo-nitteleplus.png" group-title="CS",日テレジータ
 http://redlabmcdn.s.llnwi.net/jp01/cs01/index.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1260862250295812096/a6-UyLc__400x400.jpg" group-title="CS",Golf Network
+#EXTINF:-1 tvg-logo="https://cdn.mydhtv.com/channels/thumbs/22b83525f2a34fcca2337f147719d5c3.png" group-title="CS",Golf Network
 http://redlabmcdn.s.llnwi.net/jp01/cs03/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/05GRK5Sk/Kids-Station-Logo.png" group-title="CS",Kids Station
 http://redlabmcdn.s.llnwi.net/jp01/cs04/index.m3u8
@@ -128,7 +126,7 @@ http://redlabmcdn.s.llnwi.net/jp01/cs06/index.m3u8
 http://203.162.235.41:16924/
 
 #OTHER
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/155m9Vdh/cityog.png" group-title="OTHER",Hirosima Weather Channel
+#EXTINF:-1 group-title="OTHER",Hirosima TV
 https://hiroshima-tv-live.hls.wselive.stream.ne.jp/hiroshima-tv-live/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fWH4f28p/Weathernews-logo-svg.png" group-title="OTHER",Weather Channel
 http://movie.mcas.jp/mcas/wn1_2/master.m3u8
