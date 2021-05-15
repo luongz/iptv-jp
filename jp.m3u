@@ -1,56 +1,59 @@
 #EXTM3U
-#EXTINF:0 group-title="INFO" tvg-logo="https://i.postimg.cc/MHTWZzbf/images.png", Github : YunomiSakura
-http://lol.tk/
+#EXTM3U url-tvg="https://tvguide.myjcom.jp/" tvg-shift=0 m3uautoload=1
+#EXTM3UF:0 group-title="INFO" tvg-logo="https://i.postimg.cc/MHTWZzbf/images.png", Github : YunomiSakura
+lol.tk
 
 
 
 
-#MAIN CH
-#EXTINF:-1 tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="CH",NHK General
+#MAIN KANTO
+#EXTINF:-1 tvg-id="NHK東京　総合" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="KANTO",NHK General
 http://203.162.235.41:16903
-#EXTINF:-1 tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="CH",NHK General (SV2)
+#EXTINF:-1 tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="KANTO",NHK General (SV2)
 http://redlabmcdn.s.llnwi.net/jp01/ryowa2/index.m3u8
-#EXTINF:-1 tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="CH",NHK General (SV3)
+#EXTINF:-1 tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="KANTO",NHK General (SV3)
 https://nhk.mov3.co/hls/nhk.m3u8
-#EXTINF:-1 tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.postimg.cc/Bv8w4cy9/200px-NHKE-2020.png" group-title="CH",NHK
+#EXTINF:-1 tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.postimg.cc/Bv8w4cy9/200px-NHKE-2020.png" group-title="KANTO",NHK E
+http://redlabmcdn.s.llnwi.net/jp01/ryowa1/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/200px-NHK_logo_2020.svg.png" group-title="KANTO",NHK
 http://203.162.235.41:16901
-#EXTINF:-1 tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.ibb.co/hK8gZyJ/fujitvlogobyvovanloc.png" group-title="CH",Fuji TV
+#EXTINF:-1 tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.ibb.co/hK8gZyJ/fujitvlogobyvovanloc.png" group-title="KANTO",Fuji TV
 https://fujitv.mov3.co/hls/fujitv.m3u8
-#EXTINF:-1 tvg-id="FujiTVJOCXDTV.jp" tvg-name="Fuji TV (JOCX-DTV)" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png" group-title="CH",Fuji TV (2)
+#EXTINF:-1 tvg-id="FujiTVJOCXDTV.jp" tvg-name="Fuji TV (JOCX-DTV)" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png" group-title="KANTO",Fuji TV (2)
 http://203.162.235.41:16904
-#EXTINF:-1 tvg-id="FujiTVJOCXDTV.jp" tvg-name="Fuji TV (JOCX-DTV)" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png" group-title="CH",Fuji TV (3)
+#EXTINF:-1 tvg-id="FujiTVJOCXDTV.jp" tvg-name="Fuji TV (JOCX-DTV)" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png" group-title="KANTO",Fuji TV (3)
 http://redlabmcdn.s.llnwi.net/jp01/ryowa7/index.m3u8
-#EXTINF:-1 group-title="CH" tvg-logo="https://i.ibb.co/nfC2MXP/Nippontvlogobyvovanloc.png", Nippon TV
+#EXTINF:-1 group-title="KANTO" tvg-logo="https://i.ibb.co/nfC2MXP/Nippontvlogobyvovanloc.png", Nippon TV
 http://203.162.235.41:16905
-#EXTINF:-1 group-title="CH" tvg-logo="https://i.ibb.co/nfC2MXP/Nippontvlogobyvovanloc.png", Nippon TV (2)
+#EXTINF:-1 group-title="KANTO" tvg-logo="https://i.ibb.co/nfC2MXP/Nippontvlogobyvovanloc.png", Nippon TV (2)
 http://redlabmcdn.s.llnwi.net/jp01/ryowa3/index.m3u8
-#EXTINF:-1 group-title="CH" tvg-logo="https://i.ibb.co/nfC2MXP/Nippontvlogobyvovanloc.png", Nippon TV (3)
+#EXTINF:-1 group-title="KANTO" tvg-logo="https://i.ibb.co/nfC2MXP/Nippontvlogobyvovanloc.png", Nippon TV (3)
 https://ntv.mov3.co/hls/ntv.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/1280px-Tokyo_Broadcasting_System_logo_2020.svg.png" group-title="CH",TBS 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/1280px-Tokyo_Broadcasting_System_logo_2020.svg.png" group-title="KANTO",TBS 
 https://tbs.mov3.co/hls/tbs.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/1280px-Tokyo_Broadcasting_System_logo_2020.svg.png" group-title="CH",TBS (2)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/1280px-Tokyo_Broadcasting_System_logo_2020.svg.png" group-title="KANTO",TBS (2)
 http://203.162.235.41:16907
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/1280px-Tokyo_Broadcasting_System_logo_2020.svg.png" group-title="CH",TBS (3)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/1280px-Tokyo_Broadcasting_System_logo_2020.svg.png" group-title="KANTO",TBS (3)
 http://redlabmcdn.s.llnwi.net/jp01/ryowa5/index.m3u8
-#EXTINF:-1 tvg-id="TokyoMX1.jp" tvg-name="Tokyo MX1" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="CH",Tokyo MX1
+#EXTINF:-1 tvg-id="TokyoMX1.jp" tvg-name="Tokyo MX1" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="KANTO",Tokyo MX1
 https://movie.mcas.jp/mcas/smil:mx1_prod.smil/master.m3u8
-#EXTINF:-1 tvg-id="TokyoMX1.jp" tvg-name="Tokyo MX1" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="CH",Tokyo MX1 (2)
+#EXTINF:-1 tvg-id="TokyoMX1.jp" tvg-name="Tokyo MX1" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="KANTO",Tokyo MX1 (2)
 http://redlabmcdn.s.llnwi.net/jp01/ryowa8/index.m3u8
-#EXTINF:-1 tvg-id="TokyoMX1.jp" tvg-name="Tokyo MX1" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="CH",Tokyo MX1
+#EXTINF:-1 tvg-id="TokyoMX1.jp" tvg-name="Tokyo MX1" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="KANTO",Tokyo MX1
 https://tokyomx.mov3.co/hls/tokyomx.m3u8
-#EXTINF:-1 tvg-id="TokyoMX2.jp" tvg-name="Tokyo MX2" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="CH",Tokyo MX2
+#EXTINF:-1 tvg-id="TokyoMX2.jp" tvg-name="Tokyo MX2" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="KANTO",Tokyo MX2
 https://movie.mcas.jp/mcas/smil:mx2_prod.smil/master.m3u8
-#EXTINF:-1 tvg-id="TVAsahi.jp" tvg-name="TV Asahi" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1280px-TV_Asahi_Logo.svg.png" group-title="CH",TV Asahi
+#EXTINF:-1 tvg-id="TVAsahi.jp" tvg-name="TV Asahi" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1280px-TV_Asahi_Logo.svg.png" group-title="KANTO",TV Asahi
 http://203.162.235.41:16906
-#EXTINF:-1 tvg-id="TVAsahi.jp" tvg-name="TV Asahi" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1280px-TV_Asahi_Logo.svg.png" group-title="CH",TV Asahi (2)
+#EXTINF:-1 tvg-id="TVAsahi.jp" tvg-name="TV Asahi" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1280px-TV_Asahi_Logo.svg.png" group-title="KANTO",TV Asahi (2)
 http://redlabmcdn.s.llnwi.net/jp01/ryowa4/index.m3u8
-#EXTINF:-1 tvg-id="TVAsahi.jp" tvg-name="TV Asahi" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1280px-TV_Asahi_Logo.svg.png" group-title="CH",TV Asahi (3)
+#EXTINF:-1 tvg-id="TVAsahi.jp" tvg-name="TV Asahi" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1280px-TV_Asahi_Logo.svg.png" group-title="KANTO",TV Asahi (3)
 https://tvasahi.mov3.co/hls/tvasahi.m3u8
-#EXTINF:-1 tvg-id="TVTokyo.jp" tvg-name="TV Tokyo" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/vgEnHX6.png" group-title="CH",TV Tokyo
+#EXTINF:-1 tvg-id="TVTokyo.jp" tvg-name="TV Tokyo" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/vgEnHX6.png" group-title="KANTO",TV Tokyo
 http://203.162.235.41:16908
-#EXTINF:-1 tvg-id="TVTokyo.jp" tvg-name="TV Tokyo" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/vgEnHX6.png" group-title="CH",TV Tokyo (2)
+#EXTINF:-1 tvg-id="TVTokyo.jp" tvg-name="TV Tokyo" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/vgEnHX6.png" group-title="KANTO",TV Tokyo (2)
 http://redlabmcdn.s.llnwi.net/jp01/ryowa6/index.m3u8
-#EXTINF:-1 tvg-id="TVTokyo.jp" tvg-name="TV Tokyo" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/vgEnHX6.png" group-title="CH",TV Tokyo (3)
+#EXTINF:-1 tvg-id="TVTokyo.jp" tvg-name="TV Tokyo" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/vgEnHX6.png" group-title="KANTO",TV Tokyo (3)
 https://tvtokyo.mov3.co/hls/tvtokyo.m3u8
 
 #BS
@@ -139,14 +142,23 @@ https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8
 https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3K36JEA.jpg" group-title="OTHER",Shop Channel
 https://stream3.shopch.jp/HLS/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsgTx7FR/jp-shop-channe-5122.jpg" group-title="OTHER",Shop CH Server VIP
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsgTx7FR/jp-shop-channe-5122.jpg" group-title="OTHER",Shop Server VIP
 http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsgTx7FR/jp-shop-channe-5122.jpg" group-title="OTHER",Shop CH (2)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsgTx7FR/jp-shop-channe-5122.jpg" group-title="OTHER",Shop (2)
 http://stream1.shopch.jp/HLS/out2/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsgTx7FR/jp-shop-channe-5122.jpg" group-title="OTHER",Shop CH (3)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsgTx7FR/jp-shop-channe-5122.jpg" group-title="OTHER",Shop (3)
 http://stream1.shopch.jp/HLS/out3/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsgTx7FR/jp-shop-channe-5122.jpg" group-title="OTHER",Shop CH (4)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsgTx7FR/jp-shop-channe-5122.jpg" group-title="OTHER",Shop (4)
 http://stream1.shopch.jp/HLS/out4/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9u9TaMA.png" group-title="OTHER",QVC Japan
 https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 
+#TEST
+#EXTINF:-1group-title="TEST",all channel are test
+dl.lol
+#EXTINF:-1 tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.postimg.cc/6pZcHLyy/t-i-xu-ng.png" group-title="TEST SV1",ABC
+http://14.102.154.164:5023/live/321
+#EXTINF:-1 tvg-id="BSAsahi.jp" tvg-name="BS Asahi" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://company.tv-asahi.co.jp/saiyo/group/img/company/logo-bsasahi.png" group-title="TEST SV1",BS Asahi
+http://14.102.154.164:5021/live/308
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6q9RhnF4/eff360d2ea781e31659c6bb5a7cf8c64-400x400.png group-title="TEST SV1"BS SportChannel
+http://14.102.154.164:5021/live/58
