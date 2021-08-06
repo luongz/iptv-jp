@@ -1,8 +1,7 @@
 #EXTM3U
 #EXTM3U url-tvg="https://raw.githubusercontent.com/pcccw/Ark/main/EPG/guide_71jk.xml" tvg-shift=0 m3uautoload=1
 
-#EXTM3UF:0 group-title="INFO" tvg-logo="https://i.postimg.cc/MHTWZzbf/images.png", Github : yormuiri
-lol.tk
+
 
 
 
@@ -97,6 +96,9 @@ http://203.162.235.41:16914
 
 #EXTINF:-1 tvg-id="BSTVTokyoBS171.jp" tvg-name="BS TV Tokyo (BS171)" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/1280px-TV_Tokyo_logo_20110629.svg.png" group-title="BS",BS - TV Tokyo (iHome Link)
 http://203.162.235.41:16915
+
+#EXTINF:-1 tvg-id="BSTVTokyoBS171.jp" tvg-name="BS TV Tokyo (BS171)" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/1280px-TV_Tokyo_logo_20110629.svg.png" group-title="BS",BS - TV Tokyo (Akamai Link)
+https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index.m3u8
 
 #EXTINF:-1 tvg-id="BSFujiBS181.jp" tvg-name="BS Fuji (BS181)" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.zne-iptv.com/wp-content/uploads/2017/10/22-BS-FUJI-770x480.jpg" group-title="BS",BS Fuji (iHome Link)
 http://203.162.235.41:16911
