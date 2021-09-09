@@ -10,27 +10,26 @@
 #EXTINF:-1 tvg-id="NHG.JP" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="KANTO",NHK G (iHome Link)
 http://203.162.235.41:16903
 #EXTINF:-1 tvg-id="NHG.JP" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="KANTO",NHK G (MOV3 Link)
-https://nhk.mov3.co/hls/nhk.m3u8
+https://nhk1.mov3.co/hls/nhk.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/200px-NHK_logo_2020.svg.png" group-title="KANTO",NHK (iHome Link)
 http://203.162.235.41:16901
 
-#EXTINF:-1 tvg-id="NHE.JP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png" group-title="KANTO",NHK E (mydhtv)
-http://1.179.247.11:1935/jptv/kanto_nhk_edu_540/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="FUJ.JP" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.ibb.co/hK8gZyJ/fujitvlogobyvovanloc.png" group-title="KANTO",Fuji TV (MOV3 Link)
-https://fujitv.mov3.co/hls/fujitv.m3u8
+https://fujitv1.mov3.co/hls/fujitv.m3u8
 #EXTINF:-1 tvg-id="FUJ.JP" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png" group-title="KANTO",Fuji TV (IHome Link)
 http://203.162.235.41:16904
 
 #EXTINF:-1 tvg-id="NIP.JP" group-title="KANTO" tvg-logo="https://i.ibb.co/nfC2MXP/Nippontvlogobyvovanloc.png", Nippon TV (iHome Link)
 http://203.162.235.41:16905
 #EXTINF:-1 tvg-id="NIP.JP" group-title="KANTO" tvg-logo="https://i.ibb.co/nfC2MXP/Nippontvlogobyvovanloc.png", Nippon TV (MOV3 Link)
+https://ntv1.mov3.co/hls/ntv.m3u8
+#EXTINF:-1 tvg-id="NIP.JP" group-title="KANTO" tvg-logo="https://i.ibb.co/nfC2MXP/Nippontvlogobyvovanloc.png", Nippon TV (MOV3 Link 2)
 https://ntv.mov3.co/hls/ntv.m3u8
 
 #EXTINF:-1 tvg-id="TBS.JP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/1280px-Tokyo_Broadcasting_System_logo_2020.svg.png" group-title="KANTO",TBS (MOV3 Link)
-https://tbs.mov3.co/hls/tbs.m3u8
-l
+https://tbs1.mov3.co/hls/tbs.m3u8
 #EXTINF:-1 tvg-id="TBS.JP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/1280px-Tokyo_Broadcasting_System_logo_2020.svg.png" group-title="KANTO",TBS (iHome Link)
 http://203.162.235.41:16907
 
@@ -41,15 +40,11 @@ https://movie.mcas.jp/mcas/smil:mx2_prod.smil/master.m3u8
 
 #EXTINF:-1 tvg-id="ASH.JP" tvg-name="TV Asahi" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1280px-TV_Asahi_Logo.svg.png" group-title="KANTO",TV Asahi (iHome Link)
 http://203.162.235.41:16906
-#EXTINF:-1 tvg-id="ASH.JP" tvg-name="TV Asahi" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1280px-TV_Asahi_Logo.svg.png" group-title="KANTO",TV Asahi (MOV3 Link)
-https://tvasahi.mov3.co/hls/tvasahi.m3u8
 
-#EXTINF:-1 tvg-id="BSTVTokyoBS171.jp" tvg-name="BS TV Tokyo (BS171)" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/1280px-TV_Tokyo_logo_20110629.svg.png" group-title="KANTO",TV Tokyo (Akamai Link)
-https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index.m3u8
+
+
 #EXTINF:-1 tvg-id="TOK.JP" tvg-name="TV Tokyo" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/2560px-TV_Tokyo_logo_20110629.svg.png" group-title="KANTO",TV Tokyo (iHome Link)
 http://203.162.235.41:16908
-#EXTINF:-1 tvg-id="TOK.JP" tvg-name="TV Tokyo" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/2560px-TV_Tokyo_logo_20110629.svg.png" group-title="KANTO",TV Tokyo (MOV3 Link)
-https://tvtokyo.mov3.co/hls/tvtokyo.m3u8
 
 #Kansai
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gtv_logo_ja_01.svg/800px-Gtv_logo_ja_01.svg.png" group-title="KANSAI",Gunma TV
@@ -72,6 +67,8 @@ http://203.162.235.41:16914
 
 #EXTINF:-1 tvg-id="BSTVTokyoBS171.jp" tvg-name="BS TV Tokyo (BS171)" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/1280px-TV_Tokyo_logo_20110629.svg.png" group-title="BS",BS - TV Tokyo (iHome Link)
 http://203.162.235.41:16915
+#EXTINF:-1 tvg-id="BSTVTokyoBS171.jp" tvg-name="BS TV Tokyo (BS171)" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/1280px-TV_Tokyo_logo_20110629.svg.png" group-title="BS",BS TV Tokyo (Akamai Link)
+https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index.m3u8
 
 
 
