@@ -5,7 +5,6 @@
 
 
 
-
 #MAIN KANTO
 #EXTINF:-1 tvg-id="NHG.JP" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="KANTO",NHK G (iHome Link)
 http://203.162.235.41:16903
@@ -52,9 +51,14 @@ https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8
 #BS
 #EXTINF:-1 tvg-id="NHKBS1BS101.jp" tvg-name="NHK BS1 (BS101)" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/NHKBS1%E3%83%AD%E3%82%B42020-.png" group-title="BS",NHK BS1 (iHome Link)
 http://203.162.235.41:16909
+#EXTINF:-1 tvg-id="NHKBS1BS101.jp" tvg-name="NHK BS1 (BS101)" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/NHKBS1%E3%83%AD%E3%82%B42020-.png" group-title="BS",NHK BS1 HD (Test buffer)
+http://125.227.210.37:8939/VideoInput/play.ts
 
-#EXTINF:-1 tvg-id="NHKBSPremiumBS103.jp" tvg-name="NHK BS Premium (BS103)" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/NHK_BS%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0_%E6%96%B0%E3%83%AD%E3%82%B4.png" group-title="BS",NHK BS Premium (iHome Link)
+#EXTINF tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/NHK_BS%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0_%E6%96%B0%E3%83%AD%E3%82%B4.png" group-title="BS",NHK BS Premium (iHome Link)
 http://203.162.235.41:16910
+#EXTINF tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/NHK_BS%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0_%E6%96%B0%E3%83%AD%E3%82%B4.png" group-title="BS",NHK BS Premium HD (Test buffer)
+http://125.227.210.37:8940/VideoInput/play.ts
+
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1260862250295812096/a6-UyLc__400x400.jpg" group-title="BS",BS-TBS (iHome Link)
 http://203.162.235.41:16913
