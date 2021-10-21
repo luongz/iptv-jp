@@ -11,8 +11,7 @@ http://203.162.235.41:16903
 #EXTINF:-1 tvg-id="NHG.JP" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="KANTO",NHK G (MOV3 Link)
 https://nhk1.mov3.co/hls/nhk.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png" group-title="KANTO",NHK E 
-rtmp://172.104.101.252:1935/
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/200px-NHK_logo_2020.svg.png" group-title="KANTO",NHK World Premium(iHome Link)
 http://203.162.235.41:16901
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/200px-NHK_logo_2020.svg.png" group-title="KANTO",NHK World Premium
@@ -28,8 +27,6 @@ http://203.162.235.41:16904
 http://203.162.235.41:16905
 #EXTINF:-1 tvg-id="NIP.JP" group-title="KANTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png", Nippon TV (MOV3 Link)
 https://ntv1.mov3.co/hls/ntv.m3u8
-#EXTINF:-1 tvg-id="NIP.JP" group-title="KANTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png", Nippon TV (MOV3 Link 2)
-https://ntv.mov3.co/hls/ntv.m3u8
 
 #EXTINF:-1 tvg-id="TBS.JP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/1280px-Tokyo_Broadcasting_System_logo_2020.svg.png" group-title="KANTO",TBS (MOV3 Link)
 https://tbs1.mov3.co/hls/tbs.m3u8
