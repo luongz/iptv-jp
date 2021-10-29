@@ -11,8 +11,7 @@ http://203.162.235.41:16903
 #EXTINF:-1 tvg-id="NHG.JP" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="KANTO",NHK G (MOV3 Link)
 https://nhk1.mov3.co/hls/nhk.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png" group-title="KANTO",NHK E (rtmp)
-rtmp://157.245.196.159:1935
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/200px-NHK_logo_2020.svg.png" group-title="KANTO",NHK World Premium(iHome Link)
 http://203.162.235.41:16901
@@ -71,8 +70,7 @@ http://203.162.235.41:16913
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wvCmCc2p/t-i-xu-ng.png" group-title="BS",BS-NipponTV (iHome Link)
 http://203.162.235.41:16912
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvCmCc2p/t-i-xu-ng.png" group-title="BS",BS-NipponTV
-rtmp://59.124.75.136/sat/jp101
+
 
 #EXTINF:-1 tvg-id="BSAsahi.jp" tvg-name="BS Asahi" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://company.tv-asahi.co.jp/saiyo/group/img/company/logo-bsasahi.png" group-title="BS",BS Asahi (iHome Link)
 http://203.162.235.41:16914
@@ -86,8 +84,7 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/
 
 #EXTINF:-1 tvg-id="BSFujiBS181.jp" tvg-name="BS Fuji (BS181)" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.zne-iptv.com/wp-content/uploads/2017/10/22-BS-FUJI-770x480.jpg" group-title="BS",BS Fuji (iHome Link)
 http://203.162.235.41:16911
-#EXTINF:-1 tvg-id="BSFujiBS181.jp" tvg-name="BS Fuji (BS181)" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.zne-iptv.com/wp-content/uploads/2017/10/22-BS-FUJI-770x480.jpg" group-title="BS",BS Fuji
-rtmp://59.124.75.136/sat/jp111
+
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/br1xQxhJ/logo-prime.png" group-title="BS",WOWOWプライム (Wowow Prime) (iHome Link)
@@ -97,22 +94,6 @@ rtmp://59.124.75.136/sat/jp081
 #CS
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png" group-title="CS",AT-X
 https://sub2.neetball.net/live/neet.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/2560px-J_Sports_Logo.svg.png" group-title="CS" , J SPORTS 2
-rtmp://59.124.75.136/sat/jp021
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/2560px-J_Sports_Logo.svg.png" group-title="CS",J SPORTS 3
-rtmp://59.124.75.136/sat/jp041
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/2560px-J_Sports_Logo.svg.png" group-title="CS",J SPORTS 3
-rtmp://59.124.75.136/sat/jp071
-#EXTINF:-1 group-title="CS" tvg-logo="https://i.postimg.cc/28CrPz78/logo-65406-138-400x400.png" ,フジテレビONE(Fuji TV 1)
-rtmp://59.124.75.136/sat/jp011
-#EXTINF:-1 group-title="CS" tvg-logo="https://i.postimg.cc/3xR7xnqs/logo-65406-139-400x400.png" ,フジテレビTWO(Fuji TV 2)
-rtmp://59.124.75.136/sat/jp031
-#EXTINF:-1 group-title="CS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Nittele_G%2B_logo.svg/1652px-Nittele_G%2B_logo.svg.png"  ,日テレジータス (NTV G+)
-rtmp://59.124.75.136/sat/jp061
-#EXTINF:-1 group-title="CS" tvg-logo="https://i.postimg.cc/ncWB3wq2/logo-65406-176-400x400.png"  , ＴＢＳチャンネル 2(TBS Ch.2) 
-rtmp://59.124.75.136/sat/jp091
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/02G1fLgR/6KvIEsUN.jpg" group-title="CS"  ,スポーツライブ＋(Sport Live Plus)(106ch)
-rtmp://59.124.75.136/sat/jp051
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sDY2HML1/logo-new.png" group-title="CS",Golf Network
