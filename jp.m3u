@@ -89,8 +89,9 @@ http://203.162.235.41:16911
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/br1xQxhJ/logo-prime.png" group-title="BS",WOWOWプライム (Wowow Prime) (iHome Link)
 http://203.162.235.41:16916
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6rB96NL/t-i-xu-ng.png" group-title="BS",WOWOWプラス (WOWOW Plus)
-rtmp://59.124.75.136/sat/jp081
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/52ZNzxk4/bs-sky-perfect-241.png" group-title="BS",BS SkyPerfecTV (rtmp)
+rtmp://59.124.75.138/sat/jp021
+
 #CS
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png" group-title="CS",AT-X
 https://sub2.neetball.net/live/neet.m3u8
@@ -98,13 +99,18 @@ https://sub2.neetball.net/live/neet.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sDY2HML1/logo-new.png" group-title="CS",Golf Network
 http://203.162.235.41:16924/
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/15QdfbKk/sports-live-plus-jp.png" group-title="CS",Sport Live + (rtmp)
+rtmp://59.124.75.138/sat/jp041
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13H1myh7/fuji-tv-one.png" group-title="CS",Fuji TV One (rtmp)
+rtmp://59.124.75.138/sat/jp031
 #EXTINF:-1 tvg-id="N24.JP" tvg-logo="https://i.imgur.com/Ya4yHpC.jpg group-title="CS",Nippon TV News 24
 https://n24-cdn-live-b.ntv.co.jp/ch01/High.m3u8
 #EXTINF:-1 tvg-id="N24.JP" tvg-logo="https://i.imgur.com/Ya4yHpC.jpg" group-title="CS",Nippon TV News 24
 https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
 #EXTINF:-1 tvg-id="N24.JP" tvg-logo="https://i.imgur.com/Ya4yHpC.jpg" group-title="CS",NTV News24
 https://www.news24.jp/livestream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ya4yHpC.jpg" group-title="CS",NTV News24 (rtmp)
+rtmp://59.124.75.138/sat/jp011
 
 
 
