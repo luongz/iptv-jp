@@ -109,12 +109,11 @@ http://50.7.74.29:8080/hlsok/j00048/index.m3u8
 #EXTINF:-1 tvg-id="BSAsahi.jp" tvg-name="BS Asahi" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://company.tv-asahi.co.jp/saiyo/group/img/company/logo-bsasahi.png" group-title="BS",BS Asahi (iHome Link)
 http://203.162.235.41:16914
 
-#EXTINF:-1 tvg-id="BSTVTokyoBS171.jp" tvg-name="BS TV Tokyo (BS171)" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/1280px-TV_Tokyo_logo_20110629.svg.png" group-title="BS",BS - TV Tokyo
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs-tokyo-jp.png" group-title="BS",BS - TV Tokyo
 http://50.7.74.29:8080/hlsok/j00050/index.m3u8
-#EXTINF:-1 tvg-id="BSTVTokyoBS171.jp" tvg-name="BS TV Tokyo (BS171)" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/1280px-TV_Tokyo_logo_20110629.svg.png" group-title="BS",BS - TV Tokyo (iHome Link)
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs-tokyo-jp.png" group-title="BS",BS - TV Tokyo (iHome Link)
 http://203.162.235.41:16915
-#EXTINF:-1 tvg-id="BSTVTokyoBS171.jp" tvg-name="BS TV Tokyo (BS171)" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/1280px-TV_Tokyo_logo_20110629.svg.png" group-title="BS",BS TV Tokyo (Akamai Link)
-https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index.m3u8
+
 
 
 
@@ -166,9 +165,9 @@ http://50.7.74.29:8080/hlsok/j00015/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.png" group-title="BS",Disney Junior
 http://50.7.74.29:8080/hls/j00016/index.m3u8
 #CS
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png" group-title="CS",AT-X
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png" group-title="CS",AT-X (Stream)
 https://sub2.neetball.net/live/neet.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png" group-title="CS",AT-X (1080p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png" group-title="CS",AT-X (TV)
 http://50.7.74.29:8080/hlsok/j00052/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cartoon_network_global.png" group-title="CS",Cartorn Network
 http://50.7.74.29:8080/hls/j00024/index.m3u8
@@ -176,10 +175,6 @@ http://50.7.74.29:8080/hls/j00024/index.m3u8
 http://50.7.74.29:8080/hls/j00023/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/GAORA_SPORTS_logo.svg/2560px-GAORA_SPORTS_logo.svg.png" group-title="CS",GAORA
 http://50.7.74.29:8080/hlsok/j00045/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/music_japan_tv.png" group-title="CS",Music Japan
-http://211.21.12.236:11935/live/cs17.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/music_air_networks.png" group-title="CS",Music Air
-http://50.7.74.29:8080/hlsok/j00026/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k5fXKzj3/o023302751417597653027.jpg" group-title="CS",Family Gejiko
 http://50.7.74.29:8080/hlsok/j00011/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/toei_channel.png" group-title="CS",Toei Channel
