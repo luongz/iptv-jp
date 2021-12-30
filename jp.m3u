@@ -200,6 +200,8 @@ https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
 #EXTINF:-1 tvg-id="N24.JP" tvg-logo="https://i.imgur.com/Ya4yHpC.jpg" group-title="CS",NTV News24
 https://www.news24.jp/livestream/index.m3u8
 #OTHER
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Htb_logo.svg/2093px-Htb_logo.svg.png" group-title="CS",HTB News24
+http://raw.githubusercontent.com/etag2000/IPTV/YTlive/hokkaidonews.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fWH4f28p/Weathernews-logo-svg.png" group-title="OTHER",Weather Channel
 http://movie.mcas.jp/mcas/wn1_2/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rXrSsiI.jpg" group-title="OTHER",CGNTV Japan
