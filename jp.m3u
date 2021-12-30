@@ -66,6 +66,8 @@ http://50.7.74.29:8080/hlsok/j00032/index.m3u8
 http://50.7.74.29:8080/hlsok/j00034/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/2560px-Mainichi_Broadcasting_System_logo.svg.png" group-title="KANSAI",MBS
 http://50.7.74.29:8080/hlsok/j00038/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/2560px-Asahi_Broadcasting_Corporation_Logo.svg.png" group-title="KANSAI",ABC
+http://50.7.74.29:8080/hlsok/j00053/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/2560px-Yomiuri_Telecasting_Corporation_Logo.svg.png" group-title="KANSAI",YTV
 http://50.7.74.29:8080/hlsok/j00007/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Kantele_logo_2015.png" group-title="KANSAI",Kansai TV
@@ -164,7 +166,9 @@ http://50.7.74.29:8080/hlsok/j00044/index.m3u8
 http://50.7.74.29:8080/hlsok/j00015/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.png" group-title="BS",Disney Junior
 http://50.7.74.29:8080/hls/j00016/index.m3u8
+
 #CS
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png" group-title="CS",AT-X (Stream)
 https://sub2.neetball.net/live/neet.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png" group-title="CS",AT-X (TV)
@@ -187,6 +191,8 @@ http://50.7.74.29:8080/hls/j00020/index.m3u8
 http://203.162.235.41:16924/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sDY2HML1/logo-new.png" group-title="CS",Golf Network
 http://50.7.74.29:8080/hls/j00022/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="CS",Animal Planet
+http://50.7.74.29:8080/hlsok/j00025/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nittele-plus-jp.png" group-title="CS",Nittle Plus
 http://50.7.74.29:8080/hlsok/j00005/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/home-drama-channelpng-jp.png" group-title="CS",Home Drama Channel
