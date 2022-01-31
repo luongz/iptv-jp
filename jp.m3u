@@ -84,7 +84,7 @@ http://203.162.235.41:16911
 http://203.162.235.41:16916
 
 #EXTINF:-1 tvg-id="BS11.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.png" group-title="BS",BS11 (540p RTMP)
-rtmp://ayefuwa.ml/
+rtmp://bs11.ayefuwa.ml/
 
 
 #CS
