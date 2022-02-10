@@ -1,6 +1,8 @@
 # JapanTV
 > An simple Japanese IPTV , update 24/7 with a lot of channel collected all over the world.
 
+Note : This list is using some source from [iptv-org](https://github.com/iptv-org)
+
 [![JapanTV](https://i.postimg.cc/NjHTFgWy/Screenshot-1.png)](https://postimg.cc/xX9qFSjY)
 # How to use?
 Put this M3U Link to your media player that support M3U Playlist!
