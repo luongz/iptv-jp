@@ -8,9 +8,17 @@ Note : This list is using some source from [iptv-org](https://github.com/iptv-or
 Put this M3U Link to your media player that support M3U Playlist!
 > https://raw.githubusercontent.com/luongz/Japan-IPTV/main/jp.m3u
 
+or
+
+> https://bit.ly/japaniptv
+
 [![IMG-20220210-165307.jpg](https://i.postimg.cc/ydQ2Z26J/IMG-20220210-165307.jpg)](https://postimg.cc/47c8CL9Z)
 # I want to request/add/report an channel!
-> If you want to request/add/report an channel , made the issues or contact me by mail , i will try my best to do it!
+> If you want to request/add/report an channel , made the issues or contact me by mail , discord! I will try my best to do it!
+
+Discord : Hiyori#0880
+
+Email : trandinhluong2411@gmail.com
 # I want to donate!
 For sure :)
 > https://www.paypal.me/Tieptran1970
