@@ -143,9 +143,6 @@ http://51.79.193.108:8080/hls/j00018/index.m3u8
 #EXTINF:-1 tvg-id="Star3.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Star_Channel-Japan.svg/2560px-Star_Channel-Japan.svg.png" group-title="BS",Star 3 (720p HLS)
 http://51.79.193.108:8080/hls/j00017/index.m3u8
 
-#EXTINF:-1 tvg-id="BS11.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.png" group-title="BS",BS11 (540p RTMP)
-rtmp://bs11.ayefuwa.ml/
-
 #EXTINF:-1 tvg-id="FishingVision.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tsuri_vision.png" group-title="BS",Tsuri Vision (720p HLS)
 http://51.79.193.108:8080/hls/j00046/index.m3u8
 #EXTINF:-1 tvg-id="AnimaxJapan.jp" tvg-logo="https://i.imgur.com/zpi6mQ3.png" group-title="BS",Animax (720p HLS)
