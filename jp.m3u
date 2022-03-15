@@ -303,7 +303,7 @@ http://51.79.193.109:8080/hls/j00008/index.m3u8?type=jp
 #EXTINF:-1 tvg-id="SkyA.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-a-jp.png" group-title="CS",Sky A (720p HLS)
 http://51.79.193.109:8080/hls/j00020/index.m3u8?type=jp
 #EXTINF:-1 tvg-id="SkyA.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-a-jp.png" group-title="CS",Sky A (404p iHome)
-
+http://211.21.12.236:11935/live/cs23.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="GolfNetwork.jp" tvg-logo="https://i.postimg.cc/sDY2HML1/logo-new.png" group-title="CS",Golf Network (720p NewHome)
 http://203.162.235.41:16924/
 #EXTINF:-1 tvg-id="TheHistoryChannelJapan.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/history_us.png" group-title="CS",History (404p iHome)
@@ -326,12 +326,10 @@ http://211.21.12.236:11935/live/cs03.stream/playlist.m3u8
 http://211.21.12.236:11935/live/cs04.stream/playlist.m3u8	
 #EXTINF:-1 tvg-id="AnimalPlanetJapan.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="CS",Animal Planet (720p HLS)
 http://51.79.193.109:8080/hls/j00025/index.m3u8?type=jp
-#EXTINF:-1 tvg-id="NittelePlus.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nittele-plus-jp.png" group-title="CS",Nittele G+ (720p HLS)
+#EXTINF:-1 tvg-id="NitteleGPlus.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-166-400x400.png" group-title="CS",Nittele G+ (720p HLS)
 http://51.79.193.109:8080/hls/j00005/index.m3u8?type=jp
-#EXTINF:-1 tvg-id="NittelePlus.jp" tvg-logo="" group-title="CS",unknown (404p iHome)
+#EXTINF:-1 tvg-id="NitteleGPlus.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-166-400x400.png" group-title="CS",Nittele G+ (404p iHome)
 http://211.21.12.236:11935/live/cs26.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="NittelePlus.jp" tvg-logo="" group-title="CS",unknown (404p iHome)
-http://211.21.12.236:11935/live/cs23.stream/playlist.m3u8	
 #EXTINF:-1 tvg-id="NittelePlus.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nittele-plus-jp.png" group-title="CS",NTV+ (404p iHome)
 http://211.21.12.236:11935/live/cs29.stream/playlist.m3u8	
 #EXTINF:-1 tvg-id="HomeDramaChannel.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/home-drama-channelpng-jp.png" group-title="CS",Home Drama Channel (720p HLS)
