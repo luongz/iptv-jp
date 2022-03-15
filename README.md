@@ -14,6 +14,7 @@ or
 
 [![IMG-20220210-165307.jpg](https://i.postimg.cc/ydQ2Z26J/IMG-20220210-165307.jpg)](https://postimg.cc/47c8CL9Z)
 # I want to request/add/report an channel!
+> Slow responded due to exam ! 
 > If you want to request/add/report an channel , made the issues or contact me by mail , discord! I will try my best to do it!
 
 Discord : Hiyori#0880
