@@ -217,7 +217,7 @@ http://211.21.12.236:11935/live/bs12.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="BS12.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs-12-jp.png" group-title="BS",BS12 (404p iHome)
 http://211.21.12.236:11935/live/bs13.stream/playlist.m3u8	
 
-#EXTINF:-1 tvg-id="FishingVision.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tsuri_vision.png" group-title="BS",Tsuri Vision (720p HLS)
+#EXTINF:-1 tvg-id="LaLaTV.jp" tvg-logo="https://www.lyngsat.com/logo/tv/ll/lala_tv.png" group-title="BS",LaLa (720p HLS)
 http://51.79.193.109:8080/hls/j00046/index.m3u8?type=jp
 
 #EXTINF:-1 tvg-id="AnimaxJapan.jp" tvg-logo="https://i.imgur.com/zpi6mQ3.png" group-title="BS",Animax (720p HLS)
