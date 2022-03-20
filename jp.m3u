@@ -217,8 +217,7 @@ http://211.21.12.236:11935/live/bs12.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="BS12.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs-12-jp.png" group-title="BS",BS12 (404p iHome)
 http://211.21.12.236:11935/live/bs13.stream/playlist.m3u8	
 
-#EXTINF:-1 tvg-id="LaLaTV.jp" tvg-logo="https://www.lyngsat.com/logo/tv/ll/lala_tv.png" group-title="BS",LaLa (720p HLS)
-http://51.79.193.109:8080/hls/j00046/index.m3u8?type=jp
+
 
 #EXTINF:-1 tvg-id="AnimaxJapan.jp" tvg-logo="https://i.imgur.com/zpi6mQ3.png" group-title="BS",Animax (720p HLS)
 http://51.79.193.109:8080/hls/j00026/index.m3u8?type=jp
@@ -296,6 +295,8 @@ http://211.21.12.236:11935/live/cs11.stream/playlist.m3u8
 http://51.79.193.109:8080/hls/j00001/index.m3u8?type=jp
 #EXTINF:-1 tvg-id="EiseiGekijo.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eisei_gekijo.png" group-title="CS",Eisei Gekijo (404p iHome)
 http://211.21.12.236:11935/live/cs18.stream/playlist.m3u8	
+#EXTINF:-1 tvg-id="LaLaTV.jp" tvg-logo="https://www.lyngsat.com/logo/tv/ll/lala_tv.png" group-title="CS",LaLa TV(720p HLS)
+http://51.79.193.109:8080/hls/j00046/index.m3u8?type=jp
 #EXTINF:-1 tvg-id="KBSWorldJapan.kr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kbs_world_jp.png" group-title="CS",KBS World (404p iHome)
 http://211.21.12.236:11935/live/cs16.stream/playlist.m3u8	
 #EXTINF:-1 tvg-id="ToeiChannel.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/toei_channel.png" group-title="CS",Toei Channel (720p HLS)
