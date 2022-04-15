@@ -6,8 +6,6 @@ https://ayefuwa.ml
 #MAIN KANTO
 #EXTINF:-1 tvg-id="NHKGeneralTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="KANTO",NHK G (720p NewHome)
 http://203.162.235.41:16903
-#EXTINF:-1 tvg-id="NHKGeneralTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="KANTO",NHK G (540p RTMP)
-rtmp://nhk1.dinhluong.jp:1935/
 #EXTINF:-1 tvg-id="NHKGeneralTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="KANTO",NHK G (540p NHK+)
 http://iptv.tvfix.org/hls/nhkg.m3u8
 #EXTINF:-1 tvg-id="NHKGeneralTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="KANTO",NHK G (540p NHK+ v2)
@@ -82,6 +80,9 @@ http://203.162.235.41:16915
 
 #EXTINF:-1 tvg-id="WowowPrime.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow_prime.png" group-title="BS",WOWOWプライム (720p NewHome)
 http://203.162.235.41:16916
+
+#EXTINF:-1 tvg-id="BS11.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs-11-jp.png" group-title="BS",BS11 (720p RTMP)
+rtmp://nhk1.dinhluong.jp:1935/
 
 #CS
 
