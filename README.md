@@ -6,7 +6,7 @@ Due to some DMCA takedown shit
 https://note.vg/raw/jtv-backup-luongz
 https://bom.so/jtv
 
-We will update soon.
+We will more update soon.
 
 > An simple Japanese IPTV , update 24/7 with a lot of channel collected all over the world.
 
