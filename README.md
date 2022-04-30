@@ -3,12 +3,14 @@
 Due to some DMCA takedown shit
 
 ❗ Using our backup link :
-https://note.vg/raw/jtv-backup-luongz
-https://bom.so/jtv
+> https://note.vg/raw/jtv-backup-luongz
 
-We will more update soon.
+> https://bom.so/jtv
 
-> An simple Japanese IPTV , update 24/7 with a lot of channel collected all over the world.
+Or email me asf : trandinhluong2411@gmail.com to get access.
+
+#
+An simple Japanese IPTV , update 24/7 with a lot of channel collected all over the world.
 
 Note : This list is using some source from [iptv-org](https://github.com/iptv-org)
 
