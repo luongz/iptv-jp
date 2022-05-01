@@ -87,8 +87,6 @@ https://sub2.neetball.net/live/neet.m3u8
 http://203.162.235.41:16924/
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/200px-NHK_logo_2020.svg.png" group-title="CS",NHK World Premium (720p iHome)
 http://203.162.235.41:16901
-#EXTINF:-1 tvg-id="NTVNews24.jp" tvg-logo="https://i.imgur.com/Ya4yHpC.jpg" group-title="CS",NTV News24 (720p Willfonk)
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS349&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-id="NTVNews24.jp" tvg-logo="https://i.imgur.com/Ya4yHpC.jpg" group-title="CS",NTV News24 (720p Official)
 https://www.news24.jp/livestream/index.m3u8
 #EXTINF:-1 tvg-id="QVCJapan.us" tvg-logo="https://i.imgur.com/3K36JEA.jpg" group-title="CS",Shop Channel (720p Official)
