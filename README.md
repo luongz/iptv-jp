@@ -27,5 +27,3 @@ Email : trandinhluong2411@gmail.com
 # I want to donate!
 For sure :)
 PayPal : https://www.paypal.me/Tieptran1970
-
-Tether (USDT) : 0x2f28105024990C150E0dd2f9900F7D5567F06cC7
