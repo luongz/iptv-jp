@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml" tvg-shift=0 m3uautoload=1
 
+#EXTINF:-1, The NHK G Selfhost link will be down soon , cause we don't have money to host.
+https://jptv.dinhluong.jp:8080/hls/nhkg/index.m3u8
 #EXTINF:-1, Note : NewHome link can not open in PC!
 https://ayefuwa.ml
 #MAIN KANTO
