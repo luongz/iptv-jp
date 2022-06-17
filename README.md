@@ -25,5 +25,4 @@ Email : trandinhluong2411@gmail.com
 
 [Facebook](https://www.facebook.com/profile.php?id=100053792569652)
 # I want to donate!
-For sure :)
-PayPal : https://www.paypal.me/Tieptran1970
+Checkout the Sponsored.
