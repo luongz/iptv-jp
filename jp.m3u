@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml" tvg-shift=0 m3uautoload=1
 
-#EXTINF:-1, Note : NewHome link can not open in PC!
-https://ayefuwa.ml
 #MAIN KANTO
+#EXTINF:-1 tvg-id="NHKGeneralTV.jp" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="KANTO",NHK G (720p)
+http://jptv.dinhluong.jp:8080/hls/nhkg/index.m3u8
 #EXTINF:-1 tvg-id="NHKGeneralTV.jp" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="KANTO",NHK G (720p JPNetTV US)
 http://cdn.us195.jpnettv.live:1935/jptv/kanto_nhk_g_720/playlist.m3u8
 #EXTINF:-1 tvg-id="NHKGeneralTV.jp" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="KANTO",NHK G (540p JPNetTV US)
