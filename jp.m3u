@@ -1,67 +1,36 @@
 #EXTM3U
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml" tvg-shift=0 m3uautoload=1
 
+#EXTINF:-1, Note : NewHome link can not open in PC!
+https://ayefuwa.ml
 #MAIN KANTO
-#EXTINF:-1 tvg-id="NHKGeneralTV.jp" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="KANTO",NHK G (720p)
+#EXTINF:-1 tvg-id="NHKGeneralTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="KANTO",NHK G (720p) 
 http://jptv.dinhluong.jp:8080/hls/nhkg/index.m3u8
-#EXTINF:-1 tvg-id="NHKGeneralTV.jp" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="KANTO",NHK G (720p JPNetTV US)
-http://cdn.us195.jpnettv.live:1935/jptv/kanto_nhk_g_720/playlist.m3u8
-#EXTINF:-1 tvg-id="NHKGeneralTV.jp" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="KANTO",NHK G (540p JPNetTV US)
-http://cdn.us195.jpnettv.live:1935/jptv/kanto_nhk_g_540/playlist.m3u8
 #EXTINF:-1 tvg-id="NHKGeneralTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="KANTO",NHK G (720p NewHome)
 http://203.162.235.41:16903
 
-#EXTINF:-1 tvg-id="NHKEducationalTV.jp" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png" group-title="KANTO",NHK E (720p JPNetTV US)
-http://cdn.us195.jpnettv.live:1935/jptv/kanto_nhk_edu_720/playlist.m3u8
-#EXTINF:-1 tvg-id="NHKEducationalTV.jp" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png" group-title="KANTO",NHK E (540p JPNetTV US)
-http://cdn.us195.jpnettv.live:1935/jptv/kanto_nhk_edu_540/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NipponTV.jp" group-title="KANTO" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png", Nippon TV (720p JPNetTV US)
-http://cdn.us195.jpnettv.live:1935/jptv/kanto_nippon_720/playlist.m3u8
-#EXTINF:-1 tvg-id="NipponTV.jp" group-title="KANTO" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png", Nippon TV (540p JPNetTV US)
-http://cdn.us195.jpnettv.live:1935/jptv/kanto_nippon_540/playlist.m3u8
 #EXTINF:-1 tvg-id="NipponTV.jp" group-title="KANTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png", Nippon TV (720p NewHome)
 http://203.162.235.41:16905
 #EXTINF:-1 tvg-id="NipponTV.jp" group-title="KANTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png", Nippon TV (540p MOV3)
 https://ntv1.mov3.co/hls/ntv.m3u8
 
-#EXTINF:-1 tvg-id="JORXDTV.jp" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/1280px-Tokyo_Broadcasting_System_logo_2020.svg.png" group-title="KANTO",TBS (720p JPNetTV US)
-http://cdn.us195.jpnettv.live:1935/jptv/kanto_tbs_720/playlist.m3u8
-#EXTINF:-1 tvg-id="JORXDTV.jp" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/1280px-Tokyo_Broadcasting_System_logo_2020.svg.png" group-title="KANTO",TBS (540p JPNetTV US)
-http://cdn.us195.jpnettv.live:1935/jptv/kanto_tbs_540/playlist.m3u8
 #EXTINF:-1 tvg-id="JORXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/1280px-Tokyo_Broadcasting_System_logo_2020.svg.png" group-title="KANTO",TBS (720p NewHome)
 http://203.162.235.41:16907
 #EXTINF:-1 tvg-id="JORXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/1280px-Tokyo_Broadcasting_System_logo_2020.svg.png" group-title="KANTO",TBS (540p MOV3)
 https://tbs1.mov3.co/hls/tbs.m3u8
 
-#EXTINF:-1 tvg-id="JOCXDTV.jp" tvg-logo="http://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png" group-title="KANTO",Fuji TV (720p JPNetTV US)
-http://cdn.us195.jpnettv.live:1935/jptv/kanto_fuji_720/playlist.m3u8
-#EXTINF:-1 tvg-id="JOCXDTV.jp" tvg-logo="http://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png" group-title="KANTO",Fuji TV (720p JPNetTV US)
-http://cdn.us195.jpnettv.live:1935/jptv/kanto_fuji_540/playlist.m3u8
 #EXTINF:-1 tvg-id="JOCXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png" group-title="KANTO",Fuji TV (720p NewHome)
 http://203.162.235.41:16904
 #EXTINF:-1 tvg-id="JOCXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png" group-title="KANTO",Fuji TV (540p MOV3)
 https://fujitv2.mov3.co/hls/fujitv.m3u8
 
 
-#EXTINF:-1 tvg-id="TVAsahi.jp" tvg-name="TV Asahi" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1280px-TV_Asahi_Logo.svg.png" group-title="KANTO",TV Asahi (720p JPNetTV US)
-http://cdn.us195.jpnettv.live:1935/jptv/kanto_tv_asahi_720/playlist.m3u8
-#EXTINF:-1 tvg-id="TVAsahi.jp" tvg-name="TV Asahi" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1280px-TV_Asahi_Logo.svg.png" group-title="KANTO",TV Asahi (540p JPNetTV US)
-http://cdn.us195.jpnettv.live:1935/jptv/kanto_tv_asahi_540/playlist.m3u8
 #EXTINF:-1 tvg-id="TVAsahi.jp" tvg-name="TV Asahi" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1280px-TV_Asahi_Logo.svg.png" group-title="KANTO",TV Asahi (720p NewHome)
 http://203.162.235.41:16906
 
-#EXTINF:-1 tvg-id="JOTXDTV.jp" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/2560px-TV_Tokyo_logo_20110629.svg.png" group-title="KANTO",TV Tokyo (720p JPNetTV US)
-http://cdn.us195.jpnettv.live:1935/jptv/kanto_tv_tokyo_720/playlist.m3u8
-#EXTINF:-1 tvg-id="JOTXDTV.jp" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/2560px-TV_Tokyo_logo_20110629.svg.png" group-title="KANTO",TV Tokyo (540p JPNetTV US)
-http://cdn.us195.jpnettv.live:1935/jptv/kanto_tv_tokyo_540/playlist.m3u8
 #EXTINF:-1 tvg-id="JOTXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/2560px-TV_Tokyo_logo_20110629.svg.png" group-title="KANTO",TV Tokyo (720p NewHome)
 http://203.162.235.41:16908
 
-#EXTINF:-1 tvg-id="JOMXDTV.jp" tvg-name="Tokyo MX1" tvg-country="JP" tvg-language="Japanese" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="KANTO",Tokyo MX1 (720p JPNetTV US)
-http://cdn.us195.jpnettv.live:1935/jptv/kanto_tokyo_mx1_720/playlist.m3u8
-#EXTINF:-1 tvg-id="JOMXDTV.jp" tvg-name="Tokyo MX1" tvg-country="JP" tvg-language="Japanese" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="KANTO",Tokyo MX1 (540p JPNetTV US)
-http://cdn.us195.jpnettv.live:1935/jptv/kanto_tokyo_mx1_540/playlist.m3u8
 #EXTINF:-1 tvg-id="JOMXDTV.jp" tvg-name="Tokyo MX1" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="KANTO",Tokyo MX1 (360p Official Link)
 https://movie.mcas.jp/mcas/smil:mx1_prod.smil/master.m3u8
 #EXTINF:-1 tvg-id="TokyoMX2.jp" tvg-name="Tokyo MX2" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="KANTO",Tokyo MX2 (360p Official Link)
@@ -70,170 +39,37 @@ https://movie.mcas.jp/mcas/smil:mx2_prod.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gtv_logo_ja_01.svg/800px-Gtv_logo_ja_01.svg.png" group-title="KANSAI",Gunma TV (360p Official Link)
 https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8
 
+
 #Kansai
-#EXTINF:-1 tvg-id="NHKGeneralTV.jp" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="KANSAI",NHK G Osaka (720p JPNetTV US)
-http://cdn.us195.jpnettv.live:1935/jptv/kansi_nhk_g_720/playlist.m3u8
-#EXTINF:-1 tvg-id="NHKGeneralTV.jp" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="KANSAI",NHK G Osaka (540p JPNetTV US)
-http://cdn.us195.jpnettv.live:1935/jptv/kansi_nhk_g_540/playlist.m3u8
-#EXTINF:-1 tvg-id="NHKEducationalTV.jp" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png" group-title="KANSAI",NHK E Osaka (720p JPNetTV US)
-http://cdn.us195.jpnettv.live:1935/jptv/kansi_nhk_edu_720/playlist.m3u8
-#EXTINF:-1 tvg-id="NHKEducationalTV.jp" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png" group-title="KANSAI",NHK E Osaka (540p JPNetTV US)
-http://cdn.us195.jpnettv.live:1935/jptv/kansi_nhk_edu_540/playlist.m3u8
-#EXTINF:-1 tvg-id="JOOYDTV.jp" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/2560px-Mainichi_Broadcasting_System_logo.svg.png" group-title="KANSAI",MBS (720p JPNetTV US)
-http://cdn.us195.jpnettv.live:1935/jptv/kansi_mbs_720/playlist.m3u8
-#EXTINF:-1 tvg-id="JOOYDTV.jp" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/2560px-Mainichi_Broadcasting_System_logo.svg.png" group-title="KANSAI",MBS (540p JPNetTV US)
-http://cdn.us195.jpnettv.live:1935/jptv/kansi_mbs_540/playlist.m3u8
-#EXTINF:-1 tvg-id="JOAYDTV.jp" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/2560px-Asahi_Broadcasting_Corporation_Logo.svg.png" group-title="KANSAI",ABC (720p JPNetTV US)
-http://cdn.us195.jpnettv.live:1935/jptv/kansi_abc_asahi_720/playlist.m3u8
-#EXTINF:-1 tvg-id="JOAYDTV.jp" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/2560px-Asahi_Broadcasting_Corporation_Logo.svg.png" group-title="KANSAI",ABC (540p JPNetTV US)
-http://cdn.us195.jpnettv.live:1935/jptv/kansi_abc_asahi_540/playlist.m3u8
-#EXTINF:-1 tvg-id="JOIXDTV.jp" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/2560px-Yomiuri_Telecasting_Corporation_Logo.svg.png" group-title="KANSAI",YTV (720p JPNetTV US)
-http://cdn.us195.jpnettv.live:1935/jptv/kansi_yomiuri_720/playlist.m3u8
-#EXTINF:-1 tvg-id="JOIXDTV.jp" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/2560px-Yomiuri_Telecasting_Corporation_Logo.svg.png" group-title="KANSAI",YTV (540p JPNetTV US)
-http://cdn.us195.jpnettv.live:1935/jptv/kansi_yomiuri_540/playlist.m3u8
-#EXTINF:-1 tvg-id="JODXDTV.jp" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/c/cf/Kantele_logo_2015.png" group-title="KANSAI",Kansai TV (720p JPNetTV US)
-http://cdn.us195.jpnettv.live:1935/jptv/kansi_tv_720/playlist.m3u8
-#EXTINF:-1 tvg-id="JODXDTV.jp" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/c/cf/Kantele_logo_2015.png" group-title="KANSAI",Kansai TV (540p JPNetTV US)
-http://cdn.us195.jpnettv.live:1935/jptv/kansi_tv_540/playlist.m3u8
-#EXTINF:-1 tvg-id="TVOsaka.jp" tvg-logo="http://asianwiki.com/images/e/e1/TV_Osaka-p1.png" group-title="KANSAI",TV Osaka (720p JPNetTV US)
-http://cdn.us195.jpnettv.live:1935/jptv/kansi_tv_osaka_720/playlist.m3u8
-#EXTINF:-1 tvg-id="TVOsaka.jp" tvg-logo="http://asianwiki.com/images/e/e1/TV_Osaka-p1.png" group-title="KANSAI",TV Osaka (540p JPNetTV US)
-http://cdn.us195.jpnettv.live:1935/jptv/kansi_tv_osaka_540/playlist.m3u8
-#EXTINF:-1 tvg-id="JOUHDTV.jp" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/b/b9/SUN-TV_wordmark_2019.png" group-title="KANSAI",SUN TV (720p JPNetTV US)
-http://cdn.us195.jpnettv.live:1935/jptv/kansi_sun_tv_720/playlist.m3u8
-#EXTINF:-1 tvg-id="JOUHDTV.jp" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/b/b9/SUN-TV_wordmark_2019.png" group-title="KANSAI",SUN TV (540p JPNetTV US)
-http://cdn.us195.jpnettv.live:1935/jptv/kansi_sun_tv_540/playlist.m3u8
-
-
 #BS
-#EXTINF:-1 tvg-id="NHKBS1.jp" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/6/6d/NHKBS1%E3%83%AD%E3%82%B42020-.png" group-title="BS",NHK BS1 (720p JPNetTV US)
-http://cdn.us195.jpnettv.live:1935/jptv/nhkbs1_720/playlist.m3u8
-#EXTINF:-1 tvg-id="NHKBS1.jp" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/6/6d/NHKBS1%E3%83%AD%E3%82%B42020-.png" group-title="BS",NHK BS1 (540p JPNetTV US)
-http://cdn.us195.jpnettv.live:1935/jptv/nhkbs1_540/playlist.m3u8
 #EXTINF:-1 tvg-id="NHKBS1.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/NHKBS1%E3%83%AD%E3%82%B42020-.png" group-title="BS",NHK BS1 (720p NewHome)
 http://203.162.235.41:16909
 
-#EXTINF:-1 tvg-id="NHKBSPremium.jp" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/2/21/NHK_BS%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0_%E6%96%B0%E3%83%AD%E3%82%B4.png" group-title="BS",NHK BS Premium (720p JPNetTV US)
-http://cdn.us195.jpnettv.live:1935/jptv/bspremium_720/playlist.m3u8
-#EXTINF:-1 tvg-id="NHKBSPremium.jp" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/2/21/NHK_BS%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0_%E6%96%B0%E3%83%AD%E3%82%B4.png" group-title="BS",NHK BS Premium (540p JPNetTV US)
-http://cdn.us195.jpnettv.live:1935/jptv/bspremium_540/playlist.m3u8
 #EXTINF:-1 tvg-id="NHKBSPremium.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/NHK_BS%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0_%E6%96%B0%E3%83%AD%E3%82%B4.png" group-title="BS",NHK BS Premium (720p NewHome)
 http://203.162.235.41:16910
 
-#EXTINF:-1 tvg-id="BSNipponTV.jp" tvg-logo="http://i.postimg.cc/wvCmCc2p/t-i-xu-ng.png" group-title="BS",BS-NTV (720p JPNetTV US)
-http://cdn.us195.jpnettv.live:1935/jptv/bsnihontv_720/playlist.m3u8
-#EXTINF:-1 tvg-id="BSNipponTV.jp" tvg-logo="http://i.postimg.cc/wvCmCc2p/t-i-xu-ng.png"group-title="BS",BS-NTV (540p JPNetTV US)
-http://cdn.us195.jpnettv.live:1935/jptv/bsnihontv_540/playlist.m3u8
 #EXTINF:-1 tvg-id="BSNipponTV.jp" tvg-logo="https://i.postimg.cc/wvCmCc2p/t-i-xu-ng.png" group-title="BS",BS-NTV (720p NewHome)
 http://203.162.235.41:16912
 
-#EXTINF:-1 tvg-id="BSAsahi.jp" tvg-logo="http://company.tv-asahi.co.jp/saiyo/group/img/company/logo-bsasahi.png" group-title="BS",BS Asahi (720p JPNetTV US)
-http://cdn.us195.jpnettv.live:1935/jptv/bsasahi_720/playlist.m3u8
-#EXTINF:-1 tvg-id="BSAsahi.jp" tvg-logo="http://company.tv-asahi.co.jp/saiyo/group/img/company/logo-bsasahi.png" group-title="BS",BS Asahi (540p JPNetTV US)
-http://cdn.us195.jpnettv.live:1935/jptv/bsasahi_540/playlist.m3u8
 #EXTINF:-1 tvg-id="BSAsahi.jp" tvg-logo="https://company.tv-asahi.co.jp/saiyo/group/img/company/logo-bsasahi.png" group-title="BS",BS Asahi (720p NewHome)
 http://203.162.235.41:16914
 
-#EXTINF:-1 tvg-id="BSTBS.jp" tvg-logo="http://pbs.twimg.com/profile_images/1260862250295812096/a6-UyLc__400x400.jpg" group-title="BS",BS-TBS (720p JPNetTV US)
-http://cdn.us195.jpnettv.live:1935/jptv/bstbs_720/playlist.m3u8
-#EXTINF:-1 tvg-id="BSTBS.jp" tvg-logo="http://pbs.twimg.com/profile_images/1260862250295812096/a6-UyLc__400x400.jpg" group-title="BS",BS-TBS (540p JPNetTV US)
-http://cdn.us195.jpnettv.live:1935/jptv/bstbs_540/playlist.m3u8
 #EXTINF:-1 tvg-id="BSTBS.jp" tvg-logo="https://pbs.twimg.com/profile_images/1260862250295812096/a6-UyLc__400x400.jpg" group-title="BS",BS-TBS (720p NewHome)
 http://203.162.235.41:16913
 
-#EXTINF:-1 tvg-id="BSFuji.jp" tvg-logo="http://www.zne-iptv.com/wp-content/uploads/2017/10/22-BS-FUJI-770x480.jpg" group-title="BS",BS Fuji (720p JPNetTV US)
-http://cdn.us195.jpnettv.live:1935/jptv/bsfuji_720/playlist.m3u8
-#EXTINF:-1 tvg-id="BSFuji.jp" tvg-logo="http://www.zne-iptv.com/wp-content/uploads/2017/10/22-BS-FUJI-770x480.jpg" group-title="BS",BS Fuji (540p JPNetTV US)
-http://cdn.us195.jpnettv.live:1935/jptv/bsfuji_540/playlist.m3u8
 #EXTINF:-1 tvg-id="BSFuji.jp" tvg-logo="https://www.zne-iptv.com/wp-content/uploads/2017/10/22-BS-FUJI-770x480.jpg" group-title="BS",BS Fuji (720p NewHome)
 http://203.162.235.41:16911
 
-#EXTINF:-1 tvg-id="BSTVTokyo.jp" tvg-logo="http://www.lyngsat-logo.com/logo/tv/bb/bs-tokyo-jp.png" group-title="BS",BS - TV Tokyo (720p JPNetTV US)
-http://cdn.us195.jpnettv.live:1935/jptv/bsjapan_720/playlist.m3u8
-#EXTINF:-1 tvg-id="BSTVTokyo.jp" tvg-logo="http://www.lyngsat-logo.com/logo/tv/bb/bs-tokyo-jp.png" group-title="BS",BS - TV Tokyo (540p JPNetTV US)
-http://cdn.us195.jpnettv.live:1935/jptv/bsjapan_540/playlist.m3u8
 #EXTINF:-1 tvg-id="BSTVTokyo.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs-tokyo-jp.png" group-title="BS",BS - TV Tokyo (720p NewHome)
 http://203.162.235.41:16915
 
-#EXTINF:-1 tvg-id="WowowPrime.jp" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ww/wowow_prime.png" group-title="BS",WOWOWプライム (720p JPNetTV US)
-http://cdn.us195.jpnettv.live:1935/jptv/wowprime_720/playlist.m3u8
-#EXTINF:-1 tvg-id="WowowPrime.jp" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ww/wowow_prime.png" group-title="BS",WOWOWプライム (540p JPNetTV US)
-http://cdn.us195.jpnettv.live:1935/jptv/wowprime_540/playlist.m3u8
 #EXTINF:-1 tvg-id="WowowPrime.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow_prime.png" group-title="BS",WOWOWプライム (720p NewHome)
 http://203.162.235.41:16916
-#EXTINF:-1 tvg-id="WowowLive.jp" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ww/wowow_live.png" group-title="BS",WOWOWライブ (720p JPNetTV US)
-http://cdn.us195.jpnettv.live:1935/jptv/wowlive_720/playlist.m3u8
-#EXTINF:-1 tvg-id="WowowLive.jp" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ww/wowow_live.png" group-title="BS",WOWOWライブ (540p JPNetTV US)
-http://cdn.us195.jpnettv.live:1935/jptv/wowlive_540/playlist.m3u8
-#EXTINF:-1 tvg-id="WowowCinema.jp" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ww/wowow_cinema.png" group-title="BS",WOWOWシネマ (720p JPNetTV US)
-http://cdn.us195.jpnettv.live:1935/jptv/wowcinema_720/playlist.m3u8
-#EXTINF:-1 tvg-id="WowowCinema.jp" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ww/wowow_cinema.png" group-title="BS",WOWOWシネマ (540p JPNetTV US)
-http://cdn.us195.jpnettv.live:1935/jptv/wowcinema_540/playlist.m3u8
-#EXTINF:-1 tvg-id="WowowPlus.jp" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ww/wowow-plus-jp.png" group-title="BS",WOWOWプラス (720p JPNetTV US)
-http://cdn.us195.jpnettv.live:1935/jptv/cinefil_wowow_720/playlist.m3u8
-#EXTINF:-1 tvg-id="WowowPlus.jp" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ww/wowow-plus-jp.png" group-title="BS",WOWOWプラス (540p JPNetTV US)
-http://cdn.us195.jpnettv.live:1935/jptv/cinefil_wowow_540/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Star1.jp" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Star_Channel-Japan.svg/2560px-Star_Channel-Japan.svg.png" group-title="BS",Star 1 (720p JPNetTV US)
-http://cdn.us195.jpnettv.live:1935/jptv/starch1_720/playlist.m3u8
-#EXTINF:-1 tvg-id="Star1.jp" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Star_Channel-Japan.svg/2560px-Star_Channel-Japan.svg.png" group-title="BS",Star 1 (540p JPNetTV US)
-http://cdn.us195.jpnettv.live:1935/jptv/starch1_540/playlist.m3u8
-#EXTINF:-1 tvg-id="Star2.jp" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Star_Channel-Japan.svg/2560px-Star_Channel-Japan.svg.png" group-title="BS",Star 2 (720p JPNetTV US)
-http://cdn.us195.jpnettv.live:1935/jptv/starch2_720/playlist.m3u8
-#EXTINF:-1 tvg-id="Star2.jp" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Star_Channel-Japan.svg/2560px-Star_Channel-Japan.svg.png" group-title="BS",Star 2 (540p JPNetTV US)
-http://cdn.us195.jpnettv.live:1935/jptv/starch2_540/playlist.m3u8
-#EXTINF:-1 tvg-id="Star3.jp" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Star_Channel-Japan.svg/2560px-Star_Channel-Japan.svg.png" group-title="BS",Star 3 (720p JPNetTV US)
-http://cdn.us195.jpnettv.live:1935/jptv/starch3_720/playlist.m3u8
-#EXTINF:-1 tvg-id="Star3.jp" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Star_Channel-Japan.svg/2560px-Star_Channel-Japan.svg.png" group-title="BS",Star 3 (540p JPNetTV US)
-http://cdn.us195.jpnettv.live:1935/jptv/starch3_540/playlist.m3u8
-
-#EXTINF:-1 tvg-id="FishingVision.jp" tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/tsuri_vision.png" group-title="BS",Tsuri Vision (540p JPNetTV US)
-http://cdn.us195.jpnettv.live:1935/jptv/Fishing_broadcasting/playlist.m3u8
-#EXTINF:-1 tvg-id="AnimaxJapan.jp" tvg-logo="http://i.imgur.com/zpi6mQ3.png" group-title="BS",Animax (720p JPNetTV US)
-http://cdn.us195.jpnettv.live:1935/jptv/janimax_720/playlist.m3u8
-#EXTINF:-1 tvg-id="AnimaxJapan.jp" tvg-logo="http://i.imgur.com/zpi6mQ3.png" group-title="BS",Animax (540p JPNetTV US)
-http://cdn.us195.jpnettv.live:1935/jptv/janimax_540/playlist.m3u8
-#EXTINF:-1 tvg-id="JidaigekiSenmonChannel.jp" tvg-logo="http://www.lyngsat-logo.com/logo/tv/jj/jidaigeki.png" group-title="BS",Jidaigeki Senmon Channel (540p JPNetTV US)
-http://cdn.us195.jpnettv.live:1935/jptv/jidaigeki/playlist.m3u8
-#EXTINF:-1 tvg-id="NihonEigaSenmonChannel.jp" tvg-logo="http://i.postimg.cc/ydDMrbTZ/Nihon-Eiga-Senmon-Channel.jpg" group-title="BS",Nihon Eiga Senmon (720p JPNetTV US)
-http://cdn.us195.jpnettv.live:1935/jptv/igasennmonn_720/playlist.m3u8
-#EXTINF:-1 tvg-id="NihonEigaSenmonChannel.jp" tvg-logo="http://i.postimg.cc/ydDMrbTZ/Nihon-Eiga-Senmon-Channel.jpg" group-title="BS",Nihon Eiga Senmon (540p JPNetTV US)
-http://cdn.us195.jpnettv.live:1935/jptv/igasennmonn_540/playlist.m3u8
-#EXTINF:-1 tvg-id="GreenChannel.jp" tvg-logo="http://i.postimg.cc/XvG4BqyF/ogimage.png" group-title="BS",Green Channel (720p)
-http://cdn.us195.jpnettv.live:1935/jptv/green/playlist.m3u8
-#EXTINF:-1 tvg-id="DisneyChannelJapan.us" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/2560px-2019_Disney_Channel_logo.svg.png" group-title="BS",Disney Channel (JPNetTV US)
-http://cdn.us195.jpnettv.live:1935/jptv/disney_channel/playlist.m3u8
-#EXTINF:-1 tvg-id="DisneyJuniorJapan.us" tvg-logo="http://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.png" group-title="BS",Disney Junior (JPNetTV US)
-http://cdn.us195.jpnettv.live:1935/jptv/disney_junior/playlist.m3u8
-
 #CS
-
 #EXTINF:-1 tvg-id="ATX.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png" group-title="CS",AT-X (720p Stream)
 https://sub2.neetball.net/live/neet.m3u8
 #EXTINF:-1 tvg-id="GolfNetwork.jp" tvg-logo="https://i.postimg.cc/sDY2HML1/logo-new.png" group-title="CS",Golf Network (720p NewHome)
 http://203.162.235.41:16924/
-#EXTINF:-1 tvg-id="ChannelNeco.jp" tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/channel-neco-jp.png" group-title="CS",NECO 
-http://cdn.us195.jpnettv.live:1935/jptv/Neco/playlist.m3u8
-#EXTINF:-1 tvg-id="FoxJapan.us" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ff/fox_global.png" group-title="CS",FOX
-http://cdn.us195.jpnettv.live:1935/jptv/jfox/playlist.m3u8
-#EXTINF:-1 tvg-id="EiseiGekijo.jp" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ee/eisei_gekijo.png" group-title="CS",Eisei Gekijo (JPNetTV US)
-http://cdn.us195.jpnettv.live:1935/jptv/gekijjyou/playlist.m3u8
-#EXTINF:-1 tvg-id="GaoraSports.jp" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/GAORA_SPORTS_logo.svg/2560px-GAORA_SPORTS_logo.svg.png" group-title="CS",GAORA (JPNetTV US)
-http://cdn.us195.jpnettv.live:1935/jptv/GaoRa/playlist.m3u8
-#EXTINF:-1 tvg-id="NitteleGPlus.jp" tvg-logo="http://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-166-400x400.png" group-title="CS",Nittele G+ (720p)
-http://cdn.us195.jpnettv.live:1935/jptv/japan_tv_G/playlist.m3u8
-#EXTINF:-1 tvg-id="NittelePlus.jp" tvg-logo="http://www.lyngsat-logo.com/logo/tv/nn/nittele-plus-jp.png" group-title="CS",Nittle Plus (JPNetTV US)
-http://cdn.us195.jpnettv.live:1935/jptv/japan_tv_G/playlist.m3u8
-#EXTINF:-1 tvg-id="AnimalPlanetJapan.us" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="CS",Animal Planet (720p)
-http://cdn.us195.jpnettv.live:1935/jptv/Animal/playlist.m3u8
-#EXTINF:-1 tvg-id="MTVJapan.us" tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mtv-us.png" group-title="CS",MTV (JPNetTV US)
-http://cdn.us195.jpnettv.live:1935/jptv/mtv/playlist.m3u8
-#EXTINF:-1 tvg-id="DiscoveryChannelJapan.us" tvg-logo="http://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png" group-title="CS",Discovery (JPNetTV US)
-http://cdn.us195.jpnettv.live:1935/jptv/jdiscovery/playlist.m3u8
-#EXTINF:-1 tvg-id="CartoonNetworkJapan.us" tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/cartoon_network_global.png" group-title="CS",Cartorn Network (JPNetTV US)
-http://cdn.us195.jpnettv.live:1935/jptv/cartoon_network/playlist.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicJapan.us" tvg-logo="http://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" group-title="CS",Nat Geo (JPNetTV US)
-http://cdn.us195.jpnettv.live:1935/jptv/National_geographic/playlist.m3u8
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/200px-NHK_logo_2020.svg.png" group-title="CS",NHK World Premium (720p iHome)
 http://203.162.235.41:16901
 #EXTINF:-1 tvg-id="NTVNews24.jp" tvg-logo="https://i.imgur.com/Ya4yHpC.jpg" group-title="CS",NTV News24 (720p Official)
