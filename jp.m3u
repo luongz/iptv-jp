@@ -1,10 +1,8 @@
 #EXTM3U
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml" tvg-shift=0 m3uautoload=1
 #MAIN KANTO
-#EXTINF:-1 tvg-id="NHKGeneralTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="KANTO",NHK G (720p) 
-http://envyevents.co.za:8080/hls/nhkg/index.m3u8
-#EXTINF:-1 tvg-id="NHKGeneralTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="KANTO",NHK G (1080p test by VThanhTivi)
-http://103.140.250.237:8081/nhkg/mpegts
+#EXTINF:-1 tvg-id="NHKGeneralTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="KANTO",NHK G (DMCA Takedown , not available)
+http://111.com
 #EXTINF:-1 tvg-id="NipponTV.jp" group-title="KANTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png", Nippon TV (540p MOV3)
 https://ntv2.mov3.co/hls/ntv.m3u8
 
