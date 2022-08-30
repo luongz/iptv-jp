@@ -1,9 +1,12 @@
 name: EPG-Grabber
 on:
-  push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
+  schedule:    
+    - cron: "0 01 * * *"
+   workflow_run:
+    workflows: ["EPGGrabber"]
+    branches: [main]
+    types:
+      - completed
 jobs:
   build:
   if: ${{ github.event.workflow_run.conclusion == 'failure' }}
