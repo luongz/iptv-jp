@@ -1,5 +1,7 @@
 name: test
 on:
+ schedule:    
+    - cron: "0 3 * * *"
   push:
     branches: [ "main" ]
   pull_request:
@@ -13,3 +15,4 @@ jobs:
       - uses: actions/checkout@v3
       - name: Install EPGGrabber
         run: npm install -g epg-grabber
+        run: epg-grabber --config=jcom-config.js --days 3
