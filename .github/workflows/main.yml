@@ -12,6 +12,4 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Install EPGGrabber
-        run: |
-        echo bump
-        npm install -g epg-grabber
+        run: npm install -g epg-grabber
