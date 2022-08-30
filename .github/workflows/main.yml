@@ -1,0 +1,16 @@
+name: EPG-Grabber
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+jobs:
+  build:
+  if: ${{ github.event.workflow_run.conclusion == 'failure' }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Install epg-grabber
+        run: |
+        echo Install EPG-Grabber
+        npm install -g epg-grabber
