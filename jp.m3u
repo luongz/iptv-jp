@@ -44,7 +44,9 @@ http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
 https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 #EXTINF:-1 tvg-id="GSTV.us" tvg-logo="https://i.imgur.com/8AM9fC8.jpg" group-title="CS",GSTV (720p Official)
 https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist.m3u8
-
+#Radio
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.nhk.jp/assets/images/broadcastservice/bs/r3/r3-logo.png" group-title="Radio",NHK FM Tokyo
+https://radio-stream.nhk.jp/hls/live/2023507-b/nhkradiruakfm/master48k.m3u8
 #OTHER
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Htb_logo.svg/2093px-Htb_logo.svg.png" group-title="CS",HTB News24 (720p Stream)
 http://raw.githubusercontent.com/etag2000/IPTV/YTlive/hokkaidonews.m3u8
