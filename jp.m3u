@@ -7,7 +7,7 @@ http://111.com
 https://ntv2.mov3.co/hls/ntv.m3u8
 
 #EXTINF:-1 tvg-id="JORXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/1280px-Tokyo_Broadcasting_System_logo_2020.svg.png" group-title="KANTO",TBS (540p MOV3)
-https://tbs1.mov3.co/hls/tbs.m3u8
+https://tbs2.mov3.co/hls/tbs.m3u8
 
 #EXTINF:-1 tvg-id="JOCXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png" group-title="KANTO",Fuji TV (540p MOV3)
 https://fujitv2.mov3.co/hls/fujitv.m3u8
