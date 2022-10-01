@@ -2,7 +2,7 @@
 
 An simple Japanese IPTV , update 24/7 with a lot of channel collected all over the world.
 
-Note : This list is using some source from [iptv-org](https://github.com/iptv-org)
+Note : This list is using some source from [iptv-org](https://github.com/iptv-org) and [vthanhtivi](https://github.com/vthanhtivi)
 
 [![JapanTV](https://i.postimg.cc/NjHTFgWy/Screenshot-1.png)](https://postimg.cc/xX9qFSjY)
 # How to use?
