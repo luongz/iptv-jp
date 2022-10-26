@@ -1,3 +1,19 @@
+# Disclaimer of VTTV links (say hi to 5ch thread related to Amazon Fire Stick TV)
+1.Im "Tran" (トラン). Not "Nguyen" (グエン). I'm not robbers like some "Nguyen" live in Japan.
+
+2.The owner of VTTV links are allow me to added the VTTV links to my list.
+
+3.The links are temporary down due to expired account , but some ppl said I KILL THE VTTV LINKS ? 
+![image](https://user-images.githubusercontent.com/76716526/198028478-6b6bda25-6918-4407-9945-8165ccc86ca9.png)
+
+("he" stand of the VTTV links)
+
+Imagine using another forked repo and thinking the owner of the fork are owner of the links.
+
+I will update the disclaimer to be clear.
+
+btw the VTTV links are up now. After 30 days , the list are tempdown to replace the code . Sorry for the inconvenience.
+
 # JapanTV
 
 An simple Japanese IPTV , update 24/7 with a lot of channel collected all over the world.
