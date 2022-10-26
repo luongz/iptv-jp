@@ -1,1 +1,4 @@
-
+#EXTM3U
+#EXT-X-KEY:METHOD=AES-128,URI="https://d26flembt549o2.cloudfront.net/c00d9baa-2a93-4377-bcf1-e47645fca975/114aad2d-5339-420f-bf2a-134ae6a0ff4d"
+#EXTINF:-1, BS Yoshimoto
+https://drm.video.bsy.co.jp/ymbs/b25109aa4b3601/8oLTh-DxP6KfaXMT5U_Kww/index_1.m3u8?t=1666880420&r=UJ4DdJnKXHUOMb
