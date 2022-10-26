@@ -11,6 +11,7 @@
 Imagine using another forked repo and thinking the owner of the fork are owner of the links.
 
 I will update the disclaimer to be clear.
+after 72h i will remove it
 
 btw the VTTV links are up now. After 30 days , the list are tempdown to replace the code . Sorry for the inconvenience.
 
