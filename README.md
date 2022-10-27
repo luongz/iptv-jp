@@ -1,6 +1,6 @@
 # VTTV links information
 
-The VTTV links are restream from YoiTV . The YoiTV stream are from US , the owner of strean are restreaming it using a Vietnam hosting server . Because Vietnam is half a world away from the US , the stream will may be laggy.
+The VTTV links are restream from YoiTV . The YoiTV stream are from US , the owner of stream are restreaming it using a Vietnam hosting server . Because Vietnam is half a world away from the US , the stream will may be laggy.
 
 The VTTV links after 30days will be tempdown (1-3 days tempdown) due to license expried . We need to renew the license . After that , all stream will be back.
 # JapanTV
