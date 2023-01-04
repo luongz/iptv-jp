@@ -1,19 +1,19 @@
 #EXTM3U
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml" tvg-shift=0 m3uautoload=1
 #VThanhTV-ExclusiveKanto
-#EXTINF:-1 group-title="Kanto / VTTV" tvg-id="NHKGeneralTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1301/video-${start}-${offset}.m3u8", NHK G (1080p VTTV)
+#EXTINF:-1 group-title="Kanto / VTTV" tvg-id="NHKGeneralTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK G (1080p VTTV)
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=Hqm-m7jqkFlA1CloJoaJZQ==
-#EXTINF:-1 group-title="Kanto / VTTV" tvg-id="NHKEducationalTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1302/video-${start}-${offset}.m3u8" , NHK E (1080p VTTV)
+#EXTINF:-1 group-title="Kanto / VTTV" tvg-id="NHKEducationalTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png", NHK E (1080p VTTV)
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=j7SQYfwTF63S9FmRqrjNJw==
-#EXTINF:-1 group-title="Kanto / VTTV" tvg-id="NipponTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png" atchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1303/video-${start}-${offset}.m3u8" , NTV (1080p VTTV)
+#EXTINF:-1 group-title="Kanto / VTTV" tvg-id="NipponTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png", NTV (1080p VTTV)
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=gnpNcLEhwujjXOxTl7gaJg==
 #EXTINF:-1 group-title="Kanto / VTTV" tvg-id="JORXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png", TBS (1080p VTTV)
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=bRZUMcrX_kQ5R0XP-xJcZg==
 #EXTINF:-1 group-title="Kanto / VTTV" tvg-id="JOCXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png", Fuji TV  (1080p VTTV)
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=dfVr67j-Iy_J5tM4jYI7gQ==
-#EXTINF:-1 group-title="Kanto / VTTV" tvg-id="TVAsahi.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png" atchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1304/video-${start}-${offset}.m3u8", TV Asahi  (1080p VTTV)
+#EXTINF:-1 group-title="Kanto / VTTV" tvg-id="TVAsahi.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png", TV Asahi  (1080p VTTV)
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=iU_IC-e38CjfLhlvUxqWRg==
-#EXTINF:-1 group-title="Kanto / VTTV" tvg-id="JOTXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/2560px-TV_Tokyo_logo_20110629.svg.png" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1306/video-${start}-${offset}.m3u8" , TV Tokyo (1080p VTTV)
+#EXTINF:-1 group-title="Kanto / VTTV" tvg-id="JOTXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/2560px-TV_Tokyo_logo_20110629.svg.png", TV Tokyo (1080p VTTV)
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=dRNhWs1DLdcWq_ufN6fElg==
 #EXTINF:-1 group-title="Kanto / VTTV" tvg-id="JOMXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX1 (1080p VTTV)
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=9FvJseD6_AtVYU1vxvgzFA==
@@ -31,33 +31,33 @@ http://playlist.vthanhtivi.pw/yoitv/get.php?id=czZDtneIVvfAZn-728ylZw==
 #EXTINF:-1 group-title="Kansai / VTTV" tvg-id="JOBRDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kbs_logo.svg/2560px-Kbs_logo.svg.png", KBS Kyoto (1080p VTTV)
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=hFzosjtNqYtZGMMnkL0T7w==
 #VThanhTV-ExclusiveBS
-#EXTINF:-1 group-title="BS / VTTV" tvg-id="NHKBS1.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/NHKBS1%E3%83%AD%E3%82%B42020-.png" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1309/video-${start}-${offset}.m3u8" , NHK BS1  
+#EXTINF:-1 group-title="BS / VTTV" tvg-id="NHKBS1.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/NHKBS1%E3%83%AD%E3%82%B42020-.png", NHK BS1  
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=f-uLAeVdSWp9bd1XFM3Pzw==
 #EXTINF:-1 group-title="BS / VTTV" tvg-id="NHKBS1.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/NHKBS1%E3%83%AD%E3%82%B42020-.png", NHK BS1(with Sub)  
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=KQxwxJVMr_ML8ZvsMsi8uQ==
-#EXTINF:-1 group-title="BS / VTTV" tvg-id="NHKBSPremium.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/NHK_BS%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0_%E6%96%B0%E3%83%AD%E3%82%B4.png" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1310/video-${start}-${offset}.m3u8" , NHK BS Premium  
+#EXTINF:-1 group-title="BS / VTTV" tvg-id="NHKBSPremium.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/NHK_BS%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0_%E6%96%B0%E3%83%AD%E3%82%B4.png", NHK BS Premium  
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=z3QuIfTGLtMqsBfWF1H4Pg==
-#EXTINF:-1 group-title="BS / VTTV" tvg-id="BSNipponTV.jp" tvg-logo="https://i.postimg.cc/wvCmCc2p/t-i-xu-ng.png" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1311/video-${start}-${offset}.m3u8" , BS Nippon TV  
+#EXTINF:-1 group-title="BS / VTTV" tvg-id="BSNipponTV.jp" tvg-logo="https://i.postimg.cc/wvCmCc2p/t-i-xu-ng.png" , BS Nippon TV  
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=9GYVLtOWedFVhurDZOtidw==
-#EXTINF:-1 group-title="BS / VTTV" tvg-id="BSAsahi.jp" tvg-logo="https://company.tv-asahi.co.jp/saiyo/group/img/company/logo-bsasahi.png" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1312/video-${start}-${offset}.m3u8" , BS Asahi  
+#EXTINF:-1 group-title="BS / VTTV" tvg-id="BSAsahi.jp" tvg-logo="https://company.tv-asahi.co.jp/saiyo/group/img/company/logo-bsasahi.png", BS Asahi  
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=CDf67JD0vmiC74DDaND-XA==
-#EXTINF:-1 group-title="BS / VTTV" tvg-id="BSTBS.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs-tbs-jp.png" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1313/video-${start}-${offset}.m3u8", BS TBS  
+#EXTINF:-1 group-title="BS / VTTV" tvg-id="BSTBS.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs-tbs-jp.png", BS TBS  
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=JKQRufMevFV7GDKYePYwBQ==
 #EXTINF:-1 group-title="BS / VTTV" tvg-id="BSTVTokyo.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs-tokyo-jp.png", BS TV Tokyo
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=y288Dc5aSplzqGsFpCvm-g==
 #EXTINF:-1 group-title="BS / VTTV" tvg-id="BSFuji.jp" tvg-logo="https://www.zne-iptv.com/wp-content/uploads/2017/10/22-BS-FUJI-770x480.jpg", BS Fuji  
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=1WFDcS4-Lv_4Qsnx8TQtgg==
-#EXTINF:-1 group-title="BS / VTTV" tvg-id="WOWOWPrime.jp" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ww/wowow_prime.png" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1501/video-${start}-${offset}.m3u8", WOWOW Prime  
+#EXTINF:-1 group-title="BS / VTTV" tvg-id="WOWOWPrime.jp" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ww/wowow_prime.png", WOWOW Prime  
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=HloiOsNhiBm-DF9vVfFMTw==
-#EXTINF:-1 group-title="BS / VTTV" tvg-id="WOWOWLive.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow_live.png" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1503/video-${start}-${offset}.m3u8, WOWOW Live  
+#EXTINF:-1 group-title="BS / VTTV" tvg-id="WOWOWLive.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow_live.png", WOWOW Live  
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=g8s69Z5bxLZgAoqqFT8iDg==
-#EXTINF:-1 group-title="BS / VTTV" tvg-id="WOWOWCinema.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow_cinema.png" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1502/video-${start}-${offset}.m3u8", WOWOW Cinema  
+#EXTINF:-1 group-title="BS / VTTV" tvg-id="WOWOWCinema.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow_cinema.png", WOWOW Cinema  
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=iF6iKCiap5agDJYZhyVjwg==
-#EXTINF:-1 group-title="BS / VTTV" tvg-id="Star1.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_channel_jp_1.png" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1504/video-${start}-${offset}.m3u8", Star Channel 1  
+#EXTINF:-1 group-title="BS / VTTV" tvg-id="Star1.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_channel_jp_1.png", Star Channel 1  
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=yUuqXFK2vDyiwU66uQEQ1Q==
-#EXTINF:-1 group-title="BS / VTTV" tvg-id="Star2.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_channel_jp_2.png" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1505/video-${start}-${offset}.m3u8", Star Channel 2  
+#EXTINF:-1 group-title="BS / VTTV" tvg-id="Star2.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_channel_jp_2.png", Star Channel 2  
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=NGPH2Brrn3gqcgdTIhVmwg==
-#EXTINF:-1 group-title="BS / VTTV" tvg-id="Star3.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_channel_jp_3.png" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1506/video-${start}-${offset}.m3u8", Star Channel 3  
+#EXTINF:-1 group-title="BS / VTTV" tvg-id="Star3.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_channel_jp_3.png", Star Channel 3  
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=90LieNPzSaD1VOpEeT7f1w==
 #EXTINF:-1 group-title="BS / VTTV" tvg-id="BS11.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs-11-jp.png", BS11 
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=tEg54Q7WKFA66LWT0fB0gw==
