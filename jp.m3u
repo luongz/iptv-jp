@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/ja/tvguide.myjcom.jp.xml" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="https://epg.pw/xmltv/epg_JP.xmll" tvg-shift=0 m3uautoload=1
 #Kanto
 #EXTINF:-1 group-title="Kanto / 関東" tvg-id="63330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK G
 https://api.vthanhtivi.pw/test/jp.php?id=14
