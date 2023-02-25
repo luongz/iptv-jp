@@ -18,9 +18,9 @@ https://api.vthanhtivi.pw/test/jp.php?id=4
 https://api.vthanhtivi.pw/test/jp.php?id=5
 #EXTINF:-1 group-title="Kanto / 関東" tvg-id="63394" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png", Fuji TV  
 https://api.vthanhtivi.pw/test/jp.php?id=12
-#EXTINF:-1 group-title="Kanto / 関東" tvg-id="63382" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png" atchup="append", TV Asahi  
+#EXTINF:-1 group-title="Kanto / 関東" tvg-id="63382" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png", TV Asahi  
 https://api.vthanhtivi.pw/test/jp.php?id=7
-#EXTINF:-1 group-title="Kanto / 関東" tvg-id="63309" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/2560px-TV_Tokyo_logo_20110629.svg.png" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1306/video-${start}-${offset}.m3u8" , TV Tokyo 
+#EXTINF:-1 group-title="Kanto / 関東" tvg-id="63309" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/2560px-TV_Tokyo_logo_20110629.svg.png", TV Tokyo 
 https://api.vthanhtivi.pw/test/jp.php?id=8
 #EXTINF:-1 group-title="Kanto / 関東" tvg-id="63343" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX1
 https://api.vthanhtivi.pw/test/jp.php?id=17
