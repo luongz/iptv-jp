@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://epg.pw/xmltv/epg_JP.xml" tvg-shift=0 m3uautoload=1
-#EXTINF:-1 ,paypal.me/Tieptran1970 | We need your help
+#EXTINF:-1 ,paypal.me/Tieptran1970 | Donate
 https://google.com
 #Kanto
 #EXTINF:-1 group-title="Kanto / 関東" tvg-id="63330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK G
@@ -68,6 +68,12 @@ https://api.vthanhtivi.pw/test/jp.php?id=54
 https://api.vthanhtivi.pw/test/jp.php?id=157
 #EXTINF:-1 group-title="BS" tvg-id="BS12.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs-12-jp.png", BS12 
 https://api.vthanhtivi.pw/test/jp.php?id=114
+#EXTINF:-1 group-title="BS" tvg-id="63009" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/BS-Yoshimoto.svg/revision/latest/scale-to-width-down/300?cb=20220315152056", BS Yoshimoto  
+https://api.vthanhtivi.pw/test/jp.php?id=108
+#EXTINF:-1 group-title="BS" tvg-id="63329" tvg-logo="https://spice.eplus.jp/images/I1yDwjvMRViPzKUCyRmiq0ES03KPPQlBIsn5FSq74vVic3lLWndaqZmYcuWaoiRJ", BS Shochiku Tokyu  
+https://api.vthanhtivi.pw/test/jp.php?id=125
+#EXTINF:-1 group-title="BS" tvg-id="63008" tvg-logo=""https://static.wikia.nocookie.net/logopedia/images/a/ad/BS-Japanext.svg/revision/latest?cb=20220327032955, BS Japanext  
+https://api.vthanhtivi.pw/test/jp.php?id=117
 #EXTINF:-1 group-title="BS" tvg-id="GreenChannel.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/green_channel_jp.png", Green Channel  
 https://api.vthanhtivi.pw/test/jp.php?id=60
 #EXTINF:-1 group-title="BS" tvg-id="Animax.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animax_asia.png", BS Animax  
