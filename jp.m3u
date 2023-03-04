@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epg.pw/xmltv/epg_JP.xml" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_JP2.xml.gz" tvg-shift=0 m3uautoload=1
 #EXTINF:-1 ,paypal.me/Tieptran1970 | Donate
 https://google.com
 #Kanto
