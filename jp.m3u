@@ -1,12 +1,12 @@
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_JP2.xml.gz" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="" tvg-shift=0 m3uautoload=1
 #EXTINF:-1 ,paypal.me/Tieptran1970 | Donate
 https://google.com
 #Kanto
-#EXTINF:-1 group-title="Kanto / 関東" tvg-id="NHK東京　総合.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK G
+#EXTINF:-1 group-title="Kanto / 関東" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK G
 https://api.vthanhtivi.pw/test/jp.php?id=14
-#EXTINF:-1 group-title="Kanto / 関東" tvg-id="NHK東京　総合.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK G (2)
+#EXTINF:-1 group-title="Kanto / 関東" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK G (2)
 https://api.vthanhtivi.pw/test/jp.php?id=321
-#EXTINF:-1 group-title="Kanto / 関東" tvg-id="NHK東京　総合.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK G (3)
+#EXTINF:-1 group-title="Kanto / 関東" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK G (3)
 https://api.vthanhtivi.pw/test/jp.php?id=25
 #EXTINF:-1 group-title="Kanto / 関東" tvg-id="63388" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png", NHK E
 https://api.vthanhtivi.pw/test/jp.php?id=3
