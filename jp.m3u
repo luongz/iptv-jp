@@ -173,7 +173,7 @@ https://api.vthanhtivi.pw/test/jp.php?id=74
 https://api.vthanhtivi.pw/test/jp.php?id=131
 #EXTINF:-1 group-title="CS" tvg-id="kidsstation" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kidsstation.png", キッズステーション / Kids Staton TV
 https://api.vthanhtivi.pw/test/jp.php?id=81
-#EXTINF:-1 group-title="CS" tvg-id="ATX.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png", アニメシアターX（AT-X)  
+#EXTINF:-1 group-title="CS" tvg-id="atx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png", アニメシアターX（AT-X)  
 https://api.vthanhtivi.pw/test/jp.php?id=107
 #EXTINF:-1 group-title="CS" tvg-id="disneyjr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.png", ディズニージュニア / Disney Junior
 https://api.vthanhtivi.pw/test/jp.php?id=89
