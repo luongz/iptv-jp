@@ -17,7 +17,7 @@ https://api.vthanhtivi.pw/test/jp.php?id=4
 #EXTINF:-1 group-title="Kanto / 関東" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png", TBS 
 https://api.vthanhtivi.pw/test/jp.php?id=5
 #EXTINF:-1 group-title="Kanto / 関東" tvg-id="fujitv" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png", Fuji TV  
-https://api.vthanhtivi.pw/test/jp.php?id=12
+https://code.vthanhtivi.pw/getlink/jptv/12/playlist.m3u8
 #EXTINF:-1 group-title="Kanto / 関東" tvg-id="tvasahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png", TV Asahi  
 https://api.vthanhtivi.pw/test/jp.php?id=7
 #EXTINF:-1 group-title="Kanto / 関東" tvg-id="tvtokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/2560px-TV_Tokyo_logo_20110629.svg.png", TV Tokyo 
@@ -26,11 +26,11 @@ https://api.vthanhtivi.pw/test/jp.php?id=8
 https://api.vthanhtivi.pw/test/jp.php?id=17
 #Kansai
 #EXTINF:-1 group-title="Kansai / 関西" tvg-id="mbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/2560px-Mainichi_Broadcasting_System_logo.svg.png", MBS
-https://api.vthanhtivi.pw/test/jp.php?id=18
+https://code.vthanhtivi.pw/getlink/jptv/18/playlist.m3u8
 #EXTINF:-1 group-title="Kansai / 関西" tvg-id="abc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/2560px-Asahi_Broadcasting_Corporation_Logo.svg.png", ABC 
-https://api.vthanhtivi.pw/test/jp.php?id=28
+https://code.vthanhtivi.pw/getlink/jptv/28/playlist.m3u8
 #EXTINF:-1 group-title="Kansai / 関西" tvg-id="ktv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/2560px-Ktv_logo.svg.png", Kansai TV
-https://api.vthanhtivi.pw/test/jp.php?id=20
+https://code.vthanhtivi.pw/getlink/jptv/20/playlist.m3u8
 #EXTINF:-1 group-title="Kansai / 関西" tvg-id="ytv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/2560px-Yomiuri_Telecasting_Corporation_Logo.svg.png", Yomiuri TV  
 https://api.vthanhtivi.pw/test/jp.php?id=21
 #EXTINF:-1 group-title="Kansai / 関西" tvg-id="tvosaka" tvg-logo="https://seeklogo.com/images/T/tv-osaka-logo-8BA164D52E-seeklogo.com.png", TV Osaka 
@@ -38,7 +38,7 @@ https://api.vthanhtivi.pw/test/jp.php?id=22
 #EXTINF:-1 group-title="Kansai / 関西" tvg-id="suntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/SUN-TV_wordmark_2019.png", SUN TV
 https://api.vthanhtivi.pw/test/jp.php?id=23
 #EXTINF:-1 group-title="Kansai / 関西" tvg-id="kbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kbs_logo.svg/2560px-Kbs_logo.svg.png", KBS Kyoto 
-https://api.vthanhtivi.pw/test/jp.php?id=116
+https://code.vthanhtivi.pw/getlink/jptv/116/playlist.m3u8
 #BS
 #EXTINF:-1 group-title="BS" tvg-id="nhkbs1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/NHKBS1%E3%83%AD%E3%82%B42020-.png", NHK BS1  
 https://api.vthanhtivi.pw/test/jp.php?id=32
