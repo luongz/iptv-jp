@@ -61,11 +61,11 @@ https://code.vthanhtivi.pw/getlink/jptv/40/playlist.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="wowowcinema" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow_cinema.png", WOWOW Cinema
 https://code.vthanhtivi.pw/getlink/jptv/41/playlist.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="starch1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_channel_jp_1.png", Star Channel 1  
-https://api.vthanhtivi.pw/test/jp.php?id=52
+https://code.vthanhtivi.pw/getlink/jptv/52/playlist.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="starch2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_channel_jp_2.png", Star Channel 2  
-https://api.vthanhtivi.pw/test/jp.php?id=53
+https://code.vthanhtivi.pw/getlink/jptv/53/playlist.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="starch3" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_channel_jp_3.png", Star Channel 3  
-https://api.vthanhtivi.pw/test/jp.php?id=54
+https://code.vthanhtivi.pw/getlink/jptv/54/playlist.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="bs11" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs-11-jp.png", BS11 
 https://code.vthanhtivi.pw/getlink/jptv/157/playlist.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="bs12" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs-12-jp.png", BS12 
