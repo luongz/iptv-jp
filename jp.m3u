@@ -55,11 +55,11 @@ https://code.vthanhtivi.pw/getlink/jptv/37/playlist.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="bsfuji" tvg-logo="https://www.zne-iptv.com/wp-content/uploads/2017/10/22-BS-FUJI-770x480.jpg", BS Fuji  
 https://code.vthanhtivi.pw/getlink/jptv/38/playlist.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="wowowprime" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ww/wowow_prime.png", WOWOW Prime  
-https://api.vthanhtivi.pw/test/jp.php?id=39
+https://code.vthanhtivi.pw/getlink/jptv/39/playlist.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="wowowlive" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow_live.png", WOWOW Live  
-https://api.vthanhtivi.pw/test/jp.php?id=40
-#EXTINF:-1 group-title="BS" tvg-id="wowowcinema" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow_cinema.png", WOWOW Cinema  
-https://api.vthanhtivi.pw/test/jp.php?id=41
+https://code.vthanhtivi.pw/getlink/jptv/40/playlist.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="wowowcinema" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow_cinema.png", WOWOW Cinema
+https://code.vthanhtivi.pw/getlink/jptv/41/playlist.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="starch1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_channel_jp_1.png", Star Channel 1  
 https://api.vthanhtivi.pw/test/jp.php?id=52
 #EXTINF:-1 group-title="BS" tvg-id="starch2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_channel_jp_2.png", Star Channel 2  
