@@ -9,5 +9,5 @@ Sometimes links reponsed can't play , try play again.
 
 Recommend HW decoder!
 
-contact me if you need support : trandinhluong2411@gmail.com (slow reponsed) / **[Discord](https://lookup.guru/673447795843399690)**
+contact me if you need support : trandinhluong2411@gmail.com (slow responsed) / **[Discord](https://lookup.guru/673447795843399690)**
 
