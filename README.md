@@ -1,5 +1,5 @@
 # We need your help
-we paid the hosting.
+we paid the hosting. Check out the paypal in the list.
 
 # Infomation
 
