@@ -56,8 +56,6 @@ https://code.vthanhtivi.pw/getlink/jptv/M1nVWHnA3F2pv8mBmfM0PQ==/playlist.m3u8
 https://code.vthanhtivi.pw/getlink/jptv/hYnuGNMX-sWlu6qDdQe5bg==/playlist.m3u8
 #EXTINF:-1 tvg-id="tvosaka" tvg-name="TV Osaka" tvg-logo="https://seeklogo.com/images/T/tv-osaka-logo-8BA164D52E-seeklogo.com.png" group-title="Kansai / 関西",TV Osaka
 https://code.vthanhtivi.pw/getlink/jptv/Ep1PQsectdEoqb5giVMrdw==/playlist.m3u8
-#EXTINF:-1 tvg-id="suntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/SUN-TV_wordmark_2019.png" group-title="Kansai / 関西",SUN TV
-http://rip.hidari.moe/get/jptv/get.php?id=E7fZyuqrQ657ODVKC1Wj7g==
 #EXTINF:-1 tvg-id="kbs" tvg-name="KBS Kyoto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kbs_logo.svg/2560px-Kbs_logo.svg.png" group-title="Kansai / 関西",KBS Kyoto
 https://code.vthanhtivi.pw/getlink/jptv/-th1_a7-fXyMoWDACk-jjg==/playlist.m3u8
 #Kansaiv2
@@ -75,6 +73,8 @@ http://rip.hidari.moe/get/jptv/get.php?id=jXAkGPMC5sVcMvQ09HoU4g==
 http://rip.hidari.moe/get/jptv/get.php?id=LqzQ_qk7P8LNOaghAThx4g==
 #EXTINF:-1 tvg-id="tvosaka" tvg-name="TV Osaka (v2)" tvg-logo="https://seeklogo.com/images/T/tv-osaka-logo-8BA164D52E-seeklogo.com.png" group-title="Kansai / 関西 (v2)",TV Osaka (v2)
 http://rip.hidari.moe/get/jptv/get.php?id=czZDtneIVvfAZn-728ylZw==
+#EXTINF:-1 tvg-id="suntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/SUN-TV_wordmark_2019.png" group-title="Kansai / 関西",SUN TV
+http://rip.hidari.moe/get/jptv/get.php?id=E7fZyuqrQ657ODVKC1Wj7g==
 #EXTINF:-1 tvg-id="kbs" tvg-name="KBS Kyoto (v2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kbs_logo.svg/2560px-Kbs_logo.svg.png" group-title="Kansai / 関西 (v2)",KBS Kyoto (v2)
 http://rip.hidari.moe/get/jptv/get.php?id=hFzosjtNqYtZGMMnkL0T7w==
 #BS
