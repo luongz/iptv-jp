@@ -4,20 +4,36 @@ https://google.com
 #Kanto
 #EXTINF:-1 group-title="Kanto / 関東 " tvg-id="nhkg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK G 
 http://code.vthanhtivi.pw/getlink/jptv3/1/playlist.m3u8
+#EXTINF:-1 group-title="Kanto / 関東 " tvg-id="nhkg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK G +
+http://code.vthanhtivi.pw/getlink/jptv3/213/playlist.m3u8
 #EXTINF:-1 group-title="Kanto / 関東 " tvg-id="nhke" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png", NHK E 
 http://code.vthanhtivi.pw/getlink/jptv3/2/playlist.m3u8
+#EXTINF:-1 group-title="Kanto / 関東 " tvg-id="nhke" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png", NHK E +
+http://code.vthanhtivi.pw/getlink/jptv3/214/playlist.m3u8
 #EXTINF:-1 group-title="Kanto / 関東 " tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png", NTV 
 http://code.vthanhtivi.pw/getlink/jptv3/4/playlist.m3u8
+#EXTINF:-1 group-title="Kanto / 関東 " tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png", NTV +
+http://code.vthanhtivi.pw/getlink/jptv3/202/playlist.m3u8
 #EXTINF:-1 group-title="Kanto / 関東 " tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png", TBS 
 http://code.vthanhtivi.pw/getlink/jptv3/13/playlist.m3u8
+#EXTINF:-1 group-title="Kanto / 関東 " tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png", TBS +
+http://code.vthanhtivi.pw/getlink/jptv3/203/playlist.m3u8
 #EXTINF:-1 group-title="Kanto / 関東 " tvg-id="fujitv" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png", Fuji TV  
 http://code.vthanhtivi.pw/getlink/jptv3/14/playlist.m3u8
+#EXTINF:-1 group-title="Kanto / 関東 " tvg-id="fujitv" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png", Fuji TV +
+http://code.vthanhtivi.pw/getlink/jptv3/204/playlist.m3u8
 #EXTINF:-1 group-title="Kanto / 関東 " tvg-id="tvasahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png", TV Asahi  
 http://code.vthanhtivi.pw/getlink/jptv3/15/playlist.m3u8
+#EXTINF:-1 group-title="Kanto / 関東 " tvg-id="tvasahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png", TV Asahi +
+http://code.vthanhtivi.pw/getlink/jptv3/205/playlist.m3u8
 #EXTINF:-1 group-title="Kanto / 関東 " tvg-id="tvtokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/2560px-TV_Tokyo_logo_20110629.svg.png", TV Tokyo 
 http://code.vthanhtivi.pw/getlink/jptv3/16/playlist.m3u8
+#EXTINF:-1 group-title="Kanto / 関東 " tvg-id="tvtokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/2560px-TV_Tokyo_logo_20110629.svg.png", TV Tokyo +
+http://code.vthanhtivi.pw/getlink/jptv3/276/playlist.m3u8
 #EXTINF:-1 group-title="Kanto / 関東 " tvg-id="tokyomx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX1
 http://code.vthanhtivi.pw/getlink/jptv3/70/playlist.m3u8
+#EXTINF:-1 group-title="Kanto / 関東 " tvg-id="tokyomx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX1 +
+http://code.vthanhtivi.pw/getlink/jptv3/277/playlist.m3u8
 #Kansai
 #EXTINF:-1 group-title="Kansai / 関西" tvg-id="nhkg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK G Osala
 http://code.vthanhtivi.pw/getlink/jptv3/69/playlist.m3u8
