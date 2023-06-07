@@ -5,7 +5,7 @@ we paid the hosting. Check out the paypal in the list.
 
 The links back : 19/4/23
 
-Sometimes links reponsed can't play , try play again.
+Sometimes links reponsed can't play , try play again and again until you can watch it :D
 
 Recommend HW decoder!
 
