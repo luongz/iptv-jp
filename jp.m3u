@@ -163,6 +163,8 @@ https://code.vthanhtivi.pw/getlink/jptv3/60/playlist.m3u8
 https://code.vthanhtivi.pw/getlink/jptv3/63/playlist.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="mtv" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mtv-us.svg", MTV  
 https://code.vthanhtivi.pw/getlink/jptv3/50/playlist.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="cn" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cartoon-network-us.svg", Cartoon Network
+https://code.vthanhtivi.pw/getlink/jptv3/55/playlist.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="kidsstation" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kidsstation.png", キッズステーション / Kids Staton TV
 https://code.vthanhtivi.pw/getlink/jptv3/64/playlist.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="disneyjr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.png", ディズニージュニア / Disney Junior
