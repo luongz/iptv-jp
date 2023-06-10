@@ -3,7 +3,9 @@ we paid the hosting. Check out the paypal in the list.
 
 # Infomation
 
-The links back : 19/4/23
+The links back : 6/10/23 (stable) , 6/9/2023 (beta)
+
+
 
 Sometimes links reponsed can't play , try play again and again until you can watch it :D
 
