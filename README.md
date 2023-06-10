@@ -1,3 +1,7 @@
+# smth
+List chạy bằng tiền! Ghi cre vào nhé. Cứ chôm link thì có cdb host đâu. Thân.
+
+
 # We need your help
 we paid the hosting. Check out the paypal in the list.
 
