@@ -10,11 +10,11 @@ Spend 60$/month for the project. Check out the paypal in the list.
 
 The links back : 6/10/23 (stable) , 6/9/2023 (beta)
 
-Running by vthanh and me.
+Running by [vthanh](https://fb.com/vthanhloveanime) and me.
 
 
 
-Sometimes links reponsed can't play , try play again and again until you can watch it :D
+Sometimes links responsed can't play , try play again and again until you can watch it :D
 
 Recommend HW decoder!
 
