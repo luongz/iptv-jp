@@ -12,7 +12,7 @@ Q: The links return an error.
 
 A: As we say, try playing again and again (likely 5 times)... Explanation for this: we are "catching" the link.
 # Infomation
-The links back are: 6/10/23 (v1), 6/20/2023 (v2).
+The links back are: 6/10/23
 
 We maintain the list with money. Don't steal them. You can use it as your personal list by adding the credit. Thanks.
 
