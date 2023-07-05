@@ -369,3 +369,8 @@ http://code.vthanhtivi.pw/getlink/jptv1/epy3fdtnc1oI4z5JrjZzAQ==/playlist_654fcf
 #EXTINF:-1 tvg-id="dancech" tvg-name="Dance Channel" tvg-logo="https://www.dance-ch.jp/image/common/logo_f.png" group-title="CS2",Dance Channel
 http://code.vthanhtivi.pw/getlink/jptv1/kKx57kaG4Tz9tOTiLx8exA==/playlist_654fcf58420df5c42f75b8a470257e550602f245.m3u8
 
+#CSOther
+#EXTINF:-1 group-title="CS" tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nhk-world-premium-jp.png", NHK World Premium
+https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+
+
