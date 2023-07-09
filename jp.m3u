@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.ra1n.lol/jp.xml" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="http://epg.ra1n.lol/jp.xml,https://epg.ra1n.lol/jpkansai.xml" tvg-shift=0 m3uautoload=1
 #EXTINF:-1 group-title="Information" ,paypal.me/Tieptran1970 | Donate
 http://google.com
 #EXTINF:-1 group-title="Information" ,try play again if reponsed error!
@@ -72,9 +72,9 @@ https://code.vthanhtivi.pw/getlink/jptv2/17/playlist.m3u8
 https://code.vthanhtivi.pw/getlink/jptv2/209/playlist.m3u8
 #EXTINF:-1 group-title="Kansai" tvg-id="abc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/2560px-Asahi_Broadcasting_Corporation_Logo.svg.png", ABC 
 https://code.vthanhtivi.pw/getlink/jptv2/18/playlist.m3u8
-#EXTINF:-1 group-title="Kansai" tvg-id="ktv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/2560px-Ktv_logo.svg.png", Kansai TV HD
+#EXTINF:-1 group-title="Kansai" tvg-id="kansaitv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/2560px-Ktv_logo.svg.png", Kansai TV HD
 https://code.vthanhtivi.pw/getlink/jptv2/210/playlist.m3u8
-#EXTINF:-1 group-title="Kansai" tvg-id="ktv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/2560px-Ktv_logo.svg.png", Kansai TV
+#EXTINF:-1 group-title="Kansai" tvg-id="kansaitv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/2560px-Ktv_logo.svg.png", Kansai TV
 https://code.vthanhtivi.pw/getlink/jptv2/19/playlist.m3u8
 #EXTINF:-1 group-title="Kansai" tvg-id="ytv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/2560px-Yomiuri_Telecasting_Corporation_Logo.svg.png", Yomiuri TV HD
 https://code.vthanhtivi.pw/getlink/jptv2/211/playlist.m3u8
@@ -99,13 +99,13 @@ https://code.vthanhtivi.pw/getlink/jptv1/Efifu_2sffWgvfUzPuoNvA==/playlist.m3u8
 https://code.vthanhtivi.pw/getlink/jptv1/ZOJu5avj3LIqoRXR9ogC0w==/playlist.m3u8
 #EXTINF:-1 tvg-id="abc" tvg-name="ABC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/2560px-Asahi_Broadcasting_Corporation_Logo.svg.png" group-title="Kansai 2",ABC
 https://code.vthanhtivi.pw/getlink/jptv1/G2VFEt11D2hQyexpltLAFQ==/playlist.m3u8
-#EXTINF:-1 tvg-id="ktv" tvg-name="Kansai TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/2560px-Ktv_logo.svg.png" group-title="Kansai 2",Kansai TV
+#EXTINF:-1 tvg-id="kansaitv" tvg-name="Kansai TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/2560px-Ktv_logo.svg.png" group-title="Kansai 2",Kansai TV
 https://code.vthanhtivi.pw/getlink/jptv1/M1nVWHnA3F2pv8mBmfM0PQ==/playlist.m3u8
 #EXTINF:-1 tvg-id="ytv" tvg-name="Yomiuri TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/2560px-Yomiuri_Telecasting_Corporation_Logo.svg.png" group-title="Kansai 2",Yomiuri TV
 https://code.vthanhtivi.pw/getlink/jptv1/hYnuGNMX-sWlu6qDdQe5bg==/playlist.m3u8
 #EXTINF:-1 tvg-id="tvosaka" tvg-name="TV Osaka" tvg-logo="https://seeklogo.com/images/T/tv-osaka-logo-8BA164D52E-seeklogo.com.png" group-title="Kansai 2",TV Osaka
 https://code.vthanhtivi.pw/getlink/jptv1/Ep1PQsectdEoqb5giVMrdw==/playlist.m3u8
-#EXTINF:-1 tvg-id="kbs" tvg-name="KBS Kyoto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kbs_logo.svg/2560px-Kbs_logo.svg.png" group-title="Kansai 2",KBS Kyoto
+#EXTINF:-1 tvg-id="kbskyoto" tvg-name="KBS Kyoto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kbs_logo.svg/2560px-Kbs_logo.svg.png" group-title="Kansai 2",KBS Kyoto
 https://code.vthanhtivi.pw/getlink/jptv1/-th1_a7-fXyMoWDACk-jjg==/playlist.m3u8
 
 
