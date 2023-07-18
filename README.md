@@ -1,5 +1,5 @@
 # We need your help
-Spend 60$/month for the project. Check out the paypal in the list.
+Spend 30$/month for the project. Check out the paypal in the list.
 
 Bank transfer (VN) & via Crypto : pm via Email/Discord
 
