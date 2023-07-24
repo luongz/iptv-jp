@@ -1,9 +1,7 @@
-#EXTM3U url-tvg="http://epg.ra1n.lol/jp.xml" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="http://epg.ra1n.lol/jp.xml,https://epg.ra1n.lol/jpkansai.xml" tvg-shift=0 m3uautoload=1
 #EXTINF:-1 group-title="Information" ,paypal.me/Tieptran1970 | Donate
 http://google.com
 #EXTINF:-1 group-title="Information" ,try play again if reponsed error!
-https://google.com
-#EXTINF:-1 group-title="Information" ,v2 is beta
 https://google.com
 #Kanto
 #EXTINF:-1 group-title="Kanto" tvg-id="nhkg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK G HD
@@ -39,6 +37,7 @@ https://sv92102.vthanhtivi.pw/jptv/1/277.m3u8
 #EXTINF:-1 group-title="Kanto" tvg-id="tokyomx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX1
 https://sv92102.vthanhtivi.pw/jptv/1/70.m3u8
 
+<<<<<<< HEAD
 #Kanto2
 #EXTINF:-1 tvg-id="nhkg" tvg-name="NHK G" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="Kanto 2",NHK G
 https://code.vthanhtivi.pw/getlink/jptv1/Zt19NGeOuIq3EwLPZh_KvQ==.m3u8
@@ -59,6 +58,8 @@ https://code.vthanhtivi.pw/getlink/jptv1/9-SZo2YQISIfL52o5p6Wtg==.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TOKYO MX 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="Kanto 2",TOKYO MX 2
 https://code.vthanhtivi.pw/getlink/jptv1/u6-t-I0UVIdrkCYJzXFkpg==.m3u8
 
+=======
+>>>>>>> 4265596bd5b0485cbc1c032330492112ca4bd49c
 #Kansai
 #EXTINF:-1 group-title="Kansai" tvg-id="nhkgosaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK G Osaka HD
 https://sv92102.vthanhtivi.pw/jptv/1/206.m3u8
@@ -71,11 +72,19 @@ https://code.vthanhtivi.pw/getlink/jptv2/17.m3u8
 #EXTINF:-1 group-title="Kansai" tvg-id="abc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/2560px-Asahi_Broadcasting_Corporation_Logo.svg.png", ABC HD
 https://code.vthanhtivi.pw/getlink/jptv2/209.m3u8
 #EXTINF:-1 group-title="Kansai" tvg-id="abc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/2560px-Asahi_Broadcasting_Corporation_Logo.svg.png", ABC 
+<<<<<<< HEAD
 https://code.vthanhtivi.pw/getlink/jptv2/18.m3u8
 #EXTINF:-1 group-title="Kansai" tvg-id="ktv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/2560px-Ktv_logo.svg.png", Kansai TV HD
 https://code.vthanhtivi.pw/getlink/jptv2/210.m3u8
 #EXTINF:-1 group-title="Kansai" tvg-id="ktv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/2560px-Ktv_logo.svg.png", Kansai TV
 https://code.vthanhtivi.pw/getlink/jptv2/19.m3u8
+=======
+https://code.vthanhtivi.pw/getlink/jptv2/18/playlist.m3u8
+#EXTINF:-1 group-title="Kansai" tvg-id="kansaitv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/2560px-Ktv_logo.svg.png", Kansai TV HD
+https://code.vthanhtivi.pw/getlink/jptv2/210/playlist.m3u8
+#EXTINF:-1 group-title="Kansai" tvg-id="kansaitv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/2560px-Ktv_logo.svg.png", Kansai TV
+https://code.vthanhtivi.pw/getlink/jptv2/19/playlist.m3u8
+>>>>>>> 4265596bd5b0485cbc1c032330492112ca4bd49c
 #EXTINF:-1 group-title="Kansai" tvg-id="ytv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/2560px-Yomiuri_Telecasting_Corporation_Logo.svg.png", Yomiuri TV HD
 https://code.vthanhtivi.pw/getlink/jptv2/211.m3u8
 #EXTINF:-1 group-title="Kansai" tvg-id="ytv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/2560px-Yomiuri_Telecasting_Corporation_Logo.svg.png", Yomiuri TV  
@@ -89,6 +98,7 @@ https://code.vthanhtivi.pw/getlink/jptv2/207.m3u8
 #EXTINF:-1 group-title="Kansai" tvg-id="suntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/SUN-TV_wordmark_2019.png", SUN TV
 https://code.vthanhtivi.pw/getlink/jptv2/22.m3u8
 
+<<<<<<< HEAD
 
 #Kansai2
 #EXTINF:-1 tvg-id="nhkgosaka" tvg-name="NHK G Osaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="Kansai 2",NHK G Osaka
@@ -110,6 +120,8 @@ https://code.vthanhtivi.pw/getlink/jptv1/-th1_a7-fXyMoWDACk-jjg==.m3u8
 
 
 
+=======
+>>>>>>> 4265596bd5b0485cbc1c032330492112ca4bd49c
 #BS
 #EXTINF:-1 group-title="BS" tvg-id="nhkbs1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/NHKBS1%E3%83%AD%E3%82%B42020-.png", NHK BS1 HD
 https://code.vthanhtivi.pw/getlink/jptv2/215.m3u8
@@ -184,6 +196,7 @@ https://code.vthanhtivi.pw/getlink/jptv2/38.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="disneych" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney-channel-us.svg", Disney Channel
 https://code.vthanhtivi.pw/getlink/jptv2/39.m3u8
 
+<<<<<<< HEAD
 #BS2
 #EXTINF:-1 tvg-id="nhkbs1" tvg-name="NHK BS1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/NHKBS1%E3%83%AD%E3%82%B42020-.png" group-title="BS2",NHK BS1
 https://code.vthanhtivi.pw/getlink/jptv1/9sqPFIgIL9jPHSVgfZvocw==.m3u8
@@ -242,6 +255,8 @@ https://code.vthanhtivi.pw/getlink/jptv1/Hj8HzlXSQnqBFMUva4MA4g==.m3u8
 #EXTINF:-1 tvg-id="bsyoshimoto" tvg-name="BS Yoshimoto" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/BS-Yoshimoto.svg/revision/latest/scale-to-width-down/300?cb=20220315152056" group-title="BS2",BS Yoshimoto
 https://code.vthanhtivi.pw/getlink/jptv1/7_NqQ8YhAIHChUndlSRpYQ==.m3u8
 
+=======
+>>>>>>> 4265596bd5b0485cbc1c032330492112ca4bd49c
 #CS
 #EXTINF:-1 group-title="CS" tvg-id="homedrama" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/home-drama-channelpng-jp.png", ホームドラマチャンネル / Home Drama Channel 
 https://code.vthanhtivi.pw/getlink/jptv2/59.m3u8
@@ -278,6 +293,7 @@ https://code.vthanhtivi.pw/getlink/jptv2/53.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="natgeo" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/national-geographic-us.svg", ナショナル ジオグラフィック / National Geographic
 https://code.vthanhtivi.pw/getlink/jptv2/51.m3u8
 
+<<<<<<< HEAD
 #CS2
 #EXTINF:-1 tvg-id="toeich" tvg-name="東映チャンネル / Toei Channel" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/toei_channel.png" group-title="CS2",東映チャンネル / Toei Channel
 https://code.vthanhtivi.pw/getlink/jptv1/ItLramN_-gvnHdVeTBK5rw==.m3u8
@@ -388,8 +404,9 @@ https://code.vthanhtivi.pw/getlink/jptv1/ZPMe9i21mYzj4bNOlaYSyQ==.m3u8
 #EXTINF:-1 tvg-id="dancech" tvg-name="ダンスチャンネル / Dance Channel" tvg-logo="https://www.dance-ch.jp/image/common/logo_f.png" group-title="CS2",ダンスチャンネル / Dance Channel
 https://code.vthanhtivi.pw/getlink/jptv1/3aoWlvySJvrMYkUxn_QO-g==.m3u8
 
+=======
+>>>>>>> 4265596bd5b0485cbc1c032330492112ca4bd49c
 #CSOther
 #EXTINF:-1 group-title="CS" tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nhk-world-premium-jp.png", NHK World Premium
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
-
 
