@@ -95,9 +95,9 @@ https://sv92102.vthanhtivi.pw/jptv/26/117.m3u8
 https://sv92102.vthanhtivi.pw/jptv/219/117.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="bstbs" tvg-logo="https://bs.tbs.co.jp/resources/images/logo1.svg", BS TBS  
 https://sv92102.vthanhtivi.pw/jptv/27/117.m3u8
-#EXTINF:-1 group-title="BS" tvg-id="bstvtokyo" tvg-logo="https://www.tv-tokyo.co.jp/information/blog/images/24606404907f11e880a6cbdce0444b13.jpg", BS TV Tokyo HD
+#EXTINF:-1 group-title="BS" tvg-id="bstvtokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/BS_TV_Tokyo_logo.png", BS TV Tokyo HD
 https://sv92102.vthanhtivi.pw/jptv/220/117.m3u8
-#EXTINF:-1 group-title="BS" tvg-id="bstvtokyo" tvg-logo="https://www.tv-tokyo.co.jp/information/blog/images/24606404907f11e880a6cbdce0444b13.jpg", BS TV Tokyo
+#EXTINF:-1 group-title="BS" tvg-id="bstvtokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/BS_TV_Tokyo_logo.png", BS TV Tokyo
 https://sv92102.vthanhtivi.pw/jptv/28/117.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="bsfuji" tvg-logo="https://www.bsfuji.tv/top/index/img/sns_img.png", BS Fuji HD
 https://sv92102.vthanhtivi.pw/jptv/221/117.m3u8
