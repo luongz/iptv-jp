@@ -14,5 +14,6 @@ http://139.99.92.102:8080/NHKE/index.m3u8
 http://103.82.39.163:8080/TOKYO-MX-1/index.m3u8
 #EXTINF:-1 group-title="Kanto" tvg-id="at-x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png", AT-X (Test)
 http://103.82.39.163:8080/AT-X/index.m3u8
-
+#EXTINF:-1 group-title="Kanto" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png", NTV (Test)
+http://103.82.39.163:8080/NIPPONTV/index.m3u8
 
