@@ -6,21 +6,21 @@ http://google.com
 https://google.com
 
 #Kanto
-#EXTINF:-1 group-title="Kanto" tvg-id="nhkg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK G Nagano (Test)
+#EXTINF:-1 group-title="Nagano" tvg-id="nhkg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK G Nagano (Test)
 http://194.233.72.249:8080/NHKG/index.m3u8
-#EXTINF:-1 group-title="Kanto" tvg-id="nhke" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png", NHK E Nagano (Test)
+#EXTINF:-1 group-title="Nagano" tvg-id="nhke" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png", NHK E Nagano (Test)
 http://194.233.72.249:8080/NHKE/index.m3u8
-#EXTINF:-1 group-title="Kanto" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png", NTV (Test)
+#EXTINF:-1 group-title="Tokyo" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png", NTV (Test)
 http://194.233.72.249:8080/NIPPONTV/index.m3u8
-#EXTINF:-1 group-title="Kanto" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png", TBS (Test)
+#EXTINF:-1 group-title="Tokyo" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png", TBS (Test)
 http://194.233.72.249:8080/TBS/index.m3u8
-#EXTINF:-1 group-title="Kanto" tvg-id="fujitv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/2097px-Fuji_TV_logo.svg.png", Fuji TV (Test)
+#EXTINF:-1 group-title="Tokyo" tvg-id="fujitv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/2097px-Fuji_TV_logo.svg.png", Fuji TV (Test)
 http://194.233.72.249:8080/FUJITV/index.m3u8
-#EXTINF:-1 group-title="Kanto" tvg-id="tvasahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png", TV Asahi (Test)
+#EXTINF:-1 group-title="Tokyo" tvg-id="tvasahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png", TV Asahi (Test)
 http://194.233.72.249:8080/TVASAHI/index.m3u8
-#EXTINF:-1 group-title="Kanto" tvg-id="tvtokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/2560px-TV_Tokyo_logo_20110629.svg.png", TV Tokyo (Test)
+#EXTINF:-1 group-title="Tokyo" tvg-id="tvtokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/2560px-TV_Tokyo_logo_20110629.svg.png", TV Tokyo (Test)
 http://194.233.72.249:8080/TVTOKYO/index.m3u8
-#EXTINF:-1 group-title="Kanto" tvg-id="tokyomx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX1 (Test)
+#EXTINF:-1 group-title="Tokyo" tvg-id="tokyomx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX1 (Test)
 http://194.233.72.249:8080/TOKYO-MX-1/index.m3u8
-#EXTINF:-1 group-title="Kanto" tvg-id="at-x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png", AT-X (Test)
+#EXTINF:-1 group-title="CS" tvg-id="at-x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png", AT-X (Test)
 http://194.233.72.249:8080/AT-X/index.m3u8
