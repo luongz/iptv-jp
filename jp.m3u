@@ -26,5 +26,3 @@ http://194.233.72.249:8080/TOKYO-MX-1/index.m3u8
 http://194.233.72.249:80/BS11/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="at-x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png", AT-X (Test)
 http://194.233.72.249:8080/AT-X/index.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="tvasahich1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv_asahi_channel1.png", TV Asahi Channel 1
-http://194.233.72.249:80/TVASAHI-CH1/index.m3u8
