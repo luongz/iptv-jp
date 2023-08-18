@@ -22,6 +22,9 @@ http://194.233.72.249:8080/TVASAHI/index.m3u8
 http://194.233.72.249:8080/TVTOKYO/index.m3u8
 #EXTINF:-1 group-title="Tokyo" tvg-id="tokyomx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX1 (Test)
 http://194.233.72.249:8080/TOKYO-MX-1/index.m3u8
+#EXTINF:-1 group-title="Tochigi" tvg-id="tochigitv" tvg-logo="https://www.tochigi-tv.jp/common_re/img/logo.png", Tochigi TV (Test)
+http://159.223.78.149:5678/TochigiTV/index.m3u8
+
 #EXTINF:-1 group-title="BS" tvg-id="wowowcinema" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow_cinema.png", WOWOW Cinema (Test)
 http://194.233.72.249/WOWOW-CINEMA/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="bs11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png", BS11 (Test)
