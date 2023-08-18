@@ -23,6 +23,8 @@ http://194.233.72.249:8080/TVTOKYO/index.m3u8
 http://194.233.72.249:8080/TOKYO-MX-1/index.m3u8
 #EXTINF:-1 group-title="Nagano" tvg-id="nhkg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK G Nagano (Test)
 http://for-testonly.ra1n.lol:5678/NHKG-Nagano/index.m3u8
+#EXTINF:-1 group-title="Nagano" tvg-id="nbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Nbs_logo.svg/1920px-Nbs_logo.svg.png", NBS
+http://for-testonly.ra1n.lol:5678/NBS/index.m3u8
 #EXTINF:-1 group-title="Aichi" tvg-id="cbc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Chubu-Nippon_Broadcasting_logo_20150825.svg/1920px-Chubu-Nippon_Broadcasting_logo_20150825.svg.png",CBC (Test)
 http://for-testonly.ra1n.lol:5678/CBC/index.m3u8
 
