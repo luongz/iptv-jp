@@ -76,6 +76,8 @@ http://for-testonly.ra1n.lol:5678/NHKE-Kagoshima/index.m3u8
 http://for-testonly.ra1n.lol:5678/NBS/index.m3u8
 #EXTINF:-1 group-title="Test" tvg-id="cbc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Chubu-Nippon_Broadcasting_logo_20150825.svg/1920px-Chubu-Nippon_Broadcasting_logo_20150825.svg.png",CBC (Test)
 http://for-testonly.ra1n.lol:5678/CBC/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="rcc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Rcc_logo_2022.svg/768px-Rcc_logo_2022.svg.png", RCC (Test)
+http://for-testonly.ra1n.lol:5678/RCC/index.m3u8
 #EXTINF:-1 group-title="Test" tvg-id="wowowcinema" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow_cinema.png", WOWOW Cinema (Test)
 http://194.233.72.249/WOWOW-CINEMA/index.m3u8
 #EXTINF:-1 group-title="Test" tvg-id="bs11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png", BS11 (Test)
@@ -84,5 +86,4 @@ http://194.233.72.249:80/BS11/index.m3u8
 http://for-testonly.ra1n.lol:5678/AT-X/index.m3u8
 #EXTINF:-1 group-title="Test" tvg-id="at-x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png", AT-X (Test)
 http://194.233.72.249:8080/AT-X/index.m3u8
-#EXTINF:-1 group-title="Test" tvg-id="hab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Hab_logo_2021.svg/2560px-Hab_logo_2021.svg.png",HAB (Test)
-http://for-testonly.ra1n.lol:5678/HAB/index.m3u8
+
