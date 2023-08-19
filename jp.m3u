@@ -96,5 +96,5 @@ http://194.233.72.249/WOWOW-CINEMA/index.m3u8
 http://194.233.72.249:80/BS11/index.m3u8
 #EXTINF:-1 group-title="Test" tvg-id="at-x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png", AT-X (Test)
 http://194.233.72.249:8080/AT-X/index.m3u8
-#EXTINF:-1 group-title="Test" tvg-id="sukachan1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sukachan-1-jp.png", Sukachan 1 (Test)
-http://for-testonly.ra1n.lol:5678/Sukachan1/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="hab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Hab_logo_2021.svg/2560px-Hab_logo_2021.svg.png",HAB (Test)
+http://for-testonly.ra1n.lol:5678/HAB/index.m3u8
