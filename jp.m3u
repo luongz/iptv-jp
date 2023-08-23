@@ -50,9 +50,9 @@ http://code.vthanhtivi.pw/getlink/jptvvn/17/playlist.m3u8
 hthttp://code.vthanhtivi.pw/getlink/jptvvn/209/playlist.m3u8
 #EXTINF:-1 group-title="Osaka" tvg-id="abc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/2560px-Asahi_Broadcasting_Corporation_Logo.svg.png", ABC 
 http://code.vthanhtivi.pw/getlink/jptvvn/18/playlist.m3u8
-#EXTINF:-1 group-title="Osaka" tvg-id="ktv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/2560px-Ktv_logo.svg.png", Kansai TV
+#EXTINF:-1 group-title="Osaka" tvg-id="kansaitv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/2560px-Ktv_logo.svg.png", Kansai TV
 http://code.vthanhtivi.pw/getlink/jptvvn/210/playlist.m3u8
-#EXTINF:-1 group-title="Osaka" tvg-id="ktv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/2560px-Ktv_logo.svg.png", Kansai TV
+#EXTINF:-1 group-title="Osaka" tvg-id="kansaitv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/2560px-Ktv_logo.svg.png", Kansai TV
 http://code.vthanhtivi.pw/getlink/jptvvn/19/playlist.m3u8
 #EXTINF:-1 group-title="Osaka" tvg-id="ytv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/2560px-Yomiuri_Telecasting_Corporation_Logo.svg.png", Yomiuri TV HD
 http://code.vthanhtivi.pw/getlink/jptvvn/211/playlist.m3u8
