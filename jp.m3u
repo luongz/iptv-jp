@@ -138,7 +138,7 @@ http://code.vthanhtivi.pw/getlink/jptvvn/40/playlist.m3u8
 http://code.vthanhtivi.pw/getlink/jptvvn/36/playlist.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="nihoneiga" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/3/nihon-eiga_logo.jpg", BS Japan Movie Channel  
 http://code.vthanhtivi.pw/getlink/jptvvn/38/playlist.m3u8
-#EXTINF:-1 group-title="BS" tvg-id="disneych" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney-channel-us.svg", Disney Channel
+#EXTINF:-1 group-title="BS" tvg-id="disneych" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1920px-2019_Disney_Channel_logo.svg.png", Disney Channel
 http://code.vthanhtivi.pw/getlink/jptvvn/117/playlist.m3u8
 
 
@@ -163,9 +163,9 @@ http://code.vthanhtivi.pw/getlink/jptvvn/48/playlist.m3u8
 http://code.vthanhtivi.pw/getlink/jptvvn/158/playlist.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="familygeki" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/family_gekijyo_jp.png", ファミリー劇場 / Family Gekijyo
 http://code.vthanhtivi.pw/getlink/jptvvn/60/playlist.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="fox" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox-us.svg", FOX  
+#EXTINF:-1 group-title="CS" tvg-id="fox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/1200px-FOX_wordmark.svg.png?20210820125716", FOX  
 http://code.vthanhtivi.pw/getlink/jptvvn/63/playlist.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="mtv" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mtv-us.svg", MTV  
+#EXTINF:-1 group-title="CS" tvg-id="mtv" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-150-400x400.png", MTV  
 http://code.vthanhtivi.pw/getlink/jptvvn/50/playlist.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="cartoonnw" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cartoon-network-us.svg", Cartoon Network
 http://code.vthanhtivi.pw/getlink/jptvvn/55/playlist.m3u8
