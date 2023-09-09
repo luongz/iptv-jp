@@ -179,13 +179,13 @@ http://code.vthanhtivi.pw/getlink/jptvvn/53/playlist.m3u8
 http://code.vthanhtivi.pw/getlink/jptvvn/51/playlist.m3u8
 
 #SpecialTest
-#EXTINF:-1 group-title="Test" tvg-id="chibatv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Chiba_TV_logo.jpg", Chiba TV (Test)
+#EXTINF:-1 group-title="Test" tvg-id="chibatv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Chiba_TV_logo.jpg", Chiba TV HD (Test)
 http://for-testonly.ra1n.lol:5678/chibatv/index.m3u8
-#EXTINF:-1 group-title="Test" tvg-id="SBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Sbc_logo.svg/1280px-Sbc_logo.svg.png", SBC (Test)
+#EXTINF:-1 group-title="Test" tvg-id="SBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Sbc_logo.svg/1280px-Sbc_logo.svg.png", SBC FHD (Test)
 http://for-testonly.ra1n.lol:5678/SBC/index.m3u8
-#EXTINF:-1 group-title="Test" tvg-id="tvh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Tvh_logo.svg/2560px-Tvh_logo.svg.png", TVh (Test)
+#EXTINF:-1 group-title="Test" tvg-id="tvh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Tvh_logo.svg/2560px-Tvh_logo.svg.png", TVh No Sound (Test)
 http://for-testonly.ra1n.lol:5678/tvh/index.m3u8
-#EXTINF:-1 group-title="Test" tvg-id="uhb" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Uhb_logo.svg/768px-Uhb_logo.svg.png?20150807092239", UHB (Test)
+#EXTINF:-1 group-title="Test" tvg-id="uhb" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Uhb_logo.svg/768px-Uhb_logo.svg.png?20150807092239", UHB No Sound (Test)
 http://for-testonly.ra1n.lol:5678/uhb/index.m3u8
 #EXTINF:-1 group-title="Test" tvg-id="wowowcinema" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow_cinema.png", WOWOW Cinema (Test)
 http://194.233.72.249/WOWOW-CINEMA/index.m3u8
