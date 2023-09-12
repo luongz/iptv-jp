@@ -183,6 +183,8 @@ http://code.vthanhtivi.pw/getlink/jptvvn/51/playlist.m3u8
 http://for-testonly.ra1n.lol/tvk/index.m3u8
 #EXTINF:-1 group-title="Test" tvg-id="chibatv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Chiba_TV_logo.jpg", Chiba TV HD (Test)
 http://for-testonly.ra1n.lol/chibatv/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="nagoyatv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Nagoya_Nbn_logo.svg/2560px-Nagoya_Nbn_logo.svg.png", Nagoya TV HD (Test)
+http://for-testonly.ra1n.lol/nagoyatv/index.m3u8
 #EXTINF:-1 group-title="Test" tvg-id="rcc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Rcc_logo_2022.svg/768px-Rcc_logo_2022.svg.png", RCC HD (Test)
 http://for-testonly.ra1n.lol/rcc/index.m3u8
 #EXTINF:-1 group-title="Test" tvg-id="sagatv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Sagatv_logo.svg/2560px-Sagatv_logo.svg.png", STS HD (Test)
