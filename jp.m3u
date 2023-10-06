@@ -22,4 +22,6 @@ http://for-testonly.ra1n.lol/mx1/index.m3u8
 http://for-testonly.ra1n.lol/bs11/index.m3u8
 #EXTINF:-1 group-title="Test" tvg-id="at-x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png", AT-X HD (Test)
 http://for-testonly.ra1n.lol/at-x/index.m3u8
+#EXTINF:-1 group-title="Test", :)
+http://for-testonly.ra1n.lol/test/index.m3u8
 
