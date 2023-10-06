@@ -18,8 +18,6 @@ http://for-testonly.ra1n.lol/ex/index.m3u8
 http://for-testonly.ra1n.lol/tx/index.m3u8
 #EXTINF:-1 group-title="Test" tvg-id="tokyomx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX1 Test
 http://for-testonly.ra1n.lol/mx1/index.m3u8
-#EXTINF:-1 group-title="Test" tvg-id="chibatv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Chiba_TV_logo.jpg", Chiba TV HD (Test)
-http://for-testonly.ra1n.lol/chibatv/index.m3u8
 #EXTINF:-1 group-title="Test" tvg-id="bs11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png", BS11 HD (Test)
 http://for-testonly.ra1n.lol/bs11/index.m3u8
 #EXTINF:-1 group-title="Test" tvg-id="at-x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png", AT-X HD (Test)
