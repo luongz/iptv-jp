@@ -5,26 +5,26 @@ http://google.com
 #EXTINF:-1 group-title="Information" ,TEST LIST! report issue in github
 https://google.com
 #EXTINF:-1 group-title="Tokyo" tvg-id="nhkg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK G 
-https://asia.vthanhtivi.pw/NHK_G/index.m3u8
+http://asia.vthanhtivi.pw/NHK_G/index.m3u8
 #EXTINF:-1 group-title="Tokyo" tvg-id="nhke" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png", NHK E
-https://asia.vthanhtivi.pw/NHK_E/index.m3u8
+http://asia.vthanhtivi.pw/NHK_E/index.m3u8
 #EXTINF:-1 group-title="Tokyo" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png", NTV
-https://asia.vthanhtivi.pw/NTV/index.m3u8
+http://asia.vthanhtivi.pw/NTV/index.m3u8
 #EXTINF:-1 group-title="Tokyo" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png", TBS 
-https://asia.vthanhtivi.pw/TBS/index.m3u8
+http://asia.vthanhtivi.pw/TBS/index.m3u8
 #EXTINF:-1 group-title="Tokyo" tvg-id="fujitv" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png", Fuji TV
-https://asia.vthanhtivi.pw/Fuji_TV/index.m3u8
+http://asia.vthanhtivi.pw/Fuji_TV/index.m3u8
 #EXTINF:-1 group-title="Tokyo" tvg-id="tvasahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png", TV Asahi
-https://asia.vthanhtivi.pw/TV_Asahi/index.m3u8
+http://asia.vthanhtivi.pw/TV_Asahi/index.m3u8
 #EXTINF:-1 group-title="Tokyo" tvg-id="tvtokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/2560px-TV_Tokyo_logo_20110629.svg.png", TV Tokyo 
-https://asia.vthanhtivi.pw/TV_Tokyo/index.m3u8
+http://asia.vthanhtivi.pw/TV_Tokyo/index.m3u8
 #EXTINF:-1 group-title="Tokyo" tvg-id="tokyomx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX1
-https://asia.vthanhtivi.pw/Tokyo_MX1/index.m3u8
+http://asia.vthanhtivi.pw/Tokyo_MX1/index.m3u8
 
 #EXTINF:-1 group-title="BS" tvg-id="bs11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png", BS11
-https://asia.vthanhtivi.pw/BS11/index.m3u8
+http://asia.vthanhtivi.pw/BS11/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="at-x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png", AT-X
-https://asia.vthanhtivi.pw/AT-X/index.m3u8
+http://asia.vthanhtivi.pw/AT-X/index.m3u8
 
 #EXTINF:-1 group-title="Test" tvg-id="tvk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tvk_logo.svg/2560px-Tvk_logo.svg.png", tvk
 http://for-testonly.ra1n.lol/tvk/index.m3u8
