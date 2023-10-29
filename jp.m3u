@@ -27,7 +27,7 @@ http://asia.vthanhtivi.pw/BS11/index.m3u8
 http://asia.vthanhtivi.pw/AT-X/index.m3u8
 
 #EXTINF:-1 group-title="Test" tvg-id="nhkg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK G Nagano (Test)
-http://asia.vthanhtivi.pw/NHKG-Nagano/index.m3u8
+http://for-testonly.ra1n.lol/NHKG-Nagano/index.m3u8
 #EXTINF:-1 group-title="Test" tvg-id="tvk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tvk_logo.svg/2560px-Tvk_logo.svg.png", tvk
 http://for-testonly.ra1n.lol/tvk/index.m3u8
 #EXTINF:-1 group-title="Test" tvg-id="chibatv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Chiba_TV_logo.jpg", Chiba TV
@@ -38,7 +38,7 @@ http://for-testonly.ra1n.lol/teletama/index.m3u8
 http://for-testonly.ra1n.lol/bs11/index.m3u8
 #EXTINF:-1 group-title="Test" tvg-id="at-x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png", AT-X HD (Test)
 http://for-testonly.ra1n.lol/at-x/index.m3u8
-#EXTINF:-1 group-title="Test" tvg-id="tokiatv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Tokai_Television_Broadcasting_logo.png", Gunma TV (Test)
+#EXTINF:-1 group-title="Test" tvg-id="tokiatv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Tokai_Television_Broadcasting_logo.png", Tokai TV (Test)
 http://for-testonly.ra1n.lol/tokaitv/index.m3u8
 #EXTINF:-1 group-title="Test" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Bss_logo.svg/2560px-Bss_logo.svg.png", BSS Sanin (Test)
-http://for-testonly.ra1n.lol/test/index.m3u8
+http://for-testonly.ra1n.lol/bss/index.m3u8
