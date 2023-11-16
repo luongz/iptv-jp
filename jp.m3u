@@ -73,8 +73,8 @@ http://for-testonly.ra1n.lol/chibatv/index.m3u8
 http://for-testonly.ra1n.lol/teletama/index.m3u8
 #EXTINF:-1 group-title="Test" tvg-id="home" tvg-logo="https://i.postimg.cc/wTdtbHtx/logo-1.png", HOME (Test)
 http://for-testonly.ra1n.lol/home/index.m3u8
-#EXTINF:-1 group-title="Test" tvg-id="rkb" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/RKB_Mainichi_Broadcasting_logo_2005.svg/2560px-RKB_Mainichi_Broadcasting_logo_2005.svg.png", rkb (Test)
-http://for-testonly.ra1n.lol/rkb/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="daiichi-tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Daiichi_tv_logo.svg/2560px-Daiichi_tv_logo.svg.pngting_logo_2005.svg.png", Daiichi-TV (Test)
+http://for-testonly.ra1n.lol/daiichi-tv/index.m3u8
 #EXTINF:-1 group-title="Test" tvg-id="bs11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png", BS11 HD (Test)
 http://for-testonly.ra1n.lol/bs11/index.m3u8
 #EXTINF:-1 group-title="Test" tvg-id="at-x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png", AT-X HD (Test)
