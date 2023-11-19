@@ -64,19 +64,16 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23&isp=10&b
 http://asia.vthanhtivi.pw/BS11/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="at-x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png", AT-X
 http://asia.vthanhtivi.pw/AT-X/index.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="mtv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1000px-MTV_2021_%28brand_version%29.svg.png", MTV
-https://asia.vthanhtivi.pw/MTV/index.m3u8
 
-#EXTINF:-1 group-title="Test" tvg-id="chibatv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Chiba_TV_logo.jpg", Chiba TV
-http://for-testonly.ra1n.lol/chibatv/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="tokyomx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX1 Test
+http://for-testonly.ra1n.lol/mx1/index.m3u8
 #EXTINF:-1 group-title="Test" tvg-id="teletama" tvg-logo="https://www.teletama-app.jp/view/images/tvs.png", TVS
 http://for-testonly.ra1n.lol/teletama/index.m3u8
 #EXTINF:-1 group-title="Test" tvg-id="home" tvg-logo="https://i.postimg.cc/wTdtbHtx/logo-1.png", HOME (Test)
 http://for-testonly.ra1n.lol/home/index.m3u8
-#EXTINF:-1 group-title="Test" tvg-id="daiichi-tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Daiichi_tv_logo.svg/2560px-Daiichi_tv_logo.svg.pngting_logo_2005.svg.png", Daiichi-TV (Test)
+#EXTINF:-1 group-title="Test" tvg-id="sbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/ShizuokaBroadcastingSystem.png", SBS (Test)
 http://for-testonly.ra1n.lol/daiichi-tv/index.m3u8
 #EXTINF:-1 group-title="Test" tvg-id="bs11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png", BS11 HD (Test)
 http://for-testonly.ra1n.lol/bs11/index.m3u8
 #EXTINF:-1 group-title="Test" tvg-id="at-x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png", AT-X HD (Test)
 http://for-testonly.ra1n.lol/at-x/index.m3u8
-
