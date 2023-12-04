@@ -16,7 +16,7 @@ http://asia.vthanhtivi.pw/TBS/index.m3u8
 http://asia.vthanhtivi.pw/Fuji_TV/index.m3u8
 #EXTINF:-1 group-title="Tokyo" tvg-id="tvasahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png", TV Asahi
 http://asia.vthanhtivi.pw/TV_Asahi/index.m3u8
-#EXTINF:-1 group-title="Tokyo" tvg-id="tvtokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/2560px-TV_Tokyo_logo_20110629.svg.png", TV Tokyo 
+#EXTINF:-1 group-title="Tokyo" tvg-id="tvtokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png", TV Tokyo 
 http://asia.vthanhtivi.pw/TV_Tokyo/index.m3u8
 #EXTINF:-1 group-title="Tokyo" tvg-id="tokyomx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX1
 http://asia.vthanhtivi.pw/Tokyo_MX1/index.m3u8
@@ -31,7 +31,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02&isp=10&b
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1 group-title="BS" tvg-id="bstbs" tvg-logo="https://bs.tbs.co.jp/resources/images/logo1.svg", BS TBS
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 group-title="BS" tvg-id="bstvtokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/BS_TV_Tokyo_logo.png", BS TV Tokyo
+#EXTINF:-1 group-title="BS" tvg-id="bstvtokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/BS_TV_Tokyo_%28Japanese%29_2023.svg/2560px-BS_TV_Tokyo_%28Japanese%29_2023.svg.png", BS TV Tokyo
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1 group-title="BS" tvg-id="bsfuji" tvg-logo="https://www.bsfuji.tv/top/index/img/sns_img.png", BS Fuji HD
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06&isp=10&bind=0&uin=159413&playseek=0
