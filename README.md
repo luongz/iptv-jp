@@ -1,7 +1,7 @@
 # We need your help
-Spend 30$/month for the project. Check out the paypal in the list.
+Spend 10$/month for the project. 
 
-Bank transfer (VN) & via Crypto : pm via Email.
+PayPal : https://paypal.me/Tieptran1970
 
 # QnA
 Q: Can you turn off the subtitles on some channels? (AT-X,...)
