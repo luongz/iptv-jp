@@ -107,7 +107,7 @@ http://jp.vthanhnetwork.com/AT-X/index.m3u8
 
 #EXTINF:-1 group-title="Test" tvg-id="tokyomx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX1
 http://for-testonly.ra1n.lol/mx1/index.m3u8
-#EXTINF:-1 group-title="Test" tvg-id="teletama" tvg-logo="https://www.teletama-app.jp/view/images/tvs.png", TVS
+#EXTINF:-1 group-title="Test" tvg-id="tvsaitama" tvg-logo="https://www.teletama-app.jp/view/images/tvs.png", TVS
 http://for-testonly.ra1n.lol/teletama/index.m3u8
 #EXTINF:-1 group-title="Test" tvg-id="ishikawatv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Itc_logo.svg/1920px-Itc_logo.svg.png", Ishikawa TV
 http://for-testonly.ra1n.lol/ishikawatv/index.m3u8
