@@ -105,11 +105,11 @@ http://jp.vthanhnetwork.com/AT-X/index.m3u8
 
 
 
-#EXTINF:-1 group-title="Test" tvg-id="tokyomx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/FCT_2020_logo.svg/1920px-FCT_2020_logo.svg.png", Fukushima Central Television (Test)
+#EXTINF:-1 group-title="Test" tvg-id="fct" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/FCT_2020_logo.svg/1920px-FCT_2020_logo.svg.png", Fukushima Central Television (Test)
 http://for-testonly.ra1n.lol/mx1/index.m3u8
 #EXTINF:-1 group-title="Test" tvg-id="tvsaitama" tvg-logo="https://www.teletama-app.jp/view/images/tvs.png", TVS Test
 http://for-testonly.ra1n.lol/teletama/index.m3u8
-#EXTINF:-1 group-title="Test" tvg-id="fct" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX1 Test
+#EXTINF:-1 group-title="Test" tvg-id="tokyomx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX1 Test
 http://for-testonly.ra1n.lol/fct/index.m3u8
 #EXTINF:-1 group-title="Test" tvg-id="bs11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png", BS11 HD (Test)
 http://for-testonly.ra1n.lol/bs11/index.m3u8
