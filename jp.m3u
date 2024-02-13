@@ -108,7 +108,7 @@ http://jp.vthanhnetwork.com/AT-X/index.m3u8
 
 
 
-#EXTINF:-1 group-title="Test" tvg-id="tuf" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/FCT_2020_logo.svg/1920px-FCT_2020_logo.svg.png", TUF (Not Stable)
+#EXTINF:-1 group-title="Test" tvg-id="tuf" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Tuf_logo.svg/1280px-Tuf_logo.svg.png", TUF (Not Stable)
 http://for-testonly.ra1n.lol/tuf/index.m3u8
 #EXTINF:-1 group-title="Test" tvg-id="ishikawatv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Itc_logo.svg/1920px-Itc_logo.svg.png", Ishikawa TV (Not Stable)
 http://for-testonly.ra1n.lol/ishikawatv/index.m3u8
