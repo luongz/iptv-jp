@@ -1,7 +1,7 @@
 # We need your help
 Spend 10$/month for the project. 
 
-PayPal : https://paypal.me/Tieptran1970
+https://ko-fi.com/dinhluong
 
 # QnA
 Q: Can you turn off the subtitles on some channels? (AT-X,...)
