@@ -1,8 +1,11 @@
 #EXTM3U url-tvg="http://epg.ra1n.lol/jp.xml,https://epg.ra1n.lol/fullregion.xml" tvg-shift=0 m3uautoload=1
 
+
 #EXTINF:-1 group-title="Information" ,We need donations to maintain the host!
 https://google.com
 #EXTINF:-1 group-title="Information" ,Donate: https://ko-fi.com/dinhluong
+http://google.com
+#EXTINF:-1 group-title="Information" ,Test channels are not stable! Report them in Issue if faced any error.
 http://google.com
 
 
