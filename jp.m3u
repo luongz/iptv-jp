@@ -2,7 +2,7 @@
 
 #EXTINF:-1 group-title="Information" ,We need donations to maintain the host!
 https://google.com
-#EXTINF:-1 group-title="Information" ,Donate: paypal.me/Tieptran1970
+#EXTINF:-1 group-title="Information" ,Donate: https://ko-fi.com/dinhluong
 http://google.com
 
 
@@ -117,5 +117,3 @@ http://for-testonly.ra1n.lol/mx1/index.m3u8
 http://for-testonly.ra1n.lol/bs11/index.m3u8
 #EXTINF:-1 group-title="Test" tvg-id="at-x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png", AT-X HD (Test)
 http://for-testonly.ra1n.lol/at-x/index.m3u8
-#EXTINF:-1 group-title="Test" tvg-id="sukachan1" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sukachan-1-jp.png", Sukachan 1
-http://for-testonly.ra1n.lol/sukachan1/index.m3u8
