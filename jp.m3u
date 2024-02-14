@@ -68,9 +68,9 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11&isp=10&b
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1 group-title="BS" tvg-id="bsntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/1200px-BS4_logo.svg.png", BS NTV
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 group-title="BS" tvg-id="bsasahi" tvg-logo="https://company.tv-asahi.co.jp/saiyo/group/img/company/logo-bsasahi.png", BS Asahi  
+#EXTINF:-1 group-title="BS" tvg-id="bsasahi" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bs_asahi.png", BS Asahi  
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 group-title="BS" tvg-id="bstbs" tvg-logo="https://bs.tbs.co.jp/resources/images/logo1.svg", BS TBS
+#EXTINF:-1 group-title="BS" tvg-id="bstbs" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bs-tbs-jp.png", BS TBS
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1 group-title="BS" tvg-id="bstvtokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/BS_TV_Tokyo_%28Japanese%29_2023.svg/2560px-BS_TV_Tokyo_%28Japanese%29_2023.svg.png", BS TV Tokyo
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05&isp=10&bind=0&uin=159413&playseek=0
