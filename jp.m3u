@@ -114,7 +114,7 @@ http://for-testonly.ra1n.lol/tuf/index.m3u8
 http://for-testonly.ra1n.lol/ishikawatv/index.m3u8
 #EXTINF:-1 group-title="Test" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/1920px-Nippon_TV_logo_2014.svg.png", NTV (Not Stable)
 http://for-testonly.ra1n.lol/ntv2/index.m3u8
-#EXTINF:-1 group-title="Test" tvg-id="tsb" tvg-logo="", (Not Stable)
+#EXTINF:-1 group-title="Test" tvg-id="tsb" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Tsb_logo_ja.svg/170px-Tsb_logo_ja.svg.png",TSB (Not Stable)
 http://for-testonly.ra1n.lol/TSB/index.m3u8
 #EXTINF:-1 group-title="Test" tvg-id="tvsaitama" tvg-logo="https://www.teletama-app.jp/view/images/tvs.png", TVS (Not Stable)
 http://for-testonly.ra1n.lol/teletama/index.m3u8
