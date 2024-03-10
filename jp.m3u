@@ -107,21 +107,16 @@ http://jp.vthanhnetwork.com/BS11/index.m3u8
 http://jp.vthanhnetwork.com/AT-X/index.m3u8
 
 
-
+#EXTINF:-1 group-title="Test" tvg-id="tvq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/2019_tvq_logo.svg/150px-2019_tvq_logo.svg.png", TVQ (Not Stable)
+http://for-testonly.ra1n.lol/tvq/index.m3u8
 #EXTINF:-1 group-title="Test" tvg-id="tuf" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Tuf_logo.svg/1280px-Tuf_logo.svg.png", TUF (Not Stable)
 http://for-testonly.ra1n.lol/tuf/index.m3u8
-#EXTINF:-1 group-title="Test" tvg-id="ishikawatv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Itc_logo.svg/1920px-Itc_logo.svg.png", Ishikawa TV (Not Stable)
-http://for-testonly.ra1n.lol/ishikawatv/index.m3u8
-#EXTINF:-1 group-title="Test" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/1920px-Nippon_TV_logo_2014.svg.png", NTV (Not Stable)
-http://for-testonly.ra1n.lol/ntv2/index.m3u8
-#EXTINF:-1 group-title="Test" tvg-id="tsb" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Tsb_logo_ja.svg/170px-Tsb_logo_ja.svg.png",TSB (Not Stable)
-http://for-testonly.ra1n.lol/TSB/index.m3u8
 #EXTINF:-1 group-title="Test" tvg-id="tvsaitama" tvg-logo="https://www.teletama-app.jp/view/images/tvs.png", TVS (Not Stable)
 http://for-testonly.ra1n.lol/teletama/index.m3u8
-#EXTINF:-1 group-title="Test" tvg-id="tokyomx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX1 (Not Stable)
-http://for-testonly.ra1n.lol/mx1/index.m3u8
 #EXTINF:-1 group-title="Test" tvg-id="bs11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png", BS11 HD (Not Stable)
 http://for-testonly.ra1n.lol/bs11/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="bs12" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bs-12-jp.png", BS12 (Not Stable)
+http://for-testonly.ra1n.lol/bs12/index.m3u8
 #EXTINF:-1 group-title="Test" tvg-id="at-x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png", AT-X HD (Not Stable)
 http://for-testonly.ra1n.lol/at-x/index.m3u8
 
