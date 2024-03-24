@@ -11,7 +11,8 @@ A: No. We don't control the source. We can't
 
 # Infomation
 Don't copy the ra1n.lol links.
-. You can use it as your personal list by adding the credit. Thanks.
+
+You can use it as your personal list by adding the credit.
 
 Running by [vthanh](https://fb.com/vthanhloveanime) and "not actually" by me.
 
