@@ -106,18 +106,17 @@ https://vnpt.nekocdn.xyz/hls/BS11/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="at-x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png", AT-X
 https://vnpt.nekocdn.xyz/hls/AT-X/index.m3u8
 
-
-#EXTINF:-1 group-title="Test" tvg-id="tvq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/2019_tvq_logo.svg/150px-2019_tvq_logo.svg.png", TVQ (Not Stable)
-http://for-testonly.ra1n.lol/tvq/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="nhkg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK G (Not Stable)
+http://pipe.ra1n.lol/joak/index.m3u8
 #EXTINF:-1 group-title="Test" tvg-id="tuf" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Tuf_logo.svg/1280px-Tuf_logo.svg.png", TUF (Not Stable)
-http://for-testonly.ra1n.lol/tuf/index.m3u8
+http://pipe.ra1n.lol/tuf/index.m3u8
 #EXTINF:-1 group-title="Test" tvg-id="tvsaitama" tvg-logo="https://www.teletama-app.jp/view/images/tvs.png", TVS (Not Stable)
-http://for-testonly.ra1n.lol/teletama/index.m3u8
+http://pipe.ra1n.lol/tvs/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="spaceshowertv" tvg-logo="https://www.lyngsat.com/logo/tv/ss/space_shower_tv.png", Space Shower TV (Not Stable)
+http://pipe.ra1n.lol/space_shower/index.m3u8
 #EXTINF:-1 group-title="Test" tvg-id="bs11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png", BS11 HD (Not Stable)
-http://for-testonly.ra1n.lol/bs11/index.m3u8
-#EXTINF:-1 group-title="Test" tvg-id="bs12" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bs-12-jp.png", BS12 (Not Stable)
-http://for-testonly.ra1n.lol/bs12/index.m3u8
+http://pipe.ra1n.lol/bs11/index.m3u8
 #EXTINF:-1 group-title="Test" tvg-id="at-x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png", AT-X HD (Not Stable)
-http://for-testonly.ra1n.lol/at-x/index.m3u8
+http://pipe.ra1n.lol/at-x/index.m3u8
 
 
