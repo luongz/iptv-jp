@@ -32,10 +32,13 @@ https://vnpt.nekocdn.xyz/hls/BS11/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="at-x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png", AT-X
 https://vnpt.nekocdn.xyz/hls/AT-X/index.m3u8
 
-#EXTINF:-1 group-title="Test" tvg-id="nhkg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK G (Not Stable)
-http://pipe.ra1n.lol/joak/index.m3u8
+
+#EXTINF:-1 group-title="Test" tvg-id="tvasahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png", TV Asahi (Not Stable)
+http://pipe.ra1n.lol/joex/index.m3u8
 #EXTINF:-1 group-title="Test" tvg-id="tuf" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Tuf_logo.svg/1280px-Tuf_logo.svg.png", TUF (Not Stable)
 http://pipe.ra1n.lol/tuf/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="tbc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/TBC_logo_%282020%29.svg/1920px-TBC_logo_%282020%29.svg.png", tbc (Not Stable)
+http://pipe.ra1n.lol/tbc/index.m3u8
 #EXTINF:-1 group-title="Test" tvg-id="tvsaitama" tvg-logo="https://www.teletama-app.jp/view/images/tvs.png", TVS (Not Stable)
 http://pipe.ra1n.lol/tvs/index.m3u8
 #EXTINF:-1 group-title="Test" tvg-id="spaceshowertv" tvg-logo="https://www.lyngsat.com/logo/tv/ss/space_shower_tv.png", Space Shower TV (Not Stable)
