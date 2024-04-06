@@ -117,8 +117,10 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25
 
 #CS1
-#EXTINF:-1 group-title="CS" tvg-id="at-x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png", AT-X
+#EXTINF:-1 group-title="CS" tvg-id="at-x1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png", AT-X 1
 https://vnpt.nekocdn.xyz/hls/AT-X/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="at-x2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png", AT-X 2
+https://neetball.net/live/neet3.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="mtv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/240px-MTV_2021_%28brand_version%29.svg.png", MTV
 https://vnpt.nekocdn.xyz/hls/MTV/index.m3u8
 
