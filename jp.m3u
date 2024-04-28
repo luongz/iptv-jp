@@ -168,12 +168,12 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08
 #EXTINF:-1 group-title="CS" tvg-id="cnnj" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn-j-us.svg", CNNj 
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16
 #Test-donotcopy
-#EXTINF:-1 group-title="Test" tvg-id="tv_asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png", TV Asahi (Not Stable)
+#EXTINF:-1 group-title="Test" tvg-id="nhkg_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK G (Not Stable)
 http://pipe.ra1n.lol/joex/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="tss" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Tss_logo.svg/1920px-Tss_logo.svg.png", tss (Not Stable)
+http://pipe.ra1n.lol/tss/index.m3u8
 #EXTINF:-1 group-title="Test" tvg-id="tvk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tvk_logo.svg/1920px-Tvk_logo.svg.png", tvk (Not Stable)
 http://pipe.ra1n.lol/tvk/index.m3u8
-#EXTINF:-1 group-title="Test" tvg-id="tuf" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Tuf_logo.svg/1280px-Tuf_logo.svg.png", TUF (Not Stable)
-http://pipe.ra1n.lol/tuf/index.m3u8
 #EXTINF:-1 group-title="Test" tvg-id="bs11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png", BS11 HD (Not Stable)
 http://pipe.ra1n.lol/bs11/index.m3u8
 #EXTINF:-1 group-title="Test" tvg-id="at-x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png", AT-X HD (Not Stable)
