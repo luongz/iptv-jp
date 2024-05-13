@@ -170,8 +170,12 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08
 #EXTINF:-1 group-title="CS" tvg-id="cnnj" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn-j-us.svg", CNNj 
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16
 #Test-donotcopy
-#EXTINF:-1 group-title="Test" tvg-id="nhkg_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK G (Not Stable)
+#EXTINF:-1 group-title="Test" tvg-id="mhkg_osaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK G (Not Stable)
 http://pipe.ra1n.lol/nhkg/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="tokyo_mx2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", Tokyo MX2 (Not Stable)
+http://pipe.ra1n.lol/mx2/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="teny" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Teny_logo.svg/300px-Teny_logo.svg.png", TeNY (Not Stable)
+http://pipe.ra1n.lol/teny/index.m3u8
 #EXTINF:-1 group-title="Test" tvg-id="tss" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Tss_logo.svg/1920px-Tss_logo.svg.png", tss (Not Stable)
 http://pipe.ra1n.lol/tss/index.m3u8
 #EXTINF:-1 group-title="Test" tvg-id="tvk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tvk_logo.svg/1920px-Tvk_logo.svg.png", tvk (Not Stable)
