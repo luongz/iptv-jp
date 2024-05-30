@@ -188,5 +188,5 @@ http://pipe.ra1n.lol/tss/index.m3u8
 http://pipe.ra1n.lol/bs11/index.m3u8
 #EXTINF:-1 group-title="Test" tvg-id="at-x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png", AT-X HD (Not Stable)
 http://pipe.ra1n.lol/at-x/index.m3u8
-#EXTINF:-1 group-title="Test" tvg-id="sportlive_plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png", Sport Live Plus (Not Stable)
+#EXTINF:-1 group-title="Test" tvg-id="sportlive_plus" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sports-live-plus-jp.png", Sport Live Plus (Not Stable)
 http://pipe.ra1n.lol/sportliveplus/index.m3u8
