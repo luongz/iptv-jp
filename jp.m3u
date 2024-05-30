@@ -178,6 +178,8 @@ http://pipe.ra1n.lol/tvk/index.m3u8
 http://pipe.ra1n.lol/tvs/index.m3u8
 #EXTINF:-1 group-title="Test" tvg-id="tokyo_mx2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", Tokyo MX2 (Not Stable)
 http://pipe.ra1n.lol/mx2/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="teny" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Teny_logo.svg/300px-Teny_logo.svg.png", TeNY (Not Stable)
+http://pipe.ra1n.lol/teny/index.m3u8
 #EXTINF:-1 group-title="Test" tvg-id="sbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Sbs_logo.svg/1280px-Sbs_logo.svg.png", SBS (Not Stable)
 http://pipe.ra1n.lol/sbs/index.m3u8
 #EXTINF:-1 group-title="Test" tvg-id="tss" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Tss_logo.svg/1920px-Tss_logo.svg.png", tss (Not Stable)
