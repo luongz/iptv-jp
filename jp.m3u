@@ -172,17 +172,19 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16
 #Test-donotcopy
 #EXTINF:-1 group-title="Test" tvg-id="mhkg_osaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK G (Not Stable)
 http://pipe.ra1n.lol/nhkg/index.m3u8
-#EXTINF:-1 group-title="Test" tvg-id="tokyo_mx2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", Tokyo MX2 (Not Stable)
-http://pipe.ra1n.lol/mx2/index.m3u8
-#EXTINF:-1 group-title="Test" tvg-id="teny" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Teny_logo.svg/300px-Teny_logo.svg.png", TeNY (Not Stable)
-http://pipe.ra1n.lol/teny/index.m3u8
-#EXTINF:-1 group-title="Test" tvg-id="tss" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Tss_logo.svg/1920px-Tss_logo.svg.png", tss (Not Stable)
-http://pipe.ra1n.lol/tss/index.m3u8
 #EXTINF:-1 group-title="Test" tvg-id="tvk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tvk_logo.svg/1920px-Tvk_logo.svg.png", tvk (Not Stable)
 http://pipe.ra1n.lol/tvk/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="tv_saitama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Tvs_logo.svg/1920px-Tvs_logo.svg.png", TV Saitama (Not Stable)
+http://pipe.ra1n.lol/tvs/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="tokyo_mx2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", Tokyo MX2 (Not Stable)
+http://pipe.ra1n.lol/mx2/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="sbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Sbs_logo.svg/1280px-Sbs_logo.svg.png", SBS (Not Stable)
+http://pipe.ra1n.lol/sbs/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="tss" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Tss_logo.svg/1920px-Tss_logo.svg.png", tss (Not Stable)
+http://pipe.ra1n.lol/tss/index.m3u8
 #EXTINF:-1 group-title="Test" tvg-id="bs11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png", BS11 HD (Not Stable)
 http://pipe.ra1n.lol/bs11/index.m3u8
 #EXTINF:-1 group-title="Test" tvg-id="at-x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png", AT-X HD (Not Stable)
 http://pipe.ra1n.lol/at-x/index.m3u8
-
-
+#EXTINF:-1 group-title="Test" tvg-id="at-x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png", Sport Live Plus (Not Stable)
+http://pipe.ra1n.lol/sportliveplus/index.m3u8
