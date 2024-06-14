@@ -64,6 +64,8 @@ https://vnpt.nekocdn.xyz/hls/NHK_BS/index.m3u8
 https://vnpt.nekocdn.xyz/hls/BS11/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="bs_animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1920px-Animax.svg.png", Animax
 https://vnpt.nekocdn.xyz/hls/Animax/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="wowow_prime" tvg-logo="https://corporate.wowow.co.jp/recruit/assets/img/logo-wowow_prime.png", WOWOW Prime (nekocdn)
+https://vnpt.nekocdn.xyz/hls/WOWOW_Prime/index.m3u8
 #BS2
 #EXTINF:-1 group-title="BS" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png", NHK BS
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11
