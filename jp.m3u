@@ -38,7 +38,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05
 #EXTINF:-1 group-title="Tokyo" tvg-id="tv_asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png", TVAsahi-540
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06
-#EXTINF:-1 group-title="Tokyo" tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/2560px-TV_Tokyo_logo_20110629.svg.png", TVTokyo-540
+#EXTINF:-1 group-title="Tokyo" tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png", TVTokyo-540
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
 #EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYOMX1-540
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08
@@ -53,7 +53,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03
 #EXTINF:-1 group-title="Osaka" tvg-id="ytv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/2560px-Yomiuri_Telecasting_Corporation_Logo.svg.png", Yomiuri TV
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04
-#EXTINF:-1 group-title="Osaka" tvg-id="tv_osaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tvk_logo.svg/1920px-Tvk_logo.svg.png", TV Osaka
+#EXTINF:-1 group-title="Osaka" tvg-id="tv_osaka" tvg-logo="https://cdn.tv-osaka.co.jp/portal/201610/svg/tvo_logo.svg", TV Osaka
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05
 #EXTINF:-1 group-title="Osaka" tvg-id="sun_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/SUN-TV_wordmark_2019.png", SUN TV
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07
@@ -89,9 +89,9 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
 #EXTINF:-1 group-title="BS" tvg-id="star_ch1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_channel_jp_1.png", Star Channel 1  
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08
-#EXTINF:-1 group-title="BS" tvg-id="star_ch2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_channel_jp_2.png", Star Channel 2
+#EXTINF:-1 group-title="BS" tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_channel_jp_2.png", Star Channel 2 (Closed)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs27
-#EXTINF:-1 group-title="BS" tvg-id="star_ch3" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_channel_jp_3.png", Star Channel 3  
+#EXTINF:-1 group-title="BS" tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_channel_jp_3.png", Star Channel 3 (Closed)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs28
 #EXTINF:-1 group-title="BS" tvg-id="bs_animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1200px-Animax.svg.png", BS Animax  
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
@@ -111,6 +111,8 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
 #EXTINF:-1 group-title="BS" tvg-id="tsuri_vision" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tsuri_vision.png", Fishing Vision
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25
+#EXTINF:-1 group-title="BS" tvg-id="bs_shochiku_tokyu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/BS_Shochiku_Tokyu_logo.jpg", BS Shochiku Tokyu
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31
 #CS1
 #EXTINF:-1 group-title="CS" tvg-id="at-x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png", AT-X
 https://vnpt.nekocdn.xyz/hls/AT-X/index.m3u8
