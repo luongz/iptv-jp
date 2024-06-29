@@ -173,17 +173,4 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08
 #EXTINF:-1 group-title="CS" tvg-id="cnnj" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn-j-us.svg", CNNj 
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16
-#Test-donotcopy
-#EXTINF:-1 group-title="Test" tvg-id="nhkg_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK G (Not Stable)
-http://csui.djtmewibu.com/nhkg/index.m3u8
-#EXTINF:-1 group-title="Test" tvg-id="tvk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tvk_logo.svg/1920px-Tvk_logo.svg.png", tvk (Not Stable)
-http://csui.djtmewibu.com/tvk/index.m3u8
-#EXTINF:-1 group-title="Test" tvg-id="tokyo_mx2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", Tokyo MX2 (Not Stable)
-http://csui.djtmewibu.com/mx2/index.m3u8
-#EXTINF:-1 group-title="Test" tvg-id="rcc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Rcc_logo_2022.svg/1920px-Rcc_logo_2022.svg.png", RCC (Not Stable)
-http://csui.djtmewibu.com/rcc/index.m3u8
-#EXTINF:-1 group-title="Test" tvg-id="bs11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png", BS11 HD (Not Stable)
-http://csui.djtmewibu.com/bs11/index.m3u8
-#EXTINF:-1 group-title="Test" tvg-id="at-x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png", AT-X HD (Not Stable)
-http://csui.djtmewibu.com/at-x/index.m3u8
 
