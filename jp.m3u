@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epg.djtmewibu.com/jcom.xml" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="https://epg.djtmewibu.com/jcom.xml,https://epgshare01.online/epgshare01/epg_ripper_JP2.xml.gz" tvg-shift=0 m3uautoload=1
 
 
 #EXTINF:-1 group-title="Information" ,We need donations to maintain the host!
@@ -179,7 +179,7 @@ http://r3jx.djtmewibu.com/tvk/index.m3u8
 http://r3jx.djtmewibu.com/tvs/index.m3u8
 #EXTINF:-1 group-title="Test/Terrestrial" tvg-id="tokyo_mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX1 (h264/720/aac/test)
 http://r3jx.djtmewibu.com/mx1/index.m3u8
-#EXTINF:-1 group-title="Test/Terrestrial" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX2 (h264/720/aac/test)
+#EXTINF:-1 group-title="Test/Terrestrial" tvg-id="ＴＯＫＹＯ　ＭＸ２.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX2 (h264/720/aac/test)
 http://r3jx.djtmewibu.com/mx2/index.m3u8
 #EXTINF:-1 group-title="Test/Terrestrial" tvg-id="tss" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Tss_logo.svg/1920px-Tss_logo.svg.png", tss (h264/1080/aac/test)
 http://r3jx.djtmewibu.com/tss/index.m3u8
