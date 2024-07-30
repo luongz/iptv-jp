@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epg.djtmewibu.com/jcom.xml,https://epgshare01.online/epgshare01/epg_ripper_JP2.xml.gz" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="https://epg.djtmewibu.com/jcom.xml,https://epgshare01.online/epgshare01/epg_ripper_JP1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_JP2.xml.gz" tvg-shift=0 m3uautoload=1
 
 
 #EXTINF:-1 group-title="Information" ,We need donations to maintain the host!
@@ -149,7 +149,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29
 #EXTINF:-1 group-title="CS" tvg-id="space_shower" tvg-logo="https://www.lyngsat.com/logo/tv/ss/space_shower_tv.png", Space Shower TV
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26
-#EXTINF:-1 group-title="CS" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/mm/music_japan_tv.png", Music Japan TV
+#EXTINF:-1 group-title="CS" tvg-id="ミュージック・ジャパンTV.jp" tvg-logo="https://www.lyngsat.com/logo/tv/mm/music_japan_tv.png", Music Japan TV
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
 #EXTINF:-1 group-title="CS" tvg-id="kayo_pops" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp.png", Kayo Pops
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13
