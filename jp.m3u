@@ -190,8 +190,6 @@ http://r3jx.djtmewibu.com/mx1/index.m3u8
 http://r3jx.djtmewibu.com/mx2/index.m3u8
 #EXTINF:-1 group-title="Test/Terrestrial" tvg-id="tss" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Tss_logo.svg/1920px-Tss_logo.svg.png", tss (h264/1080/aac/test)
 http://r3jx.djtmewibu.com/tss/index.m3u8
-#EXTINF:-1 group-title="Test/Terrestrial" tvg-id="tv_shizuoka" tvg-logo="https://i.imgur.com/HxBu6ce.png", TV Shizuoka
-https://ythls.armelin.one/channel/UCFIlFvYMWkPE6uDcjdro1UA.m3u8
 #EXTINF:-1 group-title="Test/BS" tvg-id="bs11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png", BS11 (h264/720/aac/test)
 http://r3jx.djtmewibu.com/bs11/index.m3u8
 #EXTINF:-1 group-title="Test/CS" tvg-id="at-x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png", AT-X (h264/720/aac/test)
