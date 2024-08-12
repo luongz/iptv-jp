@@ -190,8 +190,6 @@ http://r3jx.djtmewibu.com/chibatv/index.m3u8
 http://r3jx.djtmewibu.com/mx1/index.m3u8
 #EXTINF:-1 group-title="Test/Terrestrial" tvg-id="TokyoMX2.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX2 (h264/540/aac/test)
 http://r3jx.djtmewibu.com/mx2/index.m3u8
-#EXTINF:-1 group-title="Test/Terrestrial" tvg-id="tvh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Tvh_logo.svg/150px-Tvh_logo.svg.png",TVh (h264/1080/aac/test)
-http://r3jx.djtmewibu.com/tvh/index.m3u8
 #EXTINF:-1 group-title="Test/Terrestrial" tvg-id="tss" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Tss_logo.svg/1920px-Tss_logo.svg.png",tss (h264/1080/aac/test)
 http://r3jx.djtmewibu.com/tss/index.m3u8
 #EXTINF:-1 group-title="Test/BS" tvg-id="bs11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png",BS11 (h264/720/aac/test)
