@@ -185,6 +185,8 @@ http://r3jx.djtmewibu.com/nhkg/index.m3u8
 http://r3jx.djtmewibu.com/tvk/index.m3u8
 #EXTINF:-1 group-title="Test/Terrestrial" tvg-id="teletama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Tvs_logo.svg/1920px-Tvs_logo.svg.png", Teletama-test
 http://r3jx.djtmewibu.com/tvs/index.m3u8
+#EXTINF:-1 group-title="Test/Terrestrial" tvg-id="uxtv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Niigata_UX_logo.svg/200px-Niigata_UX_logo.svg.png", uxtv-test
+http://r3jx.djtmewibu.com/ux21/index.m3u8
 #EXTINF:-1 group-title="Test/Terrestrial" tvg-id="tokyo_mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX1-test
 http://r3jx.djtmewibu.com/mx1/index.m3u8
 #EXTINF:-1 group-title="Test/Terrestrial" tvg-id="TokyoMX2.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX2-test
