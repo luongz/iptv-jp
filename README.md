@@ -1,14 +1,3 @@
-# We need your help
-Spend 10$/month for the project. 
-
-https://ko-fi.com/dinhluong
-
-# QnA
-Q: Can you turn off the subtitles on some channels? (AT-X,...)
-
-A: No. We don't control the source. We can't
-
-
 # Infomation
 Don't copy the ra1n.lol links.
 
