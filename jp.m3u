@@ -1,10 +1,5 @@
 #EXTM3U url-tvg="https://epg.djtmewibu.com/jcom.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=1
 
-
-#EXTINF:-1 group-title="Information" ,We need donations to maintain the host!
-https://google.com
-#EXTINF:-1 group-title="Information" ,Donate: https://ko-fi.com/dinhluong
-http://google.com
 #EXTINF:-1 group-title="Information" ,Test channels are not stable! Report them in Issue if faced any error.
 http://google.com
 
@@ -181,6 +176,8 @@ https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 http://r3jx.djtmewibu.com/nhkg/index.m3u8
 #EXTINF:-1 group-title="Test/Terrestrial" tvg-id="tss" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Tss_logo.svg/1920px-Tss_logo.svg.png",tss-test
 http://r3jx.djtmewibu.com/tss/index.m3u8
+#EXTINF:-1 group-title="Test/Terrestrial" tvg-id="sun_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/SUN-TV_wordmark_2019.png",SUN TV-test
+http://r3jx.djtmewibu.com/suntv/index.m3u8
 #EXTINF:-1 group-title="Test/Terrestrial" tvg-id="tokyo_mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX1-test
 http://r3jx.djtmewibu.com/mx1/index.m3u8
 #EXTINF:-1 group-title="Test/Terrestrial" tvg-id="TokyoMX2.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX2-test
