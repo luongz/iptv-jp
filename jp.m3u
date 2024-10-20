@@ -180,8 +180,6 @@ http://r3jx.djtmewibu.com/tvs/index.m3u8
 http://r3jx.djtmewibu.com/mx1/index.m3u8
 #EXTINF:-1 group-title="Test/Terrestrial" tvg-id="TokyoMX2.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX2-test
 http://r3jx.djtmewibu.com/mx2/index.m3u8
-#EXTINF:-1 group-title="Test/Terrestrial" tvg-id="akt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Akt_logo.svg/1920px-Akt_logo.svg.png", akt-test
-http://r3jx.djtmewibu.com/akt/index.m3u8
 #EXTINF:-1 group-title="Test/Terrestrial" tvg-id="abc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/2560px-Asahi_Broadcasting_Corporation_Logo.svg.png", ABC-test
 http://r3jx.djtmewibu.com/abc/index.m3u8
 #EXTINF:-1 group-title="Test/Terrestrial" tvg-id="kfb" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Fukushima_Kfb_logo.svg/1920px-Fukushima_Kfb_logo.svg.png", KFB-test
