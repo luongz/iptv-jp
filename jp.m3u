@@ -7,7 +7,7 @@ http://google.com
 
 #Tokyo1
 #EXTINF:-1 group-title="Tokyo" tvg-id="nhkg_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G (TEST)
-http://vthanh.utako.moe/1/index.m3u8
+http://tv.utako.moe/nhkg_fucknihontv.apymx/index.m3u8
 #EXTINF:-1 group-title="Tokyo" tvg-id="nhke_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",NHK E (TEST)
 http://tv.utako.moe/nhke_testsignal/index.m3u8
 #EXTINF:-1 group-title="Tokyo" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png",NTV (TEST)
@@ -27,6 +27,8 @@ http://tv.utako.moe/mx2_testsignal/index.m3u8
 #BS1
 #EXTINF:-1 group-title="BS" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",NHK BS
 http://vthanh.utako.moe/8/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="nhk_bsp4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/1920px-NHK_BSP4K_2023_logo.svg.png",NHK BSP4K (TEST)
+http://tv.utako.moe/bsp4k_testsignal/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1920px-Animax.svg.png",Animax
 http://vthanh.utako.moe/9/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="bs11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png",BS11
