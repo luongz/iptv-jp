@@ -6,22 +6,24 @@ http://google.com
 http://google.com
 
 #Tokyo1
-#EXTINF:-1 group-title="Tokyo" tvg-id="nhkg_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G 
+#EXTINF:-1 group-title="Tokyo" tvg-id="nhkg_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G (TEST)
 http://vthanh.utako.moe/1/index.m3u8
-#EXTINF:-1 group-title="Tokyo" tvg-id="nhke_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",NHK E
-http://vthanh.utako.moe/2/index.m3u8
-#EXTINF:-1 group-title="Tokyo" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png",NTV
-http://vthanh.utako.moe/3/index.m3u8
-#EXTINF:-1 group-title="Tokyo" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png",TBS 
-http://vthanh.utako.moe/5/index.m3u8
-#EXTINF:-1 group-title="Tokyo" tvg-id="fuji_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png",Fuji TV
-http://vthanh.utako.moe/7/index.m3u8
-#EXTINF:-1 group-title="Tokyo" tvg-id="tv_asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png",TV Asahi
-http://vthanh.utako.moe/4/index.m3u8
-#EXTINF:-1 group-title="Tokyo" tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png",TV Tokyo 
-http://vthanh.utako.moe/6/index.m3u8
-#EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX1
-http://vthanh.utako.moe/10/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="nhke_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",NHK E (TEST)
+http://tv.utako.moe/nhke_testsignal/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png",NTV (TEST)
+http://tv.utako.moe/ntv_testsignal/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png",TBS (TEST)
+http://tv.utako.moe/tbs_testsignal/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="fuji_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png",Fuji TV (TEST)
+http://tv.utako.moe/fuji_testsignal/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="tv_asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png",TV Asahi (TEST)
+http://tv.utako.moe/asahi_testsignal/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png",TV Tokyo (TEST)
+http://tv.utako.moe/tvtokyo_testsignal/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX1 (TEST)
+http://tv.utako.moe/mx1_testsignal/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="TokyoMX2.jp tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX2 (TEST)
+http://tv.utako.moe/mx2_testsignal/index.m3u8
 #BS1
 #EXTINF:-1 group-title="BS" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",NHK BS
 http://vthanh.utako.moe/8/index.m3u8
@@ -38,7 +40,7 @@ https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 #EXTINF:-1 group-title="Test/Terrestrial" tvg-id="nhkg_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G-test
 http://tv.utako.moe/nhkg_fucknihontv.apymx/index.m3u8
 #EXTINF:-1 group-title="Test/Terrestrial" tvg-id="tokyo_mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX1-test
-http://tv.utako.moe/mx1_testsignal/index.m3u8
+http://tv.utako.moe/mx1/index.m3u8
 #EXTINF:-1 group-title="Test/Terrestrial" tvg-id="TokyoMX2.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX2-test
 http://tv.utako.moe/mx2_testsignal/index.m3u8
 #EXTINF:-1 group-title="Test/BS" tvg-id="bs11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png",BS11-test
