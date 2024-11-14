@@ -1,9 +1,16 @@
+# How to watch?
+Copy the raw playlist link [here](https://raw.githubusercontent.com/luongz/iptv-jp/refs/heads/main/jp.m3u) to your player/IPTV client (VLC, PotPlayer, TiviMate, iSTB,...)
+
 # Infomation
-Don't copy the ra1n.lol links.
 
-You can use it as your personal list by adding the credit.
+- Channels hosted by [vthanh](https://fb.com/vthanhloveanime) and me.
+- You can check the server status [here](http://uptime.utako.moe:3001/status/iptv-jp)
+- Don't copy our link: utako.moe to another repo. (to avoid high network traffic)
+- Please don't open an issues to request a channel. It will be ignored.
+- If you faced any error, please open an issues to report.
 
-Running by [vthanh](https://fb.com/vthanhloveanime) and "not actually" by me.
+# Donation
+We spend 50$/month to maintain the project (Hosting,TV package).
 
-Contact me if you need support : trandinhluong2411@gmail.com (slow responsed) / **[Discord](https://lookup.guru/673447795843399690)**
+https://ko-fi.com/dinhluong
 
