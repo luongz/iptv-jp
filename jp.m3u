@@ -53,6 +53,8 @@ https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 #Test
 #EXTINF:-1 group-title="Test/Terrestrial" tvg-id="nhkg_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G-test
 http://tv.utako.moe/nhkg_fucknihontv.apymx/index.m3u8
+#EXTINF:-1 group-title="Test/Terrestrial" tvg-id="chukyo_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/CHUKYO_TV_logo.svg/1920px-CHUKYO_TV_logo.svg.png",Chukyo TV-test
+http://tv.utako.moe/chukyotv_testsignal/index.m3u8
 #EXTINF:-1 group-title="Test/Terrestrial" tvg-id="tokyo_mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX1-test
 http://tv.utako.moe/mx1/index.m3u8
 #EXTINF:-1 group-title="Test/BS" tvg-id="bs11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png",BS11-test
