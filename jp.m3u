@@ -1,5 +1,7 @@
 #EXTM3U url-tvg="http://epg.utako.moe/jcom.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=1
 
+#EXTINF:-1 group-title="Information" ,We need donations to maintain the server!
+https://google.com
 #EXTINF:-1 group-title="Information" ,Donate: https://ko-fi.com/dinhluong
 http://google.com
 #EXTINF:-1 group-title="Information" ,Test channels are not stable!
