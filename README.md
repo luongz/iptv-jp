@@ -1,5 +1,5 @@
 # How to watch?
-Copy the raw playlist link [here](https://raw.githubusercontent.com/luongz/iptv-jp/refs/heads/main/jp.m3u) to your player/IPTV client (VLC, PotPlayer, TiviMate, iSTB,...)
+Copy the raw playlist link [here](https://raw.githubusercontent.com/jeffmarkham/iptv-jp/refs/heads/main/jp.m3u) to your player/IPTV client (VLC, PotPlayer, TiviMate, iSTB,...)
 
 # Infomation
 
