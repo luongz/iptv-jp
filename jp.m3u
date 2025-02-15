@@ -36,11 +36,11 @@ http://vthanh.utako.moe/BS11/index.m3u8
 http://luong.utako.moe/bsp4k_testsignal/index.m3u8
 #EXTINF:-1 group-title="BS2" tvg-id="bs_ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/2560px-BS4_logo.svg.png",BS NTV-test
 http://luong.utako.moe/bsntva11/index.m3u8
-#EXTINF:-1 group-title="BS2" tvg-id="wprime" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_prime.png",WOWOW Prime-test
+#EXTINF:-1 group-title="BS2" tvg-id="wowow_prime" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_prime.png",WOWOW Prime-test
 https://luong.utako.moe/wprime/index.m3u8
-#EXTINF:-1 group-title="BS2" tvg-id="wcinema" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_cinema.png",WOWOW Cinema-test
+#EXTINF:-1 group-title="BS2" tvg-id="wowow_cinema" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_cinema.png",WOWOW Cinema-test
 https://luong.utako.moe/wcinema/index.m3u8
-#EXTINF:-1 group-title="BS2" tvg-id="wlive" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_live.png",WOWOW Live-test
+#EXTINF:-1 group-title="BS2" tvg-id="wowow_live" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_live.png",WOWOW Live-test
 https://luong.utako.moe/wlive/index.m3u8
 #EXTINF:-1 group-title="BS2" tvg-id="js1" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/69/jsports1_logo.jpg",JSport 1-test
 http://luong.utako.moe/js1/index.m3u8
