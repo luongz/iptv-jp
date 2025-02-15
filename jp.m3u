@@ -1,11 +1,11 @@
 #EXTM3U url-tvg="http://epg.utako.moe/jcom.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=1
 
-#EXTINF:-1 group-title="Information" ,We need donations to maintain the server!
+#EXTINF:-1 group-title="Information" tvg-logo="https://i.imgur.com/2OINFaA.png",We need donations to maintain the server!
 https://google.com
-#EXTINF:-1 group-title="Information" ,Donate: https://ko-fi.com/dinhluong
-http://google.com
-#EXTINF:-1 group-title="Information" ,Test channels are not stable!
-http://google.com
+#EXTINF:-1 group-title="Information" tvg-logo="https://i.imgur.com/vFOBppE.png",Donate: https://ko-fi.com/dinhluong
+https://google.com
+#EXTINF:-1 group-title="Information" tvg-logo="https://i.imgur.com/9HhpV5D.png",Test channels are not stable!
+https://google.com
 
 #Tokyo1
 #EXTINF:-1 group-title="Tokyo" tvg-id="nhkg_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G
@@ -29,13 +29,19 @@ http://vthanh.utako.moe/Tokyo_MX1/index.m3u8
 http://vthanh.utako.moe/NHK_BS/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1920px-Animax.svg.png",Animax
 http://vthanh.utako.moe/Animax/index.m3u8
-#EXTINF:-1 group-title="BS" tvg-id="bs11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png",BS11
+#EXTINF:-1 group-title="BS" tvg-id="BS11.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png",BS11
 http://vthanh.utako.moe/BS11/index.m3u8
 #BS2
 #EXTINF:-1 group-title="BS2" tvg-id="nhk_bsp4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/1920px-NHK_BSP4K_2023_logo.svg.png",NHK BS4K-test
 http://luong.utako.moe/bsp4k_testsignal/index.m3u8
 #EXTINF:-1 group-title="BS2" tvg-id="bs_ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/2560px-BS4_logo.svg.png",BS NTV-test
 http://luong.utako.moe/bsntva11/index.m3u8
+#EXTINF:-1 group-title="BS2" tvg-id="wprime" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_prime.png",WOWOW Prime-test
+https://luong.utako.moe/wprime/index.m3u8
+#EXTINF:-1 group-title="BS2" tvg-id="wcinema" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_cinema.png",WOWOW Cinema-test
+https://luong.utako.moe/wcinema/index.m3u8
+#EXTINF:-1 group-title="BS2" tvg-id="wlive" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_live.png",WOWOW Live-test
+https://luong.utako.moe/wlive/index.m3u8
 #EXTINF:-1 group-title="BS2" tvg-id="js1" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/69/jsports1_logo.jpg",JSport 1-test
 http://luong.utako.moe/js1/index.m3u8
 #EXTINF:-1 group-title="BS2" tvg-id="js2" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/70/jsports2_logo.jpg",JSport 2-test
@@ -54,6 +60,10 @@ https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 http://luong.utako.moe/spaceshower/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="Pigoo.jp" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pigoo-jp.png",Pigoo-test (NSFW)
 http://luong.utako.moe/pigoo/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="tbs_ch1" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-channel-1-jp.png",TBS Channel 1-test
+https://luong.utako.moe/tbsch1/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="tbs_ch2" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-channel-2-jp.png",TBS Channel 2-test
+https://luong.utako.moe/tbsch2/index.m3u8
 #Test
 #EXTINF:-1 group-title="Test/Terrestrial" tvg-id="nhkg_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G (Low Latency test)
 http://luong.utako.moe/nhkg_fucknihontv.apymx/index.m3u8
