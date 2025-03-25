@@ -81,7 +81,7 @@ https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 http://luong.utako.moe/spaceshower/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="Pigoo.jp" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pigoo-jp.png",Pigoo-test (NSFW)
 http://luong.utako.moe/pigoo/index.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="tbs_ch1" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-channel-1-jp.png",TBS Channel 1-test
+#EXTINF:-1 group-title="CS" tvg-id="tbs_ch1" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-channel-1-jp.png",TBS Channel 1
 https://luong.utako.moe/tbsch1/index.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="tbs_ch2" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-channel-2-jp.png",TBS Channel 2-test
+#EXTINF:-1 group-title="CS" tvg-id="tbs_ch2" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-channel-2-jp.png",TBS Channel 2
 https://luong.utako.moe/tbsch2/index.m3u8
