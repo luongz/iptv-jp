@@ -58,11 +58,11 @@ http://luong.utako.moe/bstvtokyo/index.m3u8
 #EXTINF:-1 group-title="BS2" tvg-id="bs_fuji" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/74/BSFuji2008Symbol.svg/1280px-BSFuji2008Symbol.svg.png",BS Fuji
 http://luong.utako.moe/bsfuji/index.m3u8
 #EXTINF:-1 group-title="BS2" tvg-id="wowow_prime" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_prime.png",WOWOW Prime
-https://luong.utako.moe/wprime/index.m3u8
+http://luong.utako.moe/wprime/index.m3u8
 #EXTINF:-1 group-title="BS2" tvg-id="wowow_cinema" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_cinema.png",WOWOW Cinema
-https://luong.utako.moe/wcinema/index.m3u8
+http://luong.utako.moe/wcinema/index.m3u8
 #EXTINF:-1 group-title="BS2" tvg-id="wowow_live" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_live.png",WOWOW Live
-https://luong.utako.moe/wlive/index.m3u8
+http://luong.utako.moe/wlive/index.m3u8
 #EXTINF:-1 group-title="BS2" tvg-id="js1" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/69/jsports1_logo.jpg",JSport 1
 http://luong.utako.moe/js1/index.m3u8
 #EXTINF:-1 group-title="BS2" tvg-id="js2" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/70/jsports2_logo.jpg",JSport 2
@@ -80,6 +80,6 @@ https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="space_shower" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/SPACE_SHOWER_TV.jpg",Space Shower TV-test
 http://luong.utako.moe/spaceshower/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="tbs_ch1" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-channel-1-jp.png",TBS Channel 1
-https://luong.utako.moe/tbsch1/index.m3u8
+http://luong.utako.moe/tbsch1/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="tbs_ch2" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-channel-2-jp.png",TBS Channel 2
-https://luong.utako.moe/tbsch2/index.m3u8
+http://luong.utako.moe/tbsch2/index.m3u8
