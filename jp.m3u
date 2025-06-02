@@ -60,7 +60,7 @@ http://luong.utako.moe/bstbs/index.m3u8
 http://luong.utako.moe/bstvtokyo/index.m3u8
 #EXTINF:-1 group-title="BS2" tvg-id="bs_fuji" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/74/BSFuji2008Symbol.svg/1280px-BSFuji2008Symbol.svg.png",BS Fuji
 http://luong.utako.moe/bsfuji/index.m3u8
-#EXTINF:-1 group-title="BS2" tvg-id="bs_tv_tokyo_4k" tvg-logo="https://www2.myjcom.jp/special/common/channel_logo/bs_tv_tokyo_4k.jpg",BS TV Tokyo 4K
+#EXTINF:-1 group-title="BS2" tvg-id="bs_tv_tokyo_4k" tvg-logo="https://www2.myjcom.jp/special/common/channel_logo/bs_tv_tokyo_4k.jpg",BS TV Tokyo 4K (test)
 http://luong.utako.moe/bstx4k/index.m3u8
 #EXTINF:-1 group-title="BS2" tvg-id="wowow_prime" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_prime.png",WOWOW Prime
 http://luong.utako.moe/wprime/index.m3u8
