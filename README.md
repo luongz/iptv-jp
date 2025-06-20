@@ -16,8 +16,5 @@ We spend 120$/month to maintain the project (Hosting,TV package).
 <a href="https://ko-fi.com/dinhluong">
   <img src="https://cdn.prod.website-files.com/5c14e387dab576fe667689cf/670f5a02fad2b4c413af6d15_support_me_on_kofi_badge_beige.png" width="200"/>
 </a>
-<a href="https://www.buymeacoffee.com/luongz">
-  <img src="https://cdn.buymeacoffee.com/uploads/project_updates/2023/12/08f1cf468ace518fc8cc9e352a2e613f.png" width="200"/>
-</a>
 
 
