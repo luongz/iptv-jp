@@ -85,14 +85,20 @@ http://vthanh.utako.moe/gaora/index.m3u8
 https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="SpaceShowerTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/SPACE_SHOWER_TV.jpg",Space Shower TV
 http://vthanh.utako.moe/spaceshower/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="KayoPops.jp" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp.svg",Kayo Pops
+http://vthanh.utako.moe/kayopops/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="ATX.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png",AT-X
 http://vthanh.utako.moe/AT-X/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="DisneyChannel.jp" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney-channel-us.svg",Disney Channel
 http://vthanh.utako.moe/disneychan/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="CartoonNetwork.jp" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon-network-us.svg",Cartoon Network Japan
 http://vthanh.utako.moe/cartoon_network/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="NitteleGPlus.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv-g-plus-jp.png",Nittele G+
+http://vthanh.utako.moe/ntvgplus/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="FamilyGekijyo.jp" tvg-logo="https://www.lyngsat.com/logo/tv/ff/family_gekijyo_jp.png",Family Gekijyo
 http://vthanh.utako.moe/familygeki/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="MONDOTV.jp" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mondo_tv_jp.png",Mondo TV
+http://vthanh.utako.moe/mondo/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="TBSChannel1.jp" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-channel-1-jp.png",TBS Channel 1
 http://vthanh.utako.moe/tbsch1/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="TBSChannel2.jp" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-channel-2-jp.png",TBS Channel 2
