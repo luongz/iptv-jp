@@ -14,7 +14,7 @@ Before using this service, we kindly ask you to read the following information:
 このサービスではインターネット経由で日本のテレビを視聴できます。  
 ご利用前に、以下の情報をお読みください。
 
-- **リンク（例：`utako.moe`）を他のリポジトリや公共の場所でコピー・公開しないでください。**
+- **リンク（例：`utako.moe`）を他のリポジトリにコピー・公開しないでください。**
   - これは当方のサーバーです。トラフィックが集中しないよう、直接リンクの共有はご遠慮ください。
 　　- [GitHubリポジトリ](https://github.com/luongz/iptv-jp)へのリンクは許可しています。
 - **チャンネル追加のご要望には対応できません。**
