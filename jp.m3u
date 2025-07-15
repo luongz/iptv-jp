@@ -74,6 +74,10 @@ http://vthanh.utako.moe/wprime/index.m3u8
 http://vthanh.utako.moe/wcinema/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="WOWOWLive.jp" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_live.png",WOWOW Live
 http://vthanh.utako.moe/wlive/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="NihonEigaSenmonChannel.jp" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nihon_eiga_senmon.png",Nihon Eiga Senmon
+http://vthanh.utako.moe/nihon_eiga/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="StarBS10.jp" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bs-10-star-channel-jp.png",BS 10 Star Channel
+http://vthanh.utako.moe/bs10_star/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="JSPORTS1.jp" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/69/jsports1_logo.jpg",JSport 1
 http://vthanh.utako.moe/js1/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="JSPORTS2.jp" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/70/jsports2_logo.jpg",JSport 2
@@ -86,6 +90,8 @@ http://vthanh.utako.moe/js4/index.m3u8
 http://vthanh.utako.moe/green/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="GAORASPORTS.jp" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gaora-sports-jp.svg",Gaora Sports
 http://vthanh.utako.moe/gaora/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="SkyA.jp" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-a-jp.svg",Sky A
+http://vthanh.utako.moe/skya/index.m3u8
 #CS1
 #EXTINF:-1 group-title="CS" tvg-id="NHKWorldJapan.jp" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nhk-world-japan-jp.svg",NHK World Japan
 https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
@@ -93,6 +99,8 @@ https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
 http://vthanh.utako.moe/spaceshower/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="KayoPops.jp" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp.svg",Kayo Pops
 http://vthanh.utako.moe/kayopops/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="MTV.jp" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv-us.svg",MTV
+http://vthanh.utako.moe/mtv/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="ATX.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png",AT-X
 http://vthanh.utako.moe/AT-X/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="DisneyChannel.jp" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney-channel-us.svg",Disney Channel
@@ -109,11 +117,19 @@ http://vthanh.utako.moe/mondo/index.m3u8
 http://vthanh.utako.moe/tbsch1/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="TBSChannel2.jp" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-channel-2-jp.png",TBS Channel 2
 http://vthanh.utako.moe/tbsch2/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="TVAsahiChannel1.jp" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-asahi-channel-1-jp.png",TV Asahi Channel 1
+http://vthanh.utako.moe/ex_ch1/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="TVAsahiChannel2.jp" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-asahi-channel-2-jp.png",TV Asahi Channel 2
+http://vthanh.utako.moe/ex_ch2/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="HomeDramaChannel.jp" tvg-logo="https://www.lyngsat.com/logo/tv/hh/home-drama-channelpng-jp.png",Home Drama Channel
+http://vthanh.utako.moe/homedrama/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="ChannelGinga.jp" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel_ginga.png",Channel Ginga
 http://vthanh.utako.moe/gingach/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="CGNTVJapan.jp" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cgn-tv-japan-kr-jp.png",CGNTV Japan
 https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP_1.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="QVC.jp" tvg-logo="https://i.imgur.com/xWSzQ34.png",QVC
 https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="NHKWorldPremium.jp" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nhk-world-premium-jp.png",NHK World Premium
+https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="Pigoo.jp" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pigoo-jp.png",Pigoo-test (NSFW)
 http://vthanh.utako.moe/pigoo/index.m3u8
