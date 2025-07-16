@@ -9,7 +9,7 @@ https://vthanh.utako.moe/test/intro.mp4/index.m3u8
 #EXTINF:-1 group-title="Information" tvg-logo="https://cdn-icons-png.flaticon.com/512/0/49.png", 「utako.moe」リンクURLの他所への転載お断り!!詳細はgithubのREADME
 https://vthanh.utako.moe/test/intro.mp4/index.m3u8
 
-#Tokyo
+
 #EXTINF:-1 group-title="Tokyo" tvg-id="JOAKDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G
 http://vthanh.utako.moe/NHK_G/index.m3u8
 #EXTINF:-1 group-title="Tokyo" tvg-id="JOAKDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G (low latency test)
@@ -32,7 +32,7 @@ http://vthanh.utako.moe/Tokyo_MX1/index.m3u8
 http://vthanh.utako.moe/Tokyo_MX2/index.m3u8
 
 
-#Kansai
+
 #EXTINF:-1 group-title="Kansai" tvg-id="JOOYDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/1920px-Mainichi_Broadcasting_System_logo.svg.png",MBS
 http://vthanh.utako.moe/mbs/index.m3u8
 #EXTINF:-1 group-title="Kansai" tvg-id="JOAYDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/261px-Asahi_Broadcasting_Corporation_Logo.svg.png",ABC
@@ -48,7 +48,7 @@ http://vthanh.utako.moe/kbs/index.m3u8
 #EXTINF:-1 group-title="Kansai" tvg-id="JOUHDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SUN-TV_wordmark_2019.png/180px-SUN-TV_wordmark_2019.png",SUN
 http://vthanh.utako.moe/suntv/index.m3u8
 
-#BS
+
 #EXTINF:-1 group-title="BS" tvg-id="NHKBS.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",NHK BS
 http://vthanh.utako.moe/NHK_BS/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="AnimaxAsia.sg@Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1920px-Animax.svg.png",Animax
@@ -96,7 +96,7 @@ http://vthanh.utako.moe/gaora/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="SkyA.jp" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-a-jp.svg",Sky A
 http://vthanh.utako.moe/skya/index.m3u8
 
-#CS1
+
 #EXTINF:-1 group-title="CS" tvg-id="NHKWorldJapan.jp" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nhk-world-japan-jp.svg",NHK World Japan
 https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="SpaceShowerTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/SPACE_SHOWER_TV.jpg",Space Shower TV
