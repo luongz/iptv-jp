@@ -28,7 +28,8 @@ Copy the raw playlist link from [here](https://raw.githubusercontent.com/luongz/
 
 [こちらのプレイリスト](https://raw.githubusercontent.com/luongz/iptv-jp/refs/heads/main/jp.m3u)または[クリーンリスト（エロ系を除いたNSFWなもの）](https://raw.githubusercontent.com/luongz/iptv-jp/refs/heads/main/jp_clean.m3u)をコピーして、ご使用のプレイヤーやIPTVクライアント（VLC、PotPlayer、TiviMate、iSTBなど）で開いてください。
 
-Or using this website: https://web.utako.moeまたは、この Web サイトを使用します: https://web.utako.moe
+Or using this website: https://web.utako.moe
+または、この Web サイトを使用します: https://web.utako.moe
 
 ---
 
