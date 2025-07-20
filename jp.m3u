@@ -145,3 +145,5 @@ https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="Pigoo.jp" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pigoo-jp.png",Pigoo-test (NSFW)
 https://vthanh.utako.moe/pigoo/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="VParadise.jp" tvg-logo="https://www.lyngsat.com/logo/tv/vv/v_paradise_jp.png",V Paradise (NSFW)
+https://vthanh.utako.moe/v_paradise/index.m3u8
