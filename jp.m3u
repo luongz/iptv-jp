@@ -57,6 +57,8 @@ https://vthanh.utako.moe/Animax/index.m3u8
 https://vthanh.utako.moe/bs10/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="BS11.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png",BS11
 https://vthanh.utako.moe/BS11/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="BS12.jp" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bs-12-jp.png",BS12
+https://vthanh.utako.moe/bs12/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="NHKBSP4K.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/1920px-NHK_BSP4K_2023_logo.svg.png",NHK BS4K
 https://vthanh.utako.moe/bsp4k/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="BSNipponTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/2560px-BS4_logo.svg.png",BS NTV
@@ -125,6 +127,12 @@ https://vthanh.utako.moe/tbsch2/index.m3u8
 https://vthanh.utako.moe/ex_ch1/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="TVAsahiChannel2.jp" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-asahi-channel-2-jp.png",TV Asahi Channel 2
 https://vthanh.utako.moe/ex_ch2/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="FujiTVONE.jp" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fuji_tv_one.png",Fuji TV ONE
+https://vthanh.utako.moe/fuji_one/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="FujiTVONE.jp" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fuji_tv_two.png",Fuji TV TWO
+https://vthanh.utako.moe/fuji_two/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="FujiTVONE.jp" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fuji_tv_next.png",Fuji TV NEXT
+https://vthanh.utako.moe/fuji_next/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="HomeDramaChannel.jp" tvg-logo="https://www.lyngsat.com/logo/tv/hh/home-drama-channelpng-jp.png",Home Drama Channel
 https://vthanh.utako.moe/homedrama/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="ChannelGinga.jp" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel_ginga.png",Channel Ginga
