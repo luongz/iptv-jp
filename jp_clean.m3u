@@ -129,9 +129,9 @@ https://vthanh.utako.moe/ex_ch1/index.m3u8
 https://vthanh.utako.moe/ex_ch2/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="FujiTVONE.jp" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fuji_tv_one.png",Fuji TV ONE
 https://vthanh.utako.moe/fuji_one/index.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="FujiTVONE.jp" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fuji_tv_two.png",Fuji TV TWO
+#EXTINF:-1 group-title="CS" tvg-id="FujiTVTWO.jp" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fuji_tv_two.png",Fuji TV TWO
 https://vthanh.utako.moe/fuji_two/index.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="FujiTVONE.jp" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fuji_tv_next.png",Fuji TV NEXT
+#EXTINF:-1 group-title="CS" tvg-id="FujiTVNEXT.jp" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fuji_tv_next.png",Fuji TV NEXT
 https://vthanh.utako.moe/fuji_next/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="HomeDramaChannel.jp" tvg-logo="https://www.lyngsat.com/logo/tv/hh/home-drama-channelpng-jp.png",Home Drama Channel
 https://vthanh.utako.moe/homedrama/index.m3u8
