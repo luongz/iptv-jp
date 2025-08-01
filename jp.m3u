@@ -109,7 +109,7 @@ https://uk.vthanh.utako.moe/kayopops/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="MTV.jp" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv-us.svg",MTV
 https://uk.vthanh.utako.moe/mtv/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="ATX.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png",AT-X
-http://vthanh.utako.moe/AT-X/index.m3u8
+https://vthanh.utako.moe/AT-X/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="DisneyChannel.jp" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney-channel-us.svg",Disney Channel
 https://uk.vthanh.utako.moe/disneychan/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="CartoonNetwork.jp" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon-network-us.svg",Cartoon Network Japan
