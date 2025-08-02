@@ -46,6 +46,9 @@ https://vthanh.utako.moe/kbs/index.m3u8
 #EXTINF:-1 group-title="Kansai" tvg-id="JOUHDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SUN-TV_wordmark_2019.png/180px-SUN-TV_wordmark_2019.png",SUN
 https://vthanh.utako.moe/suntv/index.m3u8
 
+#EXTINF:-1 group-title="Nagano" tvg-id="sbc_nagano" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Sbc_logo.svg/1920px-Sbc_logo.svg.png",SBC (test)
+https://vthanh.utako.moe/sbc_test/index.m3u8
+
 
 #EXTINF:-1 group-title="BS" tvg-id="NHKBS.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",NHK BS
 https://vthanh.utako.moe/NHK_BS/index.m3u8
@@ -160,4 +163,5 @@ https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3
 https://uk.vthanh.utako.moe/pigoo/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="VParadise.jp" tvg-logo="https://www.lyngsat.com/logo/tv/vv/v_paradise_jp.png",V Paradise (NSFW)
 https://uk.vthanh.utako.moe/v_paradise/index.m3u8
+
 
