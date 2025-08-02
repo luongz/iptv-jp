@@ -80,8 +80,6 @@ https://vthanh.utako.moe/wprime/index.m3u8
 https://vthanh.utako.moe/wcinema/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="wowow_live" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_live.png",WOWOW Live
 https://vthanh.utako.moe/wlive/index.m3u8
-#EXTINF:-1 group-title="BS" tvg-id="nihon_eiga" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nihon_eiga_senmon.png",Nihon Eiga Senmon
-https://vthanh.utako.moe/nihon_eiga/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="star_bs10" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bs-10-star-channel-jp.png",BS 10 Star Channel
 https://vthanh.utako.moe/bs10_star/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="js1" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/69/jsports1_logo.jpg",JSport 1
@@ -102,6 +100,8 @@ https://uk.vthanh.utako.moe/skya/index.m3u8
 
 #EXTINF:-1 group-title="CS" tvg-id="NHKWorldJapan.jp" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nhk-world-japan-jp.svg",NHK World Japan
 https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="nihon_eiga" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nihon_eiga_senmon.png",Nihon Eiga Senmon
+https://uk.vthanh.utako.moe/nihon_eiga/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="space_shower_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/SPACE_SHOWER_TV.jpg",Space Shower TV
 https://uk.vthanh.utako.moe/spaceshower/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="kayo_pops" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp.svg",Kayo Pops
@@ -162,6 +162,3 @@ https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3
 https://uk.vthanh.utako.moe/pigoo/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="v_paradise" tvg-logo="https://www.lyngsat.com/logo/tv/vv/v_paradise_jp.png",V Paradise (NSFW)
 https://uk.vthanh.utako.moe/v_paradise/index.m3u8
-
-
-
