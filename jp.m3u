@@ -30,6 +30,24 @@ https://vn.utako.moe/Tokyo_MX1/index.m3u8
 https://vn.utako.moe/Tokyo_MX2/index.m3u8
 
 
+#EXTINF:-1 group-title="Tokyo" tvg-id="nhk_g_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G (US server)
+https://us.utako.moe/NHK_G/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="nhk_e_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",NHK E (US server)
+https://us.utako.moe/NHK_E/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png",NTV (US server)
+https://us.utako.moe/Nippon_TV/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png",TBS (US server)
+https://us.utako.moe/TBS/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="fuji_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png",Fuji TV (US server)
+https://us.utako.moe/Fuji_TV/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="tv_asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png",TV Asahi (US server)
+https://us.utako.moe/TV_Asahi/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png",TV Tokyo (US server)
+https://us.utako.moe/TV_Tokyo/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX1 (US server)
+https://us.utako.moe/Tokyo_MX1/index.m3u8
+
+
 #EXTINF:-1 group-title="Kansai" tvg-id="mbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/1920px-Mainichi_Broadcasting_System_logo.svg.png",MBS
 https://vn.utako.moe/mbs/index.m3u8
 #EXTINF:-1 group-title="Kansai" tvg-id="abc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/261px-Asahi_Broadcasting_Corporation_Logo.svg.png",ABC
@@ -46,8 +64,18 @@ https://vn.utako.moe/kbs/index.m3u8
 https://vn.utako.moe/suntv/index.m3u8
 
 
-#EXTINF:-1 group-title="Nagano" tvg-id="sbc_nagano" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Sbc_logo.svg/1920px-Sbc_logo.svg.png",SBC (test)
-https://vn.utako.moe/sbc_test/index.m3u8
+#EXTINF:-1 group-title="Kansai" tvg-id="mbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/1920px-Mainichi_Broadcasting_System_logo.svg.png",MBS (US server)
+https://us.utako.moe/mbs/index.m3u8
+#EXTINF:-1 group-title="Kansai" tvg-id="abc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/261px-Asahi_Broadcasting_Corporation_Logo.svg.png",ABC (US server)
+https://us.utako.moe/abc/index.m3u8
+#EXTINF:-1 group-title="Kansai" tvg-id="tv_osaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Tv_osaka_logo.svg/178px-Tv_osaka_logo.svg.png",TV Osaka (US server)
+https://us.utako.moe/tvo/index.m3u8
+#EXTINF:-1 group-title="Kansai" tvg-id="kansai_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/200px-Ktv_logo.svg.png",Kansai TV (US server)
+https://us.utako.moe/kansaitv/index.m3u8
+#EXTINF:-1 group-title="Kansai" tvg-id="yomiuri_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/150px-Yomiuri_Telecasting_Corporation_Logo.svg.png",ytv (US server)
+https://us.utako.moe/ytv/index.m3u8
+#EXTINF:-1 group-title="Kansai" tvg-id="kbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kbs_logo.svg/250px-Kbs_logo.svg.png",KBS (US server)
+https://us.utako.moe/kbs/index.m3u8
 
 
 #EXTINF:-1 group-title="BS" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",NHK BS
@@ -162,3 +190,4 @@ https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3
 https://de.utako.moe/pigoo/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="v_paradise" tvg-logo="https://www.lyngsat.com/logo/tv/vv/v_paradise_jp.png",V Paradise (NSFW)
 https://de.utako.moe/v_paradise/index.m3u8
+
