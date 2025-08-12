@@ -87,66 +87,63 @@ https://mt01.utako.moe/green/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="gaora" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gaora-sports-jp.svg",Gaora Sports
 https://mt01.utako.moe/gaora/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="sky_a" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-a-jp.svg",Sky A
-https://mt01.utako.moe/skya/index.m3u8
+https://mt02.utako.moe/skya/index.m3u8
 
-
-#EXTINF:-1 group-title="CS" tvg-id="animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1920px-Animax.svg.png",Animax
-https://vn.utako.moe/Animax/index.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="nihon_eiga" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nihon_eiga_senmon.png",Nihon Eiga Senmon
-https://vn.utako.moe/nihon_eiga/index.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="space_shower_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/SPACE_SHOWER_TV.jpg",Space Shower TV
-https://vn.utako.moe/spaceshower/index.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="mtv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv-us.svg",MTV
-https://vn.utako.moe/mtv/index.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="kayo_pops" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp.svg",Kayo Pops
-https://vn.utako.moe/kayopops/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="at_x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png",AT-X
-https://vn.utako.moe/AT-X/index.m3u8
+https://mt01.utako.moe/AT-X/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1920px-Animax.svg.png",Animax
+https://mt02.utako.moe/Animax/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="nihon_eiga" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nihon_eiga_senmon.png",Nihon Eiga Senmon
+https://mt02.utako.moe/nihon_eiga/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="space_shower_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/SPACE_SHOWER_TV.jpg",Space Shower TV
+https://mt02.utako.moe/spaceshower/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="mtv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv-us.svg",MTV
+https://mt02.utako.moe/mtv/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="kayo_pops" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp.svg",Kayo Pops
+https://mt02.utako.moe/kayopops/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="disney_channel" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney-channel-us.svg",Disney Channel
-https://vn.utako.moe/disneychan/index.m3u8
+https://mt02.utako.moe/disneychan/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="cartoon_network" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon-network-us.svg",Cartoon Network Japan
-https://vn.utako.moe/cartoon_network/index.m3u8
+https://mt02.utako.moe/cartoon_network/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="ntv_g_tasu" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv-g-plus-jp.png",Nittele G+
-https://vn.utako.moe/ntvgplus/index.m3u8
+https://mt02.utako.moe/ntvgplus/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="family_gekijo" tvg-logo="https://www.lyngsat.com/logo/tv/ff/family_gekijyo_jp.png",Family Gekijyo
-https://vn.utako.moe/familygeki/index.m3u8
+https://mt02.utako.moe/familygeki/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="mondo_tv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mondo_tv_jp.png",Mondo TV
-https://vn.utako.moe/mondo/index.m3u8
+https://mt02.utako.moe/mondo/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="tbs_channel_1" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-channel-1-jp.png",TBS Channel 1
-https://vn.utako.moe/tbsch1/index.m3u8
+https://mt02.utako.moe/tbsch1/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="tbs_channel_2" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-channel-2-jp.png",TBS Channel 2
-https://vn.utako.moe/tbsch2/index.m3u8
+https://mt02.utako.moe/tbsch2/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="tv_asahi_channel_1" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-asahi-channel-1-jp.png",TV Asahi Channel 1
-https://vn.utako.moe/ex_ch1/index.m3u8
+https://mt02.utako.moe/ex_ch1/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="tv_asahi_channel_2" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-asahi-channel-2-jp.png",TV Asahi Channel 2
-https://vn.utako.moe/ex_ch2/index.m3u8
+https://mt02.utako.moe/ex_ch2/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="fuji_tv_one" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fuji_tv_one.png",Fuji TV ONE
-https://vn.utako.moe/fuji_one/index.m3u8
+https://mt02.utako.moe/fuji_one/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="fuji_tv_two" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fuji_tv_two.png",Fuji TV TWO
-https://vn.utako.moe/fuji_two/index.m3u8
+https://mt02.utako.moe/fuji_two/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="fuji_tv_next" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fuji_tv_next.png",Fuji TV NEXT
-https://vn.utako.moe/fuji_next/index.m3u8
+https://mt02.utako.moe/fuji_next/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="neco" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel-neco-jp.png",Neco Channel
-https://vn.utako.moe/neco/index.m3u8
+https://mt02.utako.moe/neco/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="dlife" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dlife-jp.png",Dlife
-https://vn.utako.moe/dlife/index.m3u8
+https://mt02.utako.moe/dlife/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="toei_channel" tvg-logo="https://www.lyngsat.com/logo/tv/tt/toei_channel.png",Toei Channel
-https://vn.utako.moe/toei/index.m3u8
+https://mt02.utako.moe/toei/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="fighting_tv" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fighting-tv-samurai-jp.png",Fighting TV Samurai
-https://vn.utako.moe/fighting_tv/index.m3u8
+https://mt02.utako.moe/fighting_tv/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="entermei_tele" tvg-logo="https://www.lyngsat.com/logo/tv/ee/entermei-telepng-jp.png",Entermei Tele
-https://vn.utako.moe/entermei_tele/index.m3u8
+https://mt02.utako.moe/entermei_tele/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="sports_live_plus" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sports-live-plus-jp.png",Sport Live Plus
-https://vn.utako.moe/sport_live_plus/index.m3u8
+https://mt02.utako.moe/sport_live_plus/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="home_drama" tvg-logo="https://www.lyngsat.com/logo/tv/hh/home-drama-channelpng-jp.png",Home Drama Channel
-https://vn.utako.moe/homedrama/index.m3u8
+https://mt02.utako.moe/homedrama/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="channel_ginga" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel_ginga.png",Channel Ginga
-https://vn.utako.moe/gingach/index.m3u8
+https://mt02.utako.moe/gingach/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="tabi_channel" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tabi_channel.png",Tabi Channel
-https://vn.utako.moe/tabi/index.m3u8
+https://mt02.utako.moe/tabi/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="pigoo" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pigoo-jp.png",Pigoo (NSFW)
-https://vn.utako.moe/pigoo/index.m3u8
+https://mt02.utako.moe/pigoo/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="v_paradise" tvg-logo="https://www.lyngsat.com/logo/tv/vv/v_paradise_jp.png",V Paradise (NSFW)
-https://vn.utako.moe/v_paradise/index.m3u8
-
-
+https://mt02.utako.moe/v_paradise/index.m3u8
