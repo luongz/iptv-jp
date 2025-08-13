@@ -87,7 +87,7 @@ https://mt01.utako.moe/green/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1920px-Animax.svg.png",Animax
 https://mt02.utako.moe/Animax/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="nihon_eiga" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nihon_eiga_senmon.png",Nihon Eiga Senmon
-https://mt02.utako.moe/nihon_eiga/index.m3u8
+https://mt02.utako.moe/nihoneiga/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="sky_a" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-a-jp.svg",Sky A
 https://mt02.utako.moe/skya/index.m3u8
 
@@ -147,4 +147,5 @@ https://mt02.utako.moe/tabi/index.m3u8
 https://mt02.utako.moe/pigoo/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="v_paradise" tvg-logo="https://www.lyngsat.com/logo/tv/vv/v_paradise_jp.png",V Paradise (NSFW)
 https://mt02.utako.moe/v_paradise/index.m3u8
+
 
