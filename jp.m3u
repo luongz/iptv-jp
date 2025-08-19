@@ -148,4 +148,38 @@ https://ca01.utako.moe/pigoo/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="v_paradise" tvg-logo="https://www.lyngsat.com/logo/tv/vv/v_paradise_jp.png",V Paradise (NSFW)
 https://ca01.utako.moe/v_paradise/index.m3u8
 
+#EXTINF:-1 group-title="Tokyo 171" tvg-id="nhk_g_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G (171)
+http://freejptv.com/171.php?id=nhk_g_tokyo
+#EXTINF:-1 group-title="Tokyo 171" tvg-id="nhk_e_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",NHK E (171)
+http://freejptv.com/171.php?id=nhk_e_tokyo
+#EXTINF:-1 group-title="Tokyo 171" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png",NTV (171)
+http://freejptv.com/171.php?id=ntv
+#EXTINF:-1 group-title="Tokyo 171" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png",TBS (171)
+http://freejptv.com/171.php?id=tbs
+#EXTINF:-1 group-title="Tokyo 171" tvg-id="fuji_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png",Fuji TV (171)
+http://freejptv.com/171.php?id=fuji_tv
+#EXTINF:-1 group-title="Tokyo 171" tvg-id="tv_asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png",TV Asahi (171)
+http://freejptv.com/171.php?id=tv_asahi
+#EXTINF:-1 group-title="Tokyo 171" tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png",TV Tokyo (171)
+http://freejptv.com/171.php?id=tv_tokyo
+#EXTINF:-1 group-title="Tokyo 171" tvg-id="tokyo_mx_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX1 (171)
+http://freejptv.com/171.php?id=tokyo_mx1
+#EXTINF:-1 group-title="Tokyo 171" tvg-id="tokyo_mx_2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX2 (171)
+http://freejptv.com/171.php?id=tokyo_mx2
 
+#EXTINF:-1 group-title="Kansai 171" tvg-id="nhk_g_kyoto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G Kyoto (171)
+http://freejptv.com/171.php?id=nhk_g_kyoto
+#EXTINF:-1 group-title="Kansai 171" tvg-id="nhk_e_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",NHK E Osaka (171)
+http://freejptv.com/171.php?id=nhk_e_osaka
+#EXTINF:-1 group-title="Kansai 171" tvg-id="mbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/1920px-Mainichi_Broadcasting_System_logo.svg.png",MBS (171)
+http://freejptv.com/171.php?id=mbs
+#EXTINF:-1 group-title="Kansai 171" tvg-id="abc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/261px-Asahi_Broadcasting_Corporation_Logo.svg.png",ABC (171)
+http://freejptv.com/171.php?id=abc
+#EXTINF:-1 group-title="Kansai 171" tvg-id="tv_osaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Tv_osaka_logo.svg/178px-Tv_osaka_logo.svg.png",TV Osaka (171)
+http://freejptv.com/171.php?id=tv_osaka
+#EXTINF:-1 group-title="Kansai 171" tvg-id="kansai_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/200px-Ktv_logo.svg.png",Kansai TV (171)
+http://freejptv.com/171.php?id=kansai
+#EXTINF:-1 group-title="Kansai 171" tvg-id="yomiuri_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/150px-Yomiuri_Telecasting_Corporation_Logo.svg.png",ytv (171)
+http://freejptv.com/171.php?id=yomiuri_tv
+#EXTINF:-1 group-title="Kansai 171" tvg-id="kbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kbs_logo.svg/250px-Kbs_logo.svg.png",KBS (171)
+http://freejptv.com/171.php?id=kbs
