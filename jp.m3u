@@ -64,8 +64,6 @@ https://mt01.utako.moe/BS11/index.m3u8
 https://mt01.utako.moe/bs12/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="nhk_bsp_4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/1920px-NHK_BSP4K_2023_logo.svg.png",NHK BS4K
 https://mt01.utako.moe/bsp4k/index.m3u8
-#EXTINF:-1 group-title="BS" tvg-id="bs_tv_tokyo_4k" tvg-logo="https://www2.myjcom.jp/special/common/channel_logo/bs_tv_tokyo_4k.jpg",BS TV Tokyo 4K (test)
-https://mt01.utako.moe/bstx4k/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="wowow_prime" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_prime.png",WOWOW Prime
 https://mt01.utako.moe/wprime/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="wowow_cinema" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_cinema.png",WOWOW Cinema
@@ -90,8 +88,7 @@ https://ca01.utako.moe/Animax/index.m3u8
 https://ca01.utako.moe/nihoneiga/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="sky_a" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-a-jp.svg",Sky A
 https://ca01.utako.moe/skya/index.m3u8
-#EXTINF:-1 group-title="BS" tvg-id="jcom_bs" tvg-logo="https://www.shochiku-tokyu.co.jp/common/img/common/logo-jcombs.png",JCOM BS
-https://mt01.utako.moe/jcom_bs/index.m3u8
+
 
 #EXTINF:-1 group-title="CS" tvg-id="gaora" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gaora-sports-jp.svg",Gaora Sports
 https://mt01.utako.moe/gaora/index.m3u8
@@ -149,5 +146,6 @@ https://ca01.utako.moe/tabi/index.m3u8
 https://ca01.utako.moe/pigoo/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="v_paradise" tvg-logo="https://www.lyngsat.com/logo/tv/vv/v_paradise_jp.png",V Paradise (NSFW)
 https://ca01.utako.moe/v_paradise/index.m3u8
+
 
 
