@@ -57,6 +57,12 @@ PayPal経由で寄付することができます
 
 [![Donate on PayPal](https://villageatithaca.org/wp-content/uploads/2020/03/paypal-donate-button.png)](http://paypal.me/Tieptran1970)
 
+or you can donate via Ko-fi (PayPal payments, cards,..)
+
+Ko-fi経由で寄付することができます
+
+[![Donate on Ko-Fi](https://cdn.prod.website-files.com/5c14e387dab576fe667689cf/670f5a02fad2b4c413af6d15_support_me_on_kofi_badge_beige.png)](https://ko-fi.com/vietquat)
+
 
 ---
 
