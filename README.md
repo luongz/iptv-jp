@@ -62,9 +62,9 @@ PayPal経由で寄付することができます
 
 Via crypto (recommended)
 
-BTC: 
+BTC: bc1q8d4t4p077ae9uzl643hwc4m4l3cw4n3y2gqams
 
-ETH: 0xbc02B78b96fcCE0548302272E40fe16716483E27
+BNB/ETH: 0xbc02B78b96fcCE0548302272E40fe16716483E27
 
 TRX: TFnjRJCYY4rWj2KmUJra4bMEHUsLG3uW39
 
