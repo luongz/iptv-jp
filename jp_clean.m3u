@@ -20,7 +20,7 @@ https://mt01.utako.moe/Nippon_TV/index.m3u8
 https://mt01.utako.moe/TBS/index.m3u8
 #EXTINF:-1 group-title="Tokyo" tvg-id="fuji_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png",Fuji TV
 https://mt01.utako.moe/Fuji_TV/index.m3u8
-#EXTINF:-1 group-title="Tokyo" tvg-id="tv_asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png",TV Asahi (NSFW)
+#EXTINF:-1 group-title="Tokyo" tvg-id="tv_asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png",TV Asahi
 https://mt01.utako.moe/TV_Asahi/index.m3u8
 #EXTINF:-1 group-title="Tokyo" tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png",TV Tokyo
 https://mt01.utako.moe/TV_Tokyo/index.m3u8
@@ -270,7 +270,7 @@ https://epg.freejptv.com/ph.php?&isp=1&id=cs18
 #EXTINF:-1 group-title="CS" tvg-id="lalatv" tvg-logo="https://www.lyngsat.com/logo/tv/ll/lala_tv.png", LaLa TV (Primehome)
 https://epg.freejptv.com/ph.php?&isp=1&id=cs19
 #EXTINF:-1 group-title="CS" tvg-id="skystage" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-154-400x400.png", Takarazuka Sky Stage (Primehome)
-https://epg.freejptv.com/ph.php?&isp=1&id=cs28
+https://epg.freejptv.com/ph.php?&isp=2&id=cs28
 #EXTINF:-1 group-title="CS" tvg-id="kids_station" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kidsstation.png", Kids Staton TV (Primehome)
 https://epg.freejptv.com/ph.php?&isp=1&id=cs07
 #EXTINF:-1 group-title="CS" tvg-id="cartoon_network" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cartoon-network-us.svg", Cartoon Network (Primehome)
@@ -291,3 +291,4 @@ https://epg.freejptv.com/ph.php?&isp=1&id=cs16
 https://epg.freejptv.com/ph.php?&isp=1&id=cs15
 #EXTINF:-1 group-title="CS" tvg-id="tbs_news" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn-j-us.svg", TBS News (Primehome)
 https://epg.freejptv.com/ph.php?&isp=1&id=cs11
+
