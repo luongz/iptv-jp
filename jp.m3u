@@ -187,6 +187,8 @@ https://mt01.utako.moe/AT-X/index.m3u8
 https://ca01.utako.moe/spaceshower/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="mtv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv-us.svg",MTV
 https://ca01.utako.moe/mtv/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="mnet" tvg-logo="https://www.lyngsat.com/logo/tv/mm/m_net_jp.png",Mnet
+https://ca01.utako.moe/mnet/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="kayo_pops" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp.svg",Kayo Pops
 https://ca01.utako.moe/kayopops/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="disney_channel" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney-channel-us.svg",Disney Channel
@@ -296,5 +298,6 @@ https://proxy.utako.moe/ph.php?&isp=1&id=cs16
 https://proxy.utako.moe/ph.php?&isp=1&id=cs15
 #EXTINF:-1 group-title="CS" tvg-id="tbs_news" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-news-jp.png", TBS News (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=cs11
+
 
 
