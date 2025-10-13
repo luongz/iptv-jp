@@ -7,23 +7,22 @@ assignees: luongz
 
 ---
 
-### KINDLY PLEASE DON'T REPORT LIKE eg. REQUEST TO ADD THE CHANNELS, BUFFERING ISSUE and REQUEST TO UPSCALE RESOLUTION. IT WILL BE IGNORED IMMEDIATILY
+# KINDLY PLEASE DON'T REPORT LIKE eg. REQUEST TO ADD THE CHANNELS, BUFFERING ISSUE and REQUEST TO UPSCALE RESOLUTION. IT WILL BE IGNORED IMMEDIATILY
 
-**Channel that you faced error **
-The channel that you faced error.
+**Channel that you faced error** :
 
-**Describe the error/bug **
-A clear and concise description of what the bug is.
+
+**Describe the error/bug** :
+
 
 **Screenshots**
-If applicable, add screenshots to help explain your problem.
 
-**Desktop (please complete the following information):**
+
+**Infomation about environment:**
  - OS: [e.g. iOS]
  - Browser [e.g. chrome, safari]
  - Version [e.g. 22]
  - Player [eg. TiviMate, VLC]
- - Device infomation [eg. iPhone]
+ - Device [eg. iPhone]
 
-**Additional context**
-Add any other context about the problem here.
+**Additional context** :
